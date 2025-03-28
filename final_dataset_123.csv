@@ -1,0 +1,1708 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production,temperature,humidity,wind_speed ,Rainfall,soil_type
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Cotton(lint),7300,9400,26.93,59.81,4.61,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Cotton(lint),14000,12900,27.08,62,4.22,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Cotton(lint),9453,10510,26.24,60.44,4.72,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Cotton(lint),12025,16128,26.53,59.56,4.58,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Cotton(lint),8552,9055,26.6,60.12,4.67,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Cotton(lint),7638,7144,27.09,57.94,4.85,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Cotton(lint),4212,4262,27.66,55.81,4.77,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2004,Kharif     ,Cotton(lint),8933,7041,26.29,61.38,4.62,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2005,Kharif     ,Cotton(lint),3295,3450,26.21,65,4.14,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2006,Kharif     ,Cotton(lint),1506,1940,26.37,62.5,4.59,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2007,Kharif     ,Cotton(lint),3000,2000,26.01,64.19,4.28,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2008,Kharif     ,Cotton(lint),1611,1241,25.95,64,4.33,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2009,Kharif     ,Cotton(lint),2063,1226,26.65,61.25,4.67,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2010,Kharif     ,Cotton(lint),4338,2977,26.58,65.06,4.3,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2011,Kharif     ,Cotton(lint),19299,12069,26.4,60.75,4.73,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2012,Kharif     ,Cotton(lint),27566,35511,26.9,57.88,4.81,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2013,Kharif     ,Cotton(lint),37661,77316,26.51,61.44,4.79,520,mixed red and black
+Andhra Pradesh,ANANTAPUR,2014,Kharif     ,Cotton(lint),73734,103779,26.65,59.94,4.59,520,mixed red and black
+Andhra Pradesh,CHITTOOR,1999,Kharif     ,Cotton(lint),2,2,26.69,69.12,3.48,946,red
+Andhra Pradesh,CHITTOOR,2000,Kharif     ,Cotton(lint),19,25,26.83,69.75,3.53,946,red
+Andhra Pradesh,CHITTOOR,2001,Kharif     ,Cotton(lint),2,2,27.19,68.62,3.6,946,red
+Andhra Pradesh,CHITTOOR,2005,Kharif     ,Cotton(lint),4,4,26.78,72.81,3.41,946,red
+Andhra Pradesh,CHITTOOR,2008,Kharif     ,Cotton(lint),24,37,26.46,72.25,3.18,946,red
+Andhra Pradesh,CHITTOOR,2009,Kharif     ,Cotton(lint),66,94,27.16,69,3.48,946,red
+Andhra Pradesh,CHITTOOR,2010,Kharif     ,Cotton(lint),235,98,26.99,73,3.32,946,red
+Andhra Pradesh,CHITTOOR,2011,Kharif     ,Cotton(lint),400,65,26.68,70.5,3.46,946,red
+Andhra Pradesh,CHITTOOR,2012,Kharif     ,Cotton(lint),317,405,27.25,67.94,3.41,946,red
+Andhra Pradesh,CHITTOOR,2013,Kharif     ,Cotton(lint),157,391,26.96,69.88,3.62,946,red
+Andhra Pradesh,CHITTOOR,2014,Kharif     ,Cotton(lint),308,723,27.26,67.44,3.58,946,red
+Andhra Pradesh,EAST GODAVARI,1997,Kharif     ,Cotton(lint),9800,23400,25.9,72.12,2.56,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,1998,Kharif     ,Cotton(lint),7900,6300,26.02,75.06,2.57,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,1999,Kharif     ,Cotton(lint),4410,7289,25.42,72.12,2.59,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2000,Kharif     ,Cotton(lint),5580,10536,25.82,70.12,2.68,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2001,Kharif     ,Cotton(lint),6289,16425,25.83,71.19,2.58,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2002,Kharif     ,Cotton(lint),4555,8092,26.37,68.12,2.72,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2003,Kharif     ,Cotton(lint),8969,26696,26.03,72,2.72,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2004,Kharif     ,Cotton(lint),16022,45616,25.25,74.31,2.54,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2005,Kharif     ,Cotton(lint),13939,10167,25.81,73.44,2.63,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2006,Kharif     ,Cotton(lint),9034,19397,25.39,74.19,2.41,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2007,Kharif     ,Cotton(lint),8000,18000,25.49,74,2.56,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2008,Kharif     ,Cotton(lint),7432,14165,25.5,73.31,2.41,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2009,Kharif     ,Cotton(lint),6845,19649,26.39,69.19,2.44,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2010,Kharif     ,Cotton(lint),12112,21517,25.88,75.25,2.58,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2011,Kharif     ,Cotton(lint),13150,19880,25.32,73.25,2.46,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2012,Kharif     ,Cotton(lint),16845,32501,25.7,72.62,2.52,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2013,Kharif     ,Cotton(lint),21781,24728,25.43,74.81,2.73,1151.1,alluvial
+Andhra Pradesh,EAST GODAVARI,2014,Kharif     ,Cotton(lint),22433,47597,25.76,70.75,2.55,1151.1,alluvial
+Andhra Pradesh,KADAPA,1997,Kharif     ,Cotton(lint),13400,17400,27.69,63,4.2,809.87,red
+Andhra Pradesh,KADAPA,1998,Kharif     ,Cotton(lint),24800,22900,27.86,65.25,3.88,835.87,red
+Andhra Pradesh,KADAPA,1999,Kharif     ,Cotton(lint),25038,27836,27.48,61.12,4.21,454.8,red
+Andhra Pradesh,KADAPA,2000,Kharif     ,Cotton(lint),30687,41157,27.4,63.56,4.12,823.69,red
+Andhra Pradesh,KADAPA,2001,Kharif     ,Cotton(lint),21579,23356,27.73,62.12,4.29,1010.57,red
+Andhra Pradesh,KADAPA,2002,Kharif     ,Cotton(lint),11500,12921,27.73,62.44,4.32,557.24,red
+Andhra Pradesh,KADAPA,2003,Kharif     ,Cotton(lint),15784,12999,28.33,59.81,4.19,721.59,red
+Andhra Pradesh,KADAPA,2004,Kharif     ,Cotton(lint),27717,15815,27.09,64.88,4.16,686.98,red
+Andhra Pradesh,KADAPA,2005,Kharif     ,Cotton(lint),14578,11834,27.29,66.62,3.83,1065.41,red
+Andhra Pradesh,KADAPA,2006,Kharif     ,Cotton(lint),7940,5651,27.27,64.75,4.03,572.26,red
+Andhra Pradesh,KADAPA,2007,Kharif     ,Cotton(lint),9000,14000,26.87,67.19,3.85,1209.92,red
+Andhra Pradesh,KADAPA,2008,Kharif     ,Cotton(lint),11467,11669,27.13,65.12,3.89,885.06,red
+Andhra Pradesh,KADAPA,2009,Kharif     ,Cotton(lint),12614,17882,27.8,62.31,4.27,816.01,red
+Andhra Pradesh,KADAPA,2010,Kharif     ,Cotton(lint),17011,40822,27.57,66.94,3.88,1060.7,red
+Andhra Pradesh,KADAPA,2011,Kharif     ,Cotton(lint),30845,48314,27.34,63.62,4.2,771.31,red
+Andhra Pradesh,KADAPA,2012,Kharif     ,Cotton(lint),28546,58771,28.02,59.44,4.3,659.78,red
+Andhra Pradesh,KADAPA,2013,Kharif     ,Cotton(lint),34119,50175,27.47,63.94,4.31,700.1,red
+Andhra Pradesh,KADAPA,2014,Kharif     ,Cotton(lint),34346,57550,27.79,61.06,4.22,475.78,red
+Andhra Pradesh,KRISHNA,1997,Kharif     ,Cotton(lint),26400,63300,28.34,71.06,4.17,1048.6,alluvial
+Andhra Pradesh,KRISHNA,1998,Kharif     ,Cotton(lint),41300,32500,28.41,72.75,4.08,1048.6,alluvial
+Andhra Pradesh,KRISHNA,1999,Kharif     ,Cotton(lint),31696,52392,28.3,68.25,4.15,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2000,Kharif     ,Cotton(lint),29437,64069,27.89,72.56,4.04,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2001,Kharif     ,Cotton(lint),35374,77615,28.33,70.06,4.04,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2002,Kharif     ,Cotton(lint),31367,57937,28.55,69,4.18,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2003,Kharif     ,Cotton(lint),35436,104849,28.4,70.56,4.16,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2004,Kharif     ,Cotton(lint),47915,137544,28,70.81,4.09,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2005,Kharif     ,Cotton(lint),45825,88415,28.1,72.69,4.12,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2006,Kharif     ,Cotton(lint),31586,85282,28.02,71.75,3.87,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2007,Kharif     ,Cotton(lint),35000,115000,27.67,73.5,4.01,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2008,Kharif     ,Cotton(lint),36669,131459,28.06,71.62,3.78,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2009,Kharif     ,Cotton(lint),46902,140706,28.55,69.69,3.93,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2010,Kharif     ,Cotton(lint),51963,117681,28.01,75.19,4.03,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2011,Kharif     ,Cotton(lint),59845,122506,28.28,69.25,3.98,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2012,Kharif     ,Cotton(lint),64514,208722,28.14,71,3.99,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2013,Kharif     ,Cotton(lint),59304,224658,27.81,72.5,4.11,1048.6,alluvial
+Andhra Pradesh,KRISHNA,2014,Kharif     ,Cotton(lint),55571,261650,28.34,68.69,3.99,1048.6,alluvial
+Andhra Pradesh,KURNOOL,1997,Kharif     ,Cotton(lint),90400,116900,27.3,60.81,3.92,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,1998,Kharif     ,Cotton(lint),153700,142000,27.38,63.56,3.66,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,1999,Kharif     ,Cotton(lint),106402,118294,27.23,57.38,4.07,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2000,Kharif     ,Cotton(lint),118754,159270,26.9,61.38,3.83,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2001,Kharif     ,Cotton(lint),82631,87006,27.37,58.69,4.05,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2002,Kharif     ,Cotton(lint),55276,49748,27.53,59.44,4.01,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2003,Kharif     ,Cotton(lint),39274,42739,27.88,58.31,4,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2004,Kharif     ,Cotton(lint),74578,64488,26.9,61.06,3.99,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2005,Kharif     ,Cotton(lint),24333,22615,26.48,66.06,3.64,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2006,Kharif     ,Cotton(lint),17223,22896,26.76,63.62,3.88,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2007,Kharif     ,Cotton(lint),29000,48000,26.68,63.5,3.84,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2008,Kharif     ,Cotton(lint),23397,42803,26.82,62.06,3.82,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2009,Kharif     ,Cotton(lint),36070,52620,27.55,59.94,3.9,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2010,Kharif     ,Cotton(lint),54003,111375,27.44,63.81,3.74,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2011,Kharif     ,Cotton(lint),97242,122387,27.65,57.06,4.16,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2012,Kharif     ,Cotton(lint),154899,175856,27.67,56.81,4,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2013,Kharif     ,Cotton(lint),203835,679850,26.95,62.44,4.18,672.2,mixed red and black
+Andhra Pradesh,KURNOOL,2014,Kharif     ,Cotton(lint),306058,809620,27.13,60.5,3.89,672.2,mixed red and black
+Andhra Pradesh,PRAKASAM,1997,Kharif     ,Cotton(lint),39900,47500,27.64,66.44,3.97,679.8,red
+Andhra Pradesh,PRAKASAM,1998,Kharif     ,Cotton(lint),62800,82400,27.72,68.69,3.75,679.8,red
+Andhra Pradesh,PRAKASAM,1999,Kharif     ,Cotton(lint),41514,45665,27.65,62.81,4,679.8,red
+Andhra Pradesh,PRAKASAM,2000,Kharif     ,Cotton(lint),47128,61544,27.29,67.69,3.87,679.8,red
+Andhra Pradesh,PRAKASAM,2001,Kharif     ,Cotton(lint),37624,62633,27.79,64.94,4.05,679.8,red
+Andhra Pradesh,PRAKASAM,2002,Kharif     ,Cotton(lint),24364,28377,27.57,66.44,4,679.8,red
+Andhra Pradesh,PRAKASAM,2003,Kharif     ,Cotton(lint),35815,60675,27.99,64.94,3.95,679.8,red
+Andhra Pradesh,PRAKASAM,2004,Kharif     ,Cotton(lint),42618,57660,27.15,67.31,3.91,679.8,red
+Andhra Pradesh,PRAKASAM,2005,Kharif     ,Cotton(lint),20988,32717,27.22,69.5,3.78,679.8,red
+Andhra Pradesh,PRAKASAM,2006,Kharif     ,Cotton(lint),20156,40786,27.13,68.38,3.77,679.8,red
+Andhra Pradesh,PRAKASAM,2007,Kharif     ,Cotton(lint),24000,71000,26.75,70.44,3.77,679.8,red
+Andhra Pradesh,PRAKASAM,2008,Kharif     ,Cotton(lint),40781,131459,27.39,66.44,3.76,679.8,red
+Andhra Pradesh,PRAKASAM,2009,Kharif     ,Cotton(lint),32960,93645,27.79,65.62,3.94,679.8,red
+Andhra Pradesh,PRAKASAM,2010,Kharif     ,Cotton(lint),51421,115063,27.33,71.38,3.73,679.8,red
+Andhra Pradesh,PRAKASAM,2011,Kharif     ,Cotton(lint),57941,140142,27.69,64.69,3.99,679.8,red
+Andhra Pradesh,PRAKASAM,2012,Kharif     ,Cotton(lint),63206,195939,27.94,63.06,3.97,679.8,red
+Andhra Pradesh,PRAKASAM,2013,Kharif     ,Cotton(lint),82988,276301,27.23,67.88,4.07,679.8,red
+Andhra Pradesh,PRAKASAM,2014,Kharif     ,Cotton(lint),71520,252407,27.68,64.5,3.89,679.8,red
+Andhra Pradesh,SPSR NELLORE,1997,Kharif     ,Cotton(lint),8700,20900,28.37,69.69,4.63,966.2,red
+Andhra Pradesh,SPSR NELLORE,1998,Kharif     ,Cotton(lint),7100,5600,28.62,70.75,4.48,966.2,red
+Andhra Pradesh,SPSR NELLORE,1999,Kharif     ,Cotton(lint),4636,7663,28.47,66.62,4.58,966.2,red
+Andhra Pradesh,SPSR NELLORE,2000,Kharif     ,Cotton(lint),7628,14403,28.08,70.62,4.52,966.2,red
+Andhra Pradesh,SPSR NELLORE,2001,Kharif     ,Cotton(lint),6553,17115,28.63,68.25,4.69,966.2,red
+Andhra Pradesh,SPSR NELLORE,2002,Kharif     ,Cotton(lint),5798,10300,28.41,69.5,4.52,966.2,red
+Andhra Pradesh,SPSR NELLORE,2003,Kharif     ,Cotton(lint),9993,29744,28.47,69.44,4.5,966.2,red
+Andhra Pradesh,SPSR NELLORE,2004,Kharif     ,Cotton(lint),6399,18218,28.03,70.19,4.6,966.2,red
+Andhra Pradesh,SPSR NELLORE,2005,Kharif     ,Cotton(lint),4428,10731,28.37,70.94,4.52,966.2,red
+Andhra Pradesh,SPSR NELLORE,2006,Kharif     ,Cotton(lint),3760,11568,28.19,69.69,4.28,966.2,red
+Andhra Pradesh,SPSR NELLORE,2007,Kharif     ,Cotton(lint),5000,20000,27.82,72.06,4.31,966.2,red
+Andhra Pradesh,SPSR NELLORE,2008,Kharif     ,Cotton(lint),6879,24724,28.29,69.38,4.22,966.2,red
+Andhra Pradesh,SPSR NELLORE,2009,Kharif     ,Cotton(lint),4567,14668,28.58,68.5,4.49,966.2,red
+Andhra Pradesh,SPSR NELLORE,2010,Kharif     ,Cotton(lint),8255,14718,28.14,73.88,4.37,966.2,red
+Andhra Pradesh,SPSR NELLORE,2011,Kharif     ,Cotton(lint),16925,34716,28.25,69.12,4.43,966.2,red
+Andhra Pradesh,SPSR NELLORE,2012,Kharif     ,Cotton(lint),4753,12414,28.55,67.56,4.51,966.2,red
+Andhra Pradesh,SPSR NELLORE,2013,Kharif     ,Cotton(lint),5220,13081,28.11,70.62,4.6,966.2,red
+Andhra Pradesh,SPSR NELLORE,2014,Kharif     ,Cotton(lint),6615,20463,28.46,67.62,4.6,966.2,red
+Andhra Pradesh,SRIKAKULAM,1997,Kharif     ,Cotton(lint),800,1900,27.19,71.12,3.16,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,1998,Kharif     ,Cotton(lint),2000,1600,27.12,75.19,3.31,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,1999,Kharif     ,Cotton(lint),1700,2810,26.69,71.44,3.26,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2000,Kharif     ,Cotton(lint),1836,3467,27.1,69.12,3.2,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2001,Kharif     ,Cotton(lint),1724,4503,27.18,70.38,3.26,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2002,Kharif     ,Cotton(lint),1522,2704,27.44,68.5,3.23,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2003,Kharif     ,Cotton(lint),1711,5093,27.13,72.12,3.42,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2004,Kharif     ,Cotton(lint),2525,7189,26.51,72.69,3,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2005,Kharif     ,Cotton(lint),2666,6461,27.14,71.88,3.34,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2006,Kharif     ,Cotton(lint),1761,5418,26.62,73.5,2.93,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2007,Kharif     ,Cotton(lint),2000,7000,26.62,74,3.15,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2008,Kharif     ,Cotton(lint),1802,6477,26.68,72.56,3.01,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2009,Kharif     ,Cotton(lint),1248,4008,27.65,68,3.09,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2010,Kharif     ,Cotton(lint),2968,6739,27.23,73.69,3.3,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2011,Kharif     ,Cotton(lint),5567,11953,26.76,70.75,3.03,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2012,Kharif     ,Cotton(lint),9952,33661,26.93,71.94,3.2,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2013,Kharif     ,Cotton(lint),9846,28843,26.94,72,3.3,815.9,alluvial
+Andhra Pradesh,SRIKAKULAM,2014,Kharif     ,Cotton(lint),9563,42122,26.89,71,3.11,815.9,alluvial
+Andhra Pradesh,VISAKHAPATANAM,1997,Kharif     ,Cotton(lint),1500,3500,27.56,75.81,4.59,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,1998,Kharif     ,Cotton(lint),1300,1100,27.62,78.19,4.54,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,1999,Kharif     ,Cotton(lint),1197,1979,27.18,75.62,4.56,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2000,Kharif     ,Cotton(lint),1119,2113,27.51,74.19,4.52,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2001,Kharif     ,Cotton(lint),1021,2667,27.63,74.44,4.47,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2002,Kharif     ,Cotton(lint),859,1526,27.85,72.94,4.42,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2003,Kharif     ,Cotton(lint),1359,4045,27.4,76.81,4.73,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2004,Kharif     ,Cotton(lint),3020,8598,27.12,76.56,4.32,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2005,Kharif     ,Cotton(lint),1834,4445,27.52,76.56,4.69,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2006,Kharif     ,Cotton(lint),847,2606,27.23,76.88,4.15,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2008,Kharif     ,Cotton(lint),204,733,27.18,77.31,4.35,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2009,Kharif     ,Cotton(lint),697,2239,27.34,76.12,4.34,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2010,Kharif     ,Cotton(lint),1105,2509,27.96,73.31,4.34,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2011,Kharif     ,Cotton(lint),1390,2984,27.58,78.06,4.57,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2012,Kharif     ,Cotton(lint),3013,10191,27.32,75.06,4.3,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2013,Kharif     ,Cotton(lint),2798,8196,27.43,75.75,4.62,1170.1,alluvial
+Andhra Pradesh,VISAKHAPATANAM,2014,Kharif     ,Cotton(lint),2840,12510,27.4,75.5,4.73,1170.1,alluvial
+Andhra Pradesh,VIZIANAGARAM,1997,Kharif     ,Cotton(lint),4200,10100,26.19,72.12,3.3,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,1998,Kharif     ,Cotton(lint),13200,10400,26.15,76.19,3.34,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,1999,Kharif     ,Cotton(lint),10494,17346,25.76,71.69,3.37,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2000,Kharif     ,Cotton(lint),9874,18644,26.16,69.75,3.34,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2001,Kharif     ,Cotton(lint),15639,40845,26.25,70.56,3.37,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2002,Kharif     ,Cotton(lint),12397,22023,26.62,68.38,3.32,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2003,Kharif     ,Cotton(lint),19471,26801,26.17,72.88,3.5,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2004,Kharif     ,Cotton(lint),22974,38650,25.57,73.69,3.09,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2005,Kharif     ,Cotton(lint),17734,13874,26.11,73.06,3.43,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2006,Kharif     ,Cotton(lint),11062,11452,25.69,74,3.03,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2007,Kharif     ,Cotton(lint),7000,7000,25.72,74.56,3.18,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2008,Kharif     ,Cotton(lint),6798,6358,25.8,73,3.13,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2009,Kharif     ,Cotton(lint),8808,15129,26.7,68.75,3.2,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2010,Kharif     ,Cotton(lint),11463,10721,26.21,74.94,3.37,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2011,Kharif     ,Cotton(lint),11728,15798,25.73,72.31,3.12,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2012,Kharif     ,Cotton(lint),14658,29316,26.09,71.88,3.37,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2013,Kharif     ,Cotton(lint),15303,26735,25.98,73.06,3.47,1094.2,red
+Andhra Pradesh,VIZIANAGARAM,2014,Kharif     ,Cotton(lint),15698,37286,25.8,72.62,3.26,1094.2,alluvial
+Andhra Pradesh,WEST GODAVARI,1997,Kharif     ,Cotton(lint),3400,8200,27.59,71.06,3.15,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,1998,Kharif     ,Cotton(lint),3100,2400,27.62,73.88,3.16,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,1999,Kharif     ,Cotton(lint),1546,2555,27.16,70.5,3.17,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2000,Kharif     ,Cotton(lint),2028,3829,27.31,70.88,3.2,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2001,Kharif     ,Cotton(lint),3269,8538,27.44,70.5,3.1,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2002,Kharif     ,Cotton(lint),940,1670,27.98,67.69,3.34,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2003,Kharif     ,Cotton(lint),3759,11189,27.6,71.12,3.31,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2004,Kharif     ,Cotton(lint),8729,24852,26.93,72.75,3.12,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2005,Kharif     ,Cotton(lint),11196,27134,27.4,72.38,3.2,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2006,Kharif     ,Cotton(lint),4370,13444,27.02,73.19,2.94,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2007,Kharif     ,Cotton(lint),5000,18000,26.98,73.56,3.14,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2008,Kharif     ,Cotton(lint),3512,12623,27.13,72.56,2.91,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2009,Kharif     ,Cotton(lint),2522,8100,27.93,69.06,2.97,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2010,Kharif     ,Cotton(lint),3956,8982,27.33,75.06,3.13,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2011,Kharif     ,Cotton(lint),5131,11017,27.05,71.69,3.05,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2012,Kharif     ,Cotton(lint),6425,21732,27.19,72.44,3.04,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2013,Kharif     ,Cotton(lint),5240,13038,26.9,74.06,3.24,1125.3,alluvial
+Andhra Pradesh,WEST GODAVARI,2014,Kharif     ,Cotton(lint),9795,13807,27.51,68.81,3.08,1125.3,alluvial
+Assam,BAKSA,2005,Kharif     ,Cotton(lint),8,4,23.78,79.06,2.39,1974.5,mountain
+Assam,BAKSA,2006,Kharif     ,Cotton(lint),7,3,23.93,76.75,2.45,1974.5,mountain
+Assam,BAKSA,2007,Kharif     ,Cotton(lint),6,3,23.81,76.44,2.48,1974.5,mountain
+Assam,BAKSA,2008,Kharif     ,Cotton(lint),4,2,23.72,78.19,2.48,1974.5,mountain
+Assam,BAKSA,2009,Kharif     ,Cotton(lint),4,2,24.24,75.81,2.54,1974.5,mountain
+Assam,BAKSA,2010,Kharif     ,Cotton(lint),26,10,23.96,78.94,2.62,1974.5,mountain
+Assam,BAKSA,2011,Kharif     ,Cotton(lint),9,4,23.56,78.44,2.59,1974.5,mountain
+Assam,BAKSA,2012,Kharif     ,Cotton(lint),10,4,23.88,77.88,2.52,1974.5,mountain
+Assam,BAKSA,2013,Kharif     ,Cotton(lint),10,4,24.25,78.25,2.43,1974.5,mountain
+Assam,BAKSA,2014,Kharif     ,Cotton(lint),11,5,24.69,77.31,2.38,1974.5,mountain
+Assam,BARPETA,1997,Kharif     ,Cotton(lint),8,4,23.84,69.5,2.56,1873.8,alluvial
+Assam,BARPETA,1998,Kharif     ,Cotton(lint),8,4,24.42,70.94,2.51,1873.8,alluvial
+Assam,BARPETA,1999,Kharif     ,Cotton(lint),8,4,24.68,70.31,2.52,1873.8,alluvial
+Assam,BARPETA,2000,Kharif     ,Cotton(lint),8,4,23.51,75.75,2.48,1873.8,alluvial
+Assam,BARPETA,2001,Kharif     ,Cotton(lint),9,4,23.75,75.88,2.35,1873.8,alluvial
+Assam,BARPETA,2002,Kharif     ,Cotton(lint),7,3,23.73,77.06,2.45,1873.8,alluvial
+Assam,BARPETA,2003,Kharif     ,Cotton(lint),8,3,23.58,78.75,2.37,1873.8,alluvial
+Assam,BARPETA,2004,Kharif     ,Cotton(lint),6,3,23.4,79.69,2.49,1873.8,alluvial
+Assam,BARPETA,2005,Kharif     ,Cotton(lint),5,2,23.78,79.06,2.39,1873.8,alluvial
+Assam,BARPETA,2006,Kharif     ,Cotton(lint),7,3,23.93,76.75,2.45,1873.8,alluvial
+Assam,BARPETA,2007,Kharif     ,Cotton(lint),6,2,23.81,76.44,2.48,1873.8,alluvial
+Assam,BARPETA,2008,Kharif     ,Cotton(lint),6,3,23.72,78.19,2.48,1873.8,alluvial
+Assam,BARPETA,2009,Kharif     ,Cotton(lint),68,30,24.24,75.81,2.54,1873.8,alluvial
+Assam,BARPETA,2010,Kharif     ,Cotton(lint),9,4,23.96,78.94,2.62,1873.8,alluvial
+Assam,BARPETA,2011,Kharif     ,Cotton(lint),5,2,23.56,78.44,2.59,1873.8,alluvial
+Assam,BARPETA,2012,Kharif     ,Cotton(lint),8,4,23.88,77.88,2.52,1873.8,alluvial
+Assam,BARPETA,2013,Kharif     ,Cotton(lint),8,4,24.25,78.25,2.43,1873.8,alluvial
+Assam,BARPETA,2014,Kharif     ,Cotton(lint),5,3,24.69,77.31,2.38,1873.8,alluvial
+Assam,BONGAIGAON,1997,Kharif     ,Cotton(lint),11,4,24,67.44,2.37,1858.6,alluvial
+Assam,BONGAIGAON,1998,Kharif     ,Cotton(lint),10,4,24.27,71.38,2.33,1858.6,alluvial
+Assam,BONGAIGAON,1999,Kharif     ,Cotton(lint),11,5,24.38,71.44,2.3,1858.6,alluvial
+Assam,BONGAIGAON,2000,Kharif     ,Cotton(lint),10,4,23.4,75.5,2.31,1858.6,alluvial
+Assam,BONGAIGAON,2001,Kharif     ,Cotton(lint),14,5,23.85,74,2.17,1858.6,alluvial
+Assam,BONGAIGAON,2002,Kharif     ,Cotton(lint),13,5,23.67,76.25,2.29,1858.6,alluvial
+Assam,BONGAIGAON,2003,Kharif     ,Cotton(lint),15,6,23.6,77.62,2.18,1858.6,alluvial
+Assam,BONGAIGAON,2004,Kharif     ,Cotton(lint),7,4,23.42,78.5,2.38,1858.6,alluvial
+Assam,BONGAIGAON,2006,Kharif     ,Cotton(lint),1,1,23.9,75.81,2.27,1858.6,alluvial
+Assam,BONGAIGAON,2007,Kharif     ,Cotton(lint),2,1,23.76,75.69,2.31,1858.6,alluvial
+Assam,BONGAIGAON,2008,Kharif     ,Cotton(lint),1,1,23.7,77,2.31,1858.6,alluvial
+Assam,BONGAIGAON,2009,Kharif     ,Cotton(lint),28,12,24.05,76.19,2.34,1858.6,alluvial
+Assam,BONGAIGAON,2010,Kharif     ,Cotton(lint),1,1,23.88,78.06,2.45,1858.6,alluvial
+Assam,BONGAIGAON,2013,Kharif     ,Cotton(lint),3,1,24.2,76.31,2.27,1858.6,alluvial
+Assam,BONGAIGAON,2014,Kharif     ,Cotton(lint),2,1,24.62,75.75,2.3,1858.6,alluvial
+Assam,CACHAR,1997,Kharif     ,Cotton(lint),115,43,22.42,69.88,1.12,2939.2,laterite
+Assam,CACHAR,1998,Kharif     ,Cotton(lint),115,43,22.83,73.06,1.14,2939.2,laterite
+Assam,CACHAR,1999,Kharif     ,Cotton(lint),115,43,23.39,68.94,1.15,2939.2,laterite
+Assam,CACHAR,2000,Kharif     ,Cotton(lint),115,43,22.58,71.88,1.15,2939.2,laterite
+Assam,CACHAR,2001,Kharif     ,Cotton(lint),115,43,22.97,70.5,1.11,2939.2,laterite
+Assam,CACHAR,2002,Kharif     ,Cotton(lint),115,43,22.87,72.5,1.09,2939.2,laterite
+Assam,CACHAR,2003,Kharif     ,Cotton(lint),120,44,22.65,74.81,1.1,2939.2,laterite
+Assam,CACHAR,2004,Kharif     ,Cotton(lint),103,38,22.4,75.56,1.12,2939.2,laterite
+Assam,CACHAR,2005,Kharif     ,Cotton(lint),97,36,22.87,75.56,1.1,2939.2,laterite
+Assam,CACHAR,2006,Kharif     ,Cotton(lint),100,38,23.29,70.94,1.12,2939.2,laterite
+Assam,CACHAR,2007,Kharif     ,Cotton(lint),100,37,22.4,75.25,1.1,2939.2,laterite
+Assam,CACHAR,2008,Kharif     ,Cotton(lint),95,35,22.48,76.25,1.09,2939.2,laterite
+Assam,CACHAR,2009,Kharif     ,Cotton(lint),94,34,23.08,73.62,1.11,2939.2,laterite
+Assam,CACHAR,2010,Kharif     ,Cotton(lint),92,34,22.62,78.44,1.12,2939.2,laterite
+Assam,CACHAR,2011,Kharif     ,Cotton(lint),91,34,22.32,77.38,1.05,2939.2,laterite
+Assam,CACHAR,2012,Kharif     ,Cotton(lint),94,35,22.61,76.88,1.13,2939.2,laterite
+Assam,CACHAR,2013,Kharif     ,Cotton(lint),94,34,22.85,77.88,1.11,2939.2,laterite
+Assam,CACHAR,2014,Kharif     ,Cotton(lint),96,35,23.29,75.31,1.05,2939.2,laterite
+Assam,DARRANG,1997,Kharif     ,Cotton(lint),40,19,23.68,68.75,2.7,1592.6,mountain
+Assam,DARRANG,1998,Kharif     ,Cotton(lint),40,19,24.17,70.94,2.57,1592.6,mountain
+Assam,DARRANG,1999,Kharif     ,Cotton(lint),37,17,24.5,69.81,2.61,1592.6,mountain
+Assam,DARRANG,2000,Kharif     ,Cotton(lint),31,14,23.48,73.69,2.55,1592.6,mountain
+Assam,DARRANG,2001,Kharif     ,Cotton(lint),29,13,23.84,72.94,2.43,1592.6,mountain
+Assam,DARRANG,2002,Kharif     ,Cotton(lint),17,8,23.82,73.75,2.55,1592.6,mountain
+Assam,DARRANG,2003,Kharif     ,Cotton(lint),7,3,23.62,76.06,2.48,1592.6,mountain
+Assam,DARRANG,2004,Kharif     ,Cotton(lint),9,4,23.28,77.94,2.57,1592.6,mountain
+Assam,DARRANG,2005,Kharif     ,Cotton(lint),6,3,23.71,76.94,2.56,1592.6,mountain
+Assam,DARRANG,2006,Kharif     ,Cotton(lint),1,1,24.2,72.44,2.55,1592.6,mountain
+Assam,DARRANG,2008,Kharif     ,Cotton(lint),6,3,23.63,76.38,2.59,1592.6,mountain
+Assam,DARRANG,2009,Kharif     ,Cotton(lint),3,1,24.3,73.56,2.66,1592.6,mountain
+Assam,DARRANG,2010,Kharif     ,Cotton(lint),4,2,23.88,77.31,2.73,1592.6,mountain
+Assam,DARRANG,2011,Kharif     ,Cotton(lint),1,1,23.69,75.56,2.73,1592.6,mountain
+Assam,DARRANG,2012,Kharif     ,Cotton(lint),3,1,23.94,75.38,2.63,1592.6,mountain
+Assam,DARRANG,2013,Kharif     ,Cotton(lint),2,1,24.23,76.31,2.62,1592.6,mountain
+Assam,DARRANG,2014,Kharif     ,Cotton(lint),2,1,24.69,75.19,2.58,1592.6,mountain
+Assam,DHEMAJI,1997,Kharif     ,Cotton(lint),12,5,21.05,71.06,1.75,2102.8,red
+Assam,DHEMAJI,1998,Kharif     ,Cotton(lint),10,5,22.12,69.44,1.77,2102.8,red
+Assam,DHEMAJI,1999,Kharif     ,Cotton(lint),10,5,22.69,66.56,1.7,2102.8,red
+Assam,DHEMAJI,2000,Kharif     ,Cotton(lint),8,3,21.74,70.44,1.7,2102.8,red
+Assam,DHEMAJI,2001,Kharif     ,Cotton(lint),8,3,22.38,68.69,1.62,2102.8,red
+Assam,DHEMAJI,2002,Kharif     ,Cotton(lint),8,3,22.16,70.06,1.68,2102.8,red
+Assam,DHEMAJI,2003,Kharif     ,Cotton(lint),6,2,21.92,72.38,1.62,2102.8,red
+Assam,DHEMAJI,2004,Kharif     ,Cotton(lint),7,3,21.48,74.25,1.68,2102.8,red
+Assam,DHEMAJI,2005,Kharif     ,Cotton(lint),8,3,21.77,74.25,1.66,2102.8,red
+Assam,DHEMAJI,2006,Kharif     ,Cotton(lint),8,4,22.18,71.81,1.66,2102.8,red
+Assam,DHEMAJI,2007,Kharif     ,Cotton(lint),6,3,21.69,73.81,1.68,2102.8,red
+Assam,DHEMAJI,2008,Kharif     ,Cotton(lint),6,3,21.55,75,1.71,2102.8,red
+Assam,DHEMAJI,2009,Kharif     ,Cotton(lint),5,2,21.87,75.19,1.7,2102.8,red
+Assam,DHEMAJI,2010,Kharif     ,Cotton(lint),5,2,21.58,77.75,1.86,2102.8,red
+Assam,DHEMAJI,2011,Kharif     ,Cotton(lint),5,1,21.39,76.38,1.77,2102.8,red
+Assam,DHEMAJI,2012,Kharif     ,Cotton(lint),5,2,21.72,77.44,1.91,2102.8,red
+Assam,DHEMAJI,2013,Kharif     ,Cotton(lint),9,4,22.38,76.88,1.83,2102.8,red
+Assam,DHEMAJI,2014,Kharif     ,Cotton(lint),11,4,22.46,77.31,1.8,2102.8,red
+Assam,DHUBRI,1997,Kharif     ,Cotton(lint),13,6,24.69,65.81,2.49,1641.9,alluvial
+Assam,DHUBRI,1998,Kharif     ,Cotton(lint),8,3,24.65,72.19,2.41,1641.9,alluvial
+Assam,DHUBRI,1999,Kharif     ,Cotton(lint),4,2,24.83,71.69,2.34,1641.9,alluvial
+Assam,DHUBRI,2000,Kharif     ,Cotton(lint),3,1,24.01,74.44,2.39,1641.9,alluvial
+Assam,DHUBRI,2001,Kharif     ,Cotton(lint),113,46,24.51,72.12,2.23,1641.9,alluvial
+Assam,DHUBRI,2002,Kharif     ,Cotton(lint),3,1,24.23,76.06,2.34,1641.9,alluvial
+Assam,DHUBRI,2003,Kharif     ,Cotton(lint),2,1,24.2,76.69,2.32,1641.9,alluvial
+Assam,DHUBRI,2004,Kharif     ,Cotton(lint),2,1,24.01,77.94,2.52,1641.9,alluvial
+Assam,DHUBRI,2005,Kharif     ,Cotton(lint),1,1,24.53,76.31,2.36,1641.9,alluvial
+Assam,DIBRUGARH,1997,Kharif     ,Cotton(lint),20,9,23.65,66.44,1.28,2102.8,alluvial
+Assam,DIBRUGARH,1998,Kharif     ,Cotton(lint),30,13,24.75,64.56,1.26,2102.8,alluvial
+Assam,DIBRUGARH,1999,Kharif     ,Cotton(lint),30,13,25.28,62,1.21,2102.8,alluvial
+Assam,DIBRUGARH,2000,Kharif     ,Cotton(lint),30,13,24.45,65,1.22,2102.8,alluvial
+Assam,DIBRUGARH,2001,Kharif     ,Cotton(lint),24,10,25.01,63.56,1.2,2102.8,alluvial
+Assam,DIBRUGARH,2002,Kharif     ,Cotton(lint),6,3,24.69,65.81,1.22,2102.8,alluvial
+Assam,DIBRUGARH,2003,Kharif     ,Cotton(lint),6,3,24.63,66.62,1.16,2102.8,alluvial
+Assam,DIBRUGARH,2004,Kharif     ,Cotton(lint),6,3,24.17,68.25,1.19,2102.8,alluvial
+Assam,DIBRUGARH,2005,Kharif     ,Cotton(lint),3,1,24.61,67.81,1.18,2102.8,alluvial
+Assam,DIBRUGARH,2006,Kharif     ,Cotton(lint),4,2,24.95,65.75,1.15,2102.8,alluvial
+Assam,DIBRUGARH,2014,Kharif     ,Cotton(lint),1,1,24.84,73.06,1.37,2102.8,alluvial
+Assam,DIMA HASAO,1997,Kharif     ,Cotton(lint),398,187,21.66,71.06,1.05,1774,red
+Assam,DIMA HASAO,1998,Kharif     ,Cotton(lint),348,164,22.08,74,1.08,1774,red
+Assam,DIMA HASAO,1999,Kharif     ,Cotton(lint),345,162,22.64,70.12,1.08,1774,red
+Assam,DIMA HASAO,2000,Kharif     ,Cotton(lint),370,174,21.84,73.19,1.07,1774,red
+Assam,DIMA HASAO,2001,Kharif     ,Cotton(lint),368,173,22.35,71,1.02,1774,red
+Assam,DIMA HASAO,2002,Kharif     ,Cotton(lint),354,167,22.21,73.19,1,1774,red
+Assam,DIMA HASAO,2003,Kharif     ,Cotton(lint),248,117,21.99,75.69,1.02,1774,red
+Assam,DIMA HASAO,2004,Kharif     ,Cotton(lint),254,120,21.65,77.12,1.02,1774,red
+Assam,DIMA HASAO,2005,Kharif     ,Cotton(lint),242,114,22.1,76.69,1.02,1774,red
+Assam,DIMA HASAO,2006,Kharif     ,Cotton(lint),238,112,22.65,71.56,1.02,1774,red
+Assam,DIMA HASAO,2007,Kharif     ,Cotton(lint),232,109,21.71,76.44,1.01,1774,red
+Assam,DIMA HASAO,2008,Kharif     ,Cotton(lint),233,110,21.72,77.81,0.98,1774,red
+Assam,DIMA HASAO,2009,Kharif     ,Cotton(lint),232,109,22.29,75.25,1,1774,red
+Assam,DIMA HASAO,2010,Kharif     ,Cotton(lint),220,103,21.93,79.88,1.09,1774,red
+Assam,DIMA HASAO,2011,Kharif     ,Cotton(lint),219,103,21.41,79.94,0.96,1774,red
+Assam,DIMA HASAO,2012,Kharif     ,Cotton(lint),221,104,21.85,78.69,1.16,1774,red
+Assam,DIMA HASAO,2013,Kharif     ,Cotton(lint),11,5,22.18,79.5,1.13,1774,red
+Assam,DIMA HASAO,2014,Kharif     ,Cotton(lint),57,27,22.53,77.12,1.13,1774,red
+Assam,GOALPARA,1997,Kharif     ,Cotton(lint),12,4,24.13,68.75,2.32,1858.6,alluvial
+Assam,GOALPARA,1998,Kharif     ,Cotton(lint),9,3,24.33,73.38,2.27,1858.6,alluvial
+Assam,GOALPARA,1999,Kharif     ,Cotton(lint),9,3,24.48,73.12,2.16,1858.6,alluvial
+Assam,GOALPARA,2000,Kharif     ,Cotton(lint),10,4,23.66,75.62,2.21,1858.6,alluvial
+Assam,GOALPARA,2001,Kharif     ,Cotton(lint),10,4,24.08,74.31,2.05,1858.6,alluvial
+Assam,GOALPARA,2002,Kharif     ,Cotton(lint),10,4,23.9,77.31,2.14,1858.6,alluvial
+Assam,GOALPARA,2003,Kharif     ,Cotton(lint),10,4,23.8,78.5,2.13,1858.6,alluvial
+Assam,GOALPARA,2004,Kharif     ,Cotton(lint),6,2,23.62,79.38,2.34,1858.6,alluvial
+Assam,GOALPARA,2005,Kharif     ,Cotton(lint),8,3,24.02,78.75,2.2,1858.6,alluvial
+Assam,GOALPARA,2006,Kharif     ,Cotton(lint),7,3,24.08,76.75,2.13,1858.6,alluvial
+Assam,GOALPARA,2007,Kharif     ,Cotton(lint),9,3,23.87,77,2.28,1858.6,alluvial
+Assam,GOALPARA,2008,Kharif     ,Cotton(lint),13,5,23.89,77.94,2.2,1858.6,alluvial
+Assam,GOALPARA,2009,Kharif     ,Cotton(lint),10,4,24.33,76.44,2.27,1858.6,alluvial
+Assam,GOALPARA,2010,Kharif     ,Cotton(lint),5,1,24.13,79,2.45,1858.6,alluvial
+Assam,GOALPARA,2011,Kharif     ,Cotton(lint),5,2,23.87,77.5,2.23,1858.6,alluvial
+Assam,GOALPARA,2012,Kharif     ,Cotton(lint),10,4,23.76,76.62,2.55,1858.6,alluvial
+Assam,GOALPARA,2013,Kharif     ,Cotton(lint),6,2,24.23,76.31,2.35,1858.6,alluvial
+Assam,GOALPARA,2014,Kharif     ,Cotton(lint),9,3,24.76,74.75,2.38,1858.6,alluvial
+Assam,HAILAKANDI,1997,Kharif     ,Cotton(lint),60,23,24.63,68.81,1.41,1852.6,laterite
+Assam,HAILAKANDI,1998,Kharif     ,Cotton(lint),90,34,24.79,73.94,1.42,1852.6,laterite
+Assam,HAILAKANDI,1999,Kharif     ,Cotton(lint),90,34,25.33,69.38,1.42,1852.6,laterite
+Assam,HAILAKANDI,2000,Kharif     ,Cotton(lint),90,34,24.37,73.69,1.41,1852.6,laterite
+Assam,HAILAKANDI,2001,Kharif     ,Cotton(lint),60,23,24.59,73.25,1.34,1852.6,laterite
+Assam,HAILAKANDI,2002,Kharif     ,Cotton(lint),70,27,24.76,73.69,1.3,1852.6,laterite
+Assam,HAILAKANDI,2003,Kharif     ,Cotton(lint),60,23,24.49,75.94,1.34,1852.6,laterite
+Assam,HAILAKANDI,2004,Kharif     ,Cotton(lint),55,21,24.37,76.06,1.36,1852.6,laterite
+Assam,HAILAKANDI,2005,Kharif     ,Cotton(lint),60,23,24.78,76.38,1.34,1852.6,laterite
+Assam,HAILAKANDI,2006,Kharif     ,Cotton(lint),60,23,25.07,72.62,1.34,1852.6,laterite
+Assam,HAILAKANDI,2007,Kharif     ,Cotton(lint),55,21,24.37,75.31,1.37,1852.6,laterite
+Assam,HAILAKANDI,2008,Kharif     ,Cotton(lint),55,21,24.62,75.62,1.34,1852.6,laterite
+Assam,HAILAKANDI,2009,Kharif     ,Cotton(lint),55,21,25.12,73.5,1.35,1852.6,laterite
+Assam,HAILAKANDI,2010,Kharif     ,Cotton(lint),55,20,24.79,77.25,1.42,1852.6,laterite
+Assam,HAILAKANDI,2011,Kharif     ,Cotton(lint),50,19,24.56,75.56,1.34,1852.6,laterite
+Assam,HAILAKANDI,2012,Kharif     ,Cotton(lint),40,15,24.58,75.75,1.45,1852.6,laterite
+Assam,HAILAKANDI,2013,Kharif     ,Cotton(lint),20,8,24.9,76.06,1.43,1852.6,laterite
+Assam,HAILAKANDI,2014,Kharif     ,Cotton(lint),10,4,25.22,74.69,1.37,1852.6,laterite
+Assam,JORHAT,1997,Kharif     ,Cotton(lint),3,1,23.28,69.25,1.66,1813.8,alluvial
+Assam,JORHAT,1998,Kharif     ,Cotton(lint),3,1,24.24,68.12,1.65,1813.8,alluvial
+Assam,JORHAT,1999,Kharif     ,Cotton(lint),3,1,24.75,65.38,1.54,1813.8,alluvial
+Assam,JORHAT,2000,Kharif     ,Cotton(lint),5,2,23.8,69.19,1.56,1813.8,alluvial
+Assam,JORHAT,2001,Kharif     ,Cotton(lint),6,2,24.4,67.5,1.51,1813.8,alluvial
+Assam,JORHAT,2002,Kharif     ,Cotton(lint),8,3,24.36,68.19,1.59,1813.8,alluvial
+Assam,JORHAT,2003,Kharif     ,Cotton(lint),11,5,24.08,70.75,1.55,1813.8,alluvial
+Assam,JORHAT,2004,Kharif     ,Cotton(lint),9,5,23.52,73.19,1.61,1813.8,alluvial
+Assam,JORHAT,2005,Kharif     ,Cotton(lint),9,4,23.98,72.25,1.6,1813.8,alluvial
+Assam,JORHAT,2006,Kharif     ,Cotton(lint),5,3,24.33,69.62,1.61,1813.8,alluvial
+Assam,JORHAT,2007,Kharif     ,Cotton(lint),4,3,23.76,72.25,1.62,1813.8,alluvial
+Assam,JORHAT,2008,Kharif     ,Cotton(lint),6,3,23.55,74.62,1.62,1813.8,alluvial
+Assam,JORHAT,2009,Kharif     ,Cotton(lint),6,2,23.9,74.38,1.66,1813.8,alluvial
+Assam,JORHAT,2010,Kharif     ,Cotton(lint),7,3,23.62,76.88,1.84,1813.8,alluvial
+Assam,JORHAT,2011,Kharif     ,Cotton(lint),4,3,23.4,75.94,1.71,1813.8,alluvial
+Assam,JORHAT,2012,Kharif     ,Cotton(lint),7,3,23.87,75.56,1.86,1813.8,alluvial
+Assam,JORHAT,2013,Kharif     ,Cotton(lint),8,4,24.4,75.75,1.79,1813.8,alluvial
+Assam,JORHAT,2014,Kharif     ,Cotton(lint),15,6,24.66,75.19,1.76,1813.8,alluvial
+Assam,KAMRUP,1997,Kharif     ,Cotton(lint),100,48,24.15,67.62,2.74,1752,laterite
+Assam,KAMRUP,1998,Kharif     ,Cotton(lint),104,49,24.62,70.38,2.67,1752,laterite
+Assam,KAMRUP,1999,Kharif     ,Cotton(lint),102,48,24.84,70.06,2.52,1752,laterite
+Assam,KAMRUP,2000,Kharif     ,Cotton(lint),107,50,23.8,73.81,2.62,1752,laterite
+Assam,KAMRUP,2001,Kharif     ,Cotton(lint),100,47,24.13,73.19,2.41,1752,laterite
+Assam,KAMRUP,2002,Kharif     ,Cotton(lint),93,43,24.01,75.38,2.49,1752,laterite
+Assam,KAMRUP,2003,Kharif     ,Cotton(lint),64,30,23.84,77.06,2.52,1752,laterite
+Assam,KAMRUP,2004,Kharif     ,Cotton(lint),46,21,23.69,77.5,2.69,1752,laterite
+Assam,KAMRUP,2005,Kharif     ,Cotton(lint),2,1,24.11,76.94,2.65,1752,laterite
+Assam,KAMRUP,2006,Kharif     ,Cotton(lint),7,3,24.26,74.56,2.5,1752,laterite
+Assam,KAMRUP,2007,Kharif     ,Cotton(lint),4,2,24.01,74.88,2.64,1752,laterite
+Assam,KAMRUP,2008,Kharif     ,Cotton(lint),1,1,24.01,76.12,2.52,1752,laterite
+Assam,KAMRUP,2009,Kharif     ,Cotton(lint),3,1,24.55,73.94,2.68,1752,laterite
+Assam,KAMRUP,2010,Kharif     ,Cotton(lint),1,1,24.24,77.25,2.95,1752,laterite
+Assam,KAMRUP,2011,Kharif     ,Cotton(lint),1,1,24.01,75.75,2.59,1752,laterite
+Assam,KAMRUP,2012,Kharif     ,Cotton(lint),3,2,24.08,74.5,3.12,1752,laterite
+Assam,KAMRUP,2013,Kharif     ,Cotton(lint),3,1,24.38,75.31,2.88,1752,laterite
+Assam,KAMRUP,2014,Kharif     ,Cotton(lint),2,1,24.85,73.75,2.92,1752,laterite
+Assam,KARBI ANGLONG,1997,Kharif     ,Cotton(lint),694,336,22.08,68.88,1.28,175234,red
+Assam,KARBI ANGLONG,1998,Kharif     ,Cotton(lint),659,318,22.75,70,1.32,1356.7,red
+Assam,KARBI ANGLONG,1999,Kharif     ,Cotton(lint),662,320,23.33,66.12,1.29,1356.7,red
+Assam,KARBI ANGLONG,2000,Kharif     ,Cotton(lint),664,320,22.44,69.62,1.3,1356.7,red
+Assam,KARBI ANGLONG,2001,Kharif     ,Cotton(lint),800,391,23.08,66.81,1.29,1356.7,red
+Assam,KARBI ANGLONG,2002,Kharif     ,Cotton(lint),661,326,22.9,68.81,1.27,1356.7,red
+Assam,KARBI ANGLONG,2003,Kharif     ,Cotton(lint),691,339,22.69,71.5,1.27,1356.7,red
+Assam,KARBI ANGLONG,2004,Kharif     ,Cotton(lint),740,365,22.22,73.75,1.28,1356.7,red
+Assam,KARBI ANGLONG,2005,Kharif     ,Cotton(lint),771,381,22.84,72.31,1.27,1356.7,red
+Assam,KARBI ANGLONG,2006,Kharif     ,Cotton(lint),791,391,23.27,67.81,1.29,1356.7,red
+Assam,KARBI ANGLONG,2007,Kharif     ,Cotton(lint),791,391,22.31,72.81,1.27,1356.7,red
+Assam,KARBI ANGLONG,2008,Kharif     ,Cotton(lint),793,391,22.23,75.12,1.22,1356.7,red
+Assam,KARBI ANGLONG,2009,Kharif     ,Cotton(lint),1002,502,22.74,73.06,1.25,1356.7,red
+Assam,KARBI ANGLONG,2010,Kharif     ,Cotton(lint),822,406,22.41,76.62,1.33,1356.7,red
+Assam,KARBI ANGLONG,2011,Kharif     ,Cotton(lint),715,354,22,77,1.21,1356.7,red
+Assam,KARBI ANGLONG,2012,Kharif     ,Cotton(lint),1164,579,22.52,74.88,1.38,1356.7,red
+Assam,KARBI ANGLONG,2013,Kharif     ,Cotton(lint),817,405,22.91,75.81,1.33,1356.7,red
+Assam,KARBI ANGLONG,2014,Kharif     ,Cotton(lint),567,280,23.33,73.69,1.34,1356.7,red
+Assam,KARIMGANJ,1997,Kharif     ,Cotton(lint),36,15,23.46,70.88,2.09,2251.4,alluvial
+Assam,KARIMGANJ,1998,Kharif     ,Cotton(lint),15,6,23.63,75.5,2.2,2251.4,alluvial
+Assam,KARIMGANJ,1999,Kharif     ,Cotton(lint),12,5,24.24,71.31,2.15,2251.4,alluvial
+Assam,KARIMGANJ,2000,Kharif     ,Cotton(lint),20,8,23.24,75.44,2.1,2251.4,alluvial
+Assam,KARIMGANJ,2001,Kharif     ,Cotton(lint),27,11,23.5,74.75,2,2251.4,alluvial
+Assam,KARIMGANJ,2002,Kharif     ,Cotton(lint),18,7,23.51,76.12,2.02,2251.4,alluvial
+Assam,KARIMGANJ,2003,Kharif     ,Cotton(lint),27,11,23.37,77.81,2.06,2251.4,alluvial
+Assam,KARIMGANJ,2004,Kharif     ,Cotton(lint),30,21,23.21,78.12,2.11,2251.4,alluvial
+Assam,KARIMGANJ,2005,Kharif     ,Cotton(lint),25,10,23.6,78.25,2,2251.4,alluvial
+Assam,KARIMGANJ,2006,Kharif     ,Cotton(lint),40,16,23.95,74.44,2.07,2251.4,alluvial
+Assam,KARIMGANJ,2007,Kharif     ,Cotton(lint),43,18,23.34,76.88,2.14,2251.4,alluvial
+Assam,KARIMGANJ,2008,Kharif     ,Cotton(lint),37,15,23.45,77.44,2.09,2251.4,alluvial
+Assam,KARIMGANJ,2009,Kharif     ,Cotton(lint),34,17,23.93,75.75,2.07,2251.4,alluvial
+Assam,KARIMGANJ,2010,Kharif     ,Cotton(lint),28,10,23.73,79.19,2.21,2251.4,alluvial
+Assam,KARIMGANJ,2011,Kharif     ,Cotton(lint),28,13,23.46,77.06,2.05,2251.4,alluvial
+Assam,KARIMGANJ,2012,Kharif     ,Cotton(lint),28,13,23.51,77.88,2.07,2251.4,alluvial
+Assam,KARIMGANJ,2013,Kharif     ,Cotton(lint),32,14,23.8,78.5,2.09,2251.4,alluvial
+Assam,KARIMGANJ,2014,Kharif     ,Cotton(lint),27,12,24.1,77,1.95,2251.4,alluvial
+Assam,KOKRAJHAR,1997,Kharif     ,Cotton(lint),10,4,23.9,63.94,2.29,3400.5,alluvial
+Assam,KOKRAJHAR,1998,Kharif     ,Cotton(lint),10,4,23.93,70.19,2.23,3400.5,alluvial
+Assam,KOKRAJHAR,1999,Kharif     ,Cotton(lint),8,4,24.12,69.81,2.16,3400.5,alluvial
+Assam,KOKRAJHAR,2000,Kharif     ,Cotton(lint),10,4,23.13,73.5,2.2,3400.5,alluvial
+Assam,KOKRAJHAR,2001,Kharif     ,Cotton(lint),10,4,23.69,70.75,2.07,3400.5,alluvial
+Assam,KOKRAJHAR,2002,Kharif     ,Cotton(lint),10,4,23.37,74.44,2.2,3400.5,alluvial
+Assam,KOKRAJHAR,2003,Kharif     ,Cotton(lint),11,5,23.37,75.25,2.1,3400.5,alluvial
+Assam,KOKRAJHAR,2004,Kharif     ,Cotton(lint),7,4,23.16,76.62,2.29,3400.5,alluvial
+Assam,KOKRAJHAR,2005,Kharif     ,Cotton(lint),7,3,23.65,75.06,2.11,3400.5,alluvial
+Assam,KOKRAJHAR,2006,Kharif     ,Cotton(lint),8,4,23.68,73.44,2.14,3400.5,alluvial
+Assam,KOKRAJHAR,2007,Kharif     ,Cotton(lint),11,4,23.71,72.06,2.22,3400.5,alluvial
+Assam,KOKRAJHAR,2008,Kharif     ,Cotton(lint),11,5,23.55,74.19,2.2,3400.5,alluvial
+Assam,KOKRAJHAR,2009,Kharif     ,Cotton(lint),15,6,23.87,73.19,2.22,3400.5,alluvial
+Assam,KOKRAJHAR,2010,Kharif     ,Cotton(lint),46,18,23.66,75.19,2.28,3400.5,alluvial
+Assam,KOKRAJHAR,2011,Kharif     ,Cotton(lint),20,9,23.3,74.94,2.27,3400.5,alluvial
+Assam,KOKRAJHAR,2012,Kharif     ,Cotton(lint),20,9,23.44,73.38,2.2,3400.5,alluvial
+Assam,KOKRAJHAR,2013,Kharif     ,Cotton(lint),22,10,23.92,72.75,2.12,3400.5,alluvial
+Assam,KOKRAJHAR,2014,Kharif     ,Cotton(lint),17,7,24.33,72.44,2.19,3400.5,alluvial
+Assam,LAKHIMPUR,1997,Kharif     ,Cotton(lint),45,19,25.98,42,2.85,2149,red
+Assam,LAKHIMPUR,1998,Kharif     ,Cotton(lint),47,20,25.71,49.5,2.77,2149,red
+Assam,LAKHIMPUR,1999,Kharif     ,Cotton(lint),46,20,26.66,40.25,2.76,2149,red
+Assam,LAKHIMPUR,2000,Kharif     ,Cotton(lint),54,23,25.57,45.25,2.69,2149,red
+Assam,LAKHIMPUR,2001,Kharif     ,Cotton(lint),54,23,26.21,42.31,2.52,2149,red
+Assam,LAKHIMPUR,2002,Kharif     ,Cotton(lint),37,16,26.73,42.25,2.77,2149,red
+Assam,LAKHIMPUR,2003,Kharif     ,Cotton(lint),31,13,25.38,51.44,2.74,2149,red
+Assam,LAKHIMPUR,2004,Kharif     ,Cotton(lint),15,8,25.31,52.5,2.76,2149,red
+Assam,LAKHIMPUR,2005,Kharif     ,Cotton(lint),15,6,25.27,53.12,2.77,2149,red
+Assam,LAKHIMPUR,2006,Kharif     ,Cotton(lint),14,6,25.79,51.56,2.66,2149,red
+Assam,LAKHIMPUR,2007,Kharif     ,Cotton(lint),13,5,24.98,56.12,2.73,2149,red
+Assam,LAKHIMPUR,2008,Kharif     ,Cotton(lint),13,5,24.69,58.88,2.45,2149,red
+Assam,LAKHIMPUR,2009,Kharif     ,Cotton(lint),30,13,25.62,53.06,2.86,2149,red
+Assam,LAKHIMPUR,2010,Kharif     ,Cotton(lint),10,4,25.73,56.19,2.83,2149,red
+Assam,LAKHIMPUR,2011,Kharif     ,Cotton(lint),5,2,24.65,60.06,2.62,2149,red
+Assam,LAKHIMPUR,2012,Kharif     ,Cotton(lint),20,9,24.98,53.38,2.97,2149,red
+Assam,LAKHIMPUR,2013,Kharif     ,Cotton(lint),18,7,24.48,62.06,2.94,2149,red
+Assam,LAKHIMPUR,2014,Kharif     ,Cotton(lint),8,3,25.44,51.19,3.15,2149,red
+Assam,MARIGAON,1997,Kharif     ,Cotton(lint),16,6,23.72,68,2.03,1641.3,alluvial
+Assam,MARIGAON,1998,Kharif     ,Cotton(lint),17,7,24.29,69.69,1.9,1641.3,alluvial
+Assam,MARIGAON,1999,Kharif     ,Cotton(lint),14,6,24.71,67.75,1.91,1641.3,alluvial
+Assam,MARIGAON,2000,Kharif     ,Cotton(lint),14,6,23.72,71.88,1.9,1641.3,alluvial
+Assam,MARIGAON,2001,Kharif     ,Cotton(lint),14,6,24.27,70.06,1.82,1641.3,alluvial
+Assam,MARIGAON,2002,Kharif     ,Cotton(lint),14,6,24.27,70.44,1.94,1641.3,alluvial
+Assam,MARIGAON,2003,Kharif     ,Cotton(lint),14,8,23.9,74.25,1.9,1641.3,alluvial
+Assam,MARIGAON,2004,Kharif     ,Cotton(lint),10,5,23.45,76.31,1.9,1641.3,alluvial
+Assam,MARIGAON,2005,Kharif     ,Cotton(lint),14,7,23.95,74.94,1.98,1641.3,alluvial
+Assam,MARIGAON,2006,Kharif     ,Cotton(lint),12,6,24.67,69.19,1.98,1641.3,alluvial
+Assam,MARIGAON,2007,Kharif     ,Cotton(lint),16,8,23.82,73.69,1.95,1641.3,alluvial
+Assam,MARIGAON,2008,Kharif     ,Cotton(lint),7,4,23.76,75.12,1.96,1641.3,alluvial
+Assam,MARIGAON,2009,Kharif     ,Cotton(lint),6,3,24.41,72.31,1.99,1641.3,alluvial
+Assam,MARIGAON,2010,Kharif     ,Cotton(lint),6,3,24.02,76.12,2.14,1641.3,alluvial
+Assam,MARIGAON,2012,Kharif     ,Cotton(lint),7,4,23.99,75.25,2.11,1641.3,alluvial
+Assam,MARIGAON,2013,Kharif     ,Cotton(lint),4,1,24.46,75.25,2.12,1641.3,alluvial
+Assam,MARIGAON,2014,Kharif     ,Cotton(lint),4,2,24.98,73.69,2.14,1641.3,alluvial
+Assam,NAGAON,1997,Kharif     ,Cotton(lint),78,31,23.72,68,2.03,1512.4,alluvial
+Assam,NAGAON,1998,Kharif     ,Cotton(lint),60,25,24.29,69.69,1.9,1512.4,alluvial
+Assam,NAGAON,1999,Kharif     ,Cotton(lint),59,24,24.71,67.75,1.91,1512.4,alluvial
+Assam,NAGAON,2000,Kharif     ,Cotton(lint),50,20,23.72,71.88,1.9,1512.4,alluvial
+Assam,NAGAON,2001,Kharif     ,Cotton(lint),48,19,24.27,70.06,1.82,1512.4,alluvial
+Assam,NAGAON,2002,Kharif     ,Cotton(lint),45,18,24.27,70.44,1.94,1512.4,alluvial
+Assam,NAGAON,2003,Kharif     ,Cotton(lint),42,17,23.9,74.25,1.9,1512.4,alluvial
+Assam,NAGAON,2004,Kharif     ,Cotton(lint),14,6,23.45,76.31,1.9,1512.4,alluvial
+Assam,NAGAON,2005,Kharif     ,Cotton(lint),12,5,23.95,74.94,1.98,1512.4,alluvial
+Assam,NAGAON,2006,Kharif     ,Cotton(lint),13,5,24.67,69.19,1.98,1512.4,alluvial
+Assam,NAGAON,2007,Kharif     ,Cotton(lint),16,6,23.82,73.69,1.95,1512.4,alluvial
+Assam,NAGAON,2008,Kharif     ,Cotton(lint),29,11,23.76,75.12,1.96,1512.4,alluvial
+Assam,NAGAON,2009,Kharif     ,Cotton(lint),22,9,24.41,72.31,1.99,1512.4,alluvial
+Assam,NAGAON,2010,Kharif     ,Cotton(lint),19,7,24.02,76.12,2.14,1512.4,alluvial
+Assam,NAGAON,2011,Kharif     ,Cotton(lint),29,11,23.84,74.44,2.05,1512.4,alluvial
+Assam,NAGAON,2012,Kharif     ,Cotton(lint),16,6,23.99,75.25,2.11,1512.4,alluvial
+Assam,NAGAON,2013,Kharif     ,Cotton(lint),16,7,24.46,75.25,2.12,1512.4,alluvial
+Assam,NAGAON,2014,Kharif     ,Cotton(lint),14,7,24.98,73.69,2.14,1512.4,alluvial
+Assam,NALBARI,1997,Kharif     ,Cotton(lint),18,8,23.84,69.5,2.56,1873.8,mountain
+Assam,NALBARI,1998,Kharif     ,Cotton(lint),18,8,24.42,70.94,2.51,1873.8,mountain
+Assam,NALBARI,1999,Kharif     ,Cotton(lint),19,8,24.68,70.31,2.52,1873.8,mountain
+Assam,NALBARI,2000,Kharif     ,Cotton(lint),19,8,23.51,75.75,2.48,1873.8,mountain
+Assam,NALBARI,2001,Kharif     ,Cotton(lint),18,8,23.75,75.88,2.35,1873.8,mountain
+Assam,NALBARI,2002,Kharif     ,Cotton(lint),18,8,23.73,77.06,2.45,1873.8,mountain
+Assam,NALBARI,2003,Kharif     ,Cotton(lint),18,8,23.58,78.75,2.37,1873.8,mountain
+Assam,NALBARI,2004,Kharif     ,Cotton(lint),18,8,23.4,79.69,2.49,1873.8,mountain
+Assam,NALBARI,2005,Kharif     ,Cotton(lint),10,4,23.78,79.06,2.39,1873.8,mountain
+Assam,NALBARI,2006,Kharif     ,Cotton(lint),2,1,23.93,76.75,2.45,1873.8,mountain
+Assam,NALBARI,2007,Kharif     ,Cotton(lint),2,1,23.81,76.44,2.48,1873.8,mountain
+Assam,NALBARI,2008,Kharif     ,Cotton(lint),1,1,23.72,78.19,2.48,1873.8,mountain
+Assam,NALBARI,2009,Kharif     ,Cotton(lint),1,1,24.24,75.81,2.54,1873.8,mountain
+Assam,NALBARI,2010,Kharif     ,Cotton(lint),1,1,23.96,78.94,2.62,1873.8,mountain
+Assam,NALBARI,2011,Kharif     ,Cotton(lint),1,1,23.56,78.44,2.59,1873.8,mountain
+Assam,NALBARI,2012,Kharif     ,Cotton(lint),2,1,23.88,77.88,2.52,1873.8,mountain
+Assam,NALBARI,2013,Kharif     ,Cotton(lint),1,1,24.25,78.25,2.43,1873.8,mountain
+Assam,NALBARI,2014,Kharif     ,Cotton(lint),1,1,24.69,77.31,2.38,1873.8,mountain
+Assam,SIVASAGAR,1997,Kharif     ,Cotton(lint),9,4,16.46,70.38,1.73,1744.3,alluvial
+Assam,SIVASAGAR,1998,Kharif     ,Cotton(lint),7,2,17.46,70.81,1.73,1744.3,alluvial
+Assam,SIVASAGAR,1999,Kharif     ,Cotton(lint),6,2,18.05,67.5,1.7,1744.3,alluvial
+Assam,SIVASAGAR,2000,Kharif     ,Cotton(lint),8,4,17.1,70.56,1.7,1744.3,alluvial
+Assam,SIVASAGAR,2001,Kharif     ,Cotton(lint),8,4,17.46,70.19,1.66,1744.3,alluvial
+Assam,SIVASAGAR,2002,Kharif     ,Cotton(lint),9,4,17.16,72.19,1.69,1744.3,alluvial
+Assam,SIVASAGAR,2003,Kharif     ,Cotton(lint),9,5,17.11,74,1.66,1744.3,alluvial
+Assam,SIVASAGAR,2004,Kharif     ,Cotton(lint),9,5,16.85,74.94,1.66,1744.3,alluvial
+Assam,SIVASAGAR,2005,Kharif     ,Cotton(lint),9,4,17.19,74.62,1.67,1744.3,alluvial
+Assam,SIVASAGAR,2006,Kharif     ,Cotton(lint),10,5,17.56,71.69,1.69,1744.3,alluvial
+Assam,SIVASAGAR,2007,Kharif     ,Cotton(lint),20,8,17.24,73.88,1.68,1744.3,alluvial
+Assam,SIVASAGAR,2008,Kharif     ,Cotton(lint),9,4,17.05,74.56,1.69,1744.3,alluvial
+Assam,SIVASAGAR,2009,Kharif     ,Cotton(lint),8,3,17.35,74.31,1.73,1744.3,alluvial
+Assam,SIVASAGAR,2010,Kharif     ,Cotton(lint),4,3,17.33,75.19,1.8,1744.3,alluvial
+Assam,SIVASAGAR,2011,Kharif     ,Cotton(lint),4,3,16.9,74.69,1.7,1744.3,alluvial
+Assam,SIVASAGAR,2012,Kharif     ,Cotton(lint),4,3,17.2,74.5,1.83,1744.3,alluvial
+Assam,SIVASAGAR,2013,Kharif     ,Cotton(lint),4,3,17.64,74.62,1.73,1744.3,alluvial
+Assam,SIVASAGAR,2014,Kharif     ,Cotton(lint),3,3,17.65,76.5,1.8,1744.3,alluvial
+Assam,SONITPUR,1997,Kharif     ,Cotton(lint),31,14,23.72,68,2.03,1788.8,alluvial
+Assam,SONITPUR,1998,Kharif     ,Cotton(lint),31,14,24.29,69.69,1.9,1788.8,alluvial
+Assam,SONITPUR,1999,Kharif     ,Cotton(lint),34,15,24.71,67.75,1.91,1788.8,alluvial
+Assam,SONITPUR,2000,Kharif     ,Cotton(lint),33,15,23.72,71.88,1.9,1788.8,alluvial
+Assam,SONITPUR,2001,Kharif     ,Cotton(lint),33,15,24.27,70.06,1.82,1788.8,alluvial
+Assam,SONITPUR,2002,Kharif     ,Cotton(lint),26,11,24.27,70.44,1.94,1788.8,alluvial
+Assam,SONITPUR,2003,Kharif     ,Cotton(lint),24,11,23.9,74.25,1.9,1788.8,alluvial
+Assam,SONITPUR,2004,Kharif     ,Cotton(lint),22,10,23.45,76.31,1.9,1788.8,alluvial
+Assam,SONITPUR,2005,Kharif     ,Cotton(lint),14,6,23.95,74.94,1.98,1788.8,alluvial
+Assam,SONITPUR,2006,Kharif     ,Cotton(lint),17,8,24.67,69.19,1.98,1788.8,alluvial
+Assam,SONITPUR,2007,Kharif     ,Cotton(lint),5,2,23.82,73.69,1.95,1788.8,alluvial
+Assam,SONITPUR,2008,Kharif     ,Cotton(lint),1,1,23.76,75.12,1.96,1788.8,alluvial
+Assam,SONITPUR,2009,Kharif     ,Cotton(lint),1,1,24.41,72.31,1.99,1788.8,alluvial
+Assam,SONITPUR,2010,Kharif     ,Cotton(lint),17,8,24.02,76.12,2.14,1788.8,alluvial
+Assam,SONITPUR,2011,Kharif     ,Cotton(lint),1,1,23.84,74.44,2.05,1788.8,alluvial
+Assam,SONITPUR,2012,Kharif     ,Cotton(lint),87,41,23.99,75.25,2.11,1788.8,alluvial
+Assam,SONITPUR,2013,Kharif     ,Cotton(lint),8,3,24.46,75.25,2.12,1788.8,alluvial
+Assam,SONITPUR,2014,Kharif     ,Cotton(lint),10,4,24.98,73.69,2.14,1788.8,alluvial
+Assam,TINSUKIA,1998,Kharif     ,Cotton(lint),1,1,24.09,66.94,1.25,1994.4,alluvial
+Assam,TINSUKIA,1999,Kharif     ,Cotton(lint),1,1,24.62,64,1.28,1994.4,alluvial
+Assam,TINSUKIA,2000,Kharif     ,Cotton(lint),2,1,23.88,66.44,1.28,1994.4,alluvial
+Assam,TINSUKIA,2001,Kharif     ,Cotton(lint),1,1,24.55,64.88,1.26,1994.4,alluvial
+Assam,TINSUKIA,2002,Kharif     ,Cotton(lint),2,1,24.24,67.44,1.21,1994.4,alluvial
+Assam,TINSUKIA,2003,Kharif     ,Cotton(lint),2,1,23.98,68.88,1.2,1994.4,alluvial
+Assam,TINSUKIA,2004,Kharif     ,Cotton(lint),2,1,23.5,71.31,1.19,1994.4,alluvial
+Assam,TINSUKIA,2005,Kharif     ,Cotton(lint),2,1,23.97,70.38,1.21,1994.4,alluvial
+Assam,TINSUKIA,2006,Kharif     ,Cotton(lint),2,1,24.27,68.06,1.23,1994.4,alluvial
+Assam,TINSUKIA,2007,Kharif     ,Cotton(lint),2,1,23.71,70.31,1.23,1994.4,alluvial
+Assam,TINSUKIA,2008,Kharif     ,Cotton(lint),2,1,23.78,72.06,1.17,1994.4,alluvial
+Assam,TINSUKIA,2009,Kharif     ,Cotton(lint),1,1,23.99,73.19,1.13,1994.4,alluvial
+Assam,TINSUKIA,2010,Kharif     ,Cotton(lint),2,1,23.77,74.94,1.15,1994.4,alluvial
+Assam,TINSUKIA,2011,Kharif     ,Cotton(lint),1,1,23.51,74.56,1.14,1994.4,alluvial
+Assam,TINSUKIA,2012,Kharif     ,Cotton(lint),2,1,23.85,74.31,1.24,1994.4,alluvial
+Assam,TINSUKIA,2013,Kharif     ,Cotton(lint),1,1,24.61,74.38,1.25,1994.4,alluvial
+Assam,TINSUKIA,2014,Kharif     ,Cotton(lint),1,1,24.64,73.38,1.23,1994.4,alluvial
+Assam,UDALGURI,2005,Kharif     ,Cotton(lint),4,2,23.71,76.94,2.56,1645,alluvial
+Assam,UDALGURI,2006,Kharif     ,Cotton(lint),1,1,24.2,72.44,2.55,1645,alluvial
+Assam,UDALGURI,2008,Kharif     ,Cotton(lint),1,1,23.63,76.38,2.59,1645,alluvial
+Assam,UDALGURI,2010,Kharif     ,Cotton(lint),1,1,23.88,77.31,2.73,1645,alluvial
+Assam,UDALGURI,2011,Kharif     ,Cotton(lint),1,1,23.69,75.56,2.73,1645,alluvial
+Assam,UDALGURI,2012,Kharif     ,Cotton(lint),1,1,23.94,75.38,2.63,1645,alluvial
+Chhattisgarh,BALRAMPUR,2011,Kharif     ,Cotton(lint),6,1,23.23,60.19,2.77,1645,red
+Chhattisgarh,BALRAMPUR,2012,Kharif     ,Cotton(lint),6,6,23.09,59.25,2.74,1645,red
+Chhattisgarh,BALRAMPUR,2014,Whole Year ,Cotton(lint),6,1,22.94,62.12,2.76,1645,red
+Chhattisgarh,BASTAR,2001,Kharif     ,Cotton(lint),39,30,24.69,66.19,3.05,1535,laterite
+Chhattisgarh,BASTAR,2002,Kharif     ,Cotton(lint),39,31,25.12,63.06,3.23,1535,laterite
+Chhattisgarh,BASTAR,2003,Kharif     ,Cotton(lint),10,8,25.38,64.75,3.16,1535,laterite
+Chhattisgarh,BASTAR,2004,Kharif     ,Cotton(lint),3,2,23.93,71.44,2.95,1535,laterite
+Chhattisgarh,BASTAR,2007,Kharif     ,Cotton(lint),2,1,24.58,67.94,3.01,1535,laterite
+Chhattisgarh,BASTAR,2009,Whole Year ,Cotton(lint),2,1,25.13,64.25,2.95,1535,laterite
+Chhattisgarh,BEMETARA,2011,Kharif     ,Cotton(lint),45,68,25.55,60.44,2.78,1535,laterite
+Chhattisgarh,BEMETARA,2012,Kharif     ,Cotton(lint),45,12,25.93,57.75,2.98,948,laterite
+Chhattisgarh,BEMETARA,2013,Whole Year ,Cotton(lint),19,23,25.8,61.81,2.87,948,laterite
+Chhattisgarh,BEMETARA,2014,Whole Year ,Cotton(lint),23,29,25.83,60.94,3.05,948,laterite
+Chhattisgarh,DANTEWADA,2000,Kharif     ,Cotton(lint),5,7,24.96,61.81,2.74,948, red yellow
+Chhattisgarh,DANTEWADA,2001,Kharif     ,Cotton(lint),54,33,25.12,64.12,2.71,948, red yellow
+Chhattisgarh,DANTEWADA,2002,Kharif     ,Cotton(lint),29,10,25.64,60.69,2.86,948, red yellow
+Chhattisgarh,DANTEWADA,2005,Kharif     ,Cotton(lint),4,3,25.07,67,2.73,948, red yellow
+Chhattisgarh,DURG,2002,Kharif     ,Cotton(lint),16,24,26.69,53.69,3.31,1277, red yellow
+Chhattisgarh,DURG,2003,Kharif     ,Cotton(lint),46,78,26.44,58.81,3.22,1277, red yellow
+Chhattisgarh,DURG,2004,Kharif     ,Cotton(lint),396,609,25.57,62.69,3.05,1277, red yellow
+Chhattisgarh,DURG,2005,Kharif     ,Cotton(lint),192,295,25.98,59.88,3.02,1277, red yellow
+Chhattisgarh,DURG,2006,Kharif     ,Cotton(lint),59,87,25.9,62.19,3.09,1277, red yellow
+Chhattisgarh,DURG,2007,Kharif     ,Cotton(lint),38,50,26.01,59.81,2.96,1277, red yellow
+Chhattisgarh,DURG,2008,Kharif     ,Cotton(lint),14,21,25.63,61.12,3.03,1277, red yellow
+Chhattisgarh,DURG,2009,Whole Year ,Cotton(lint),7,21,26.9,55.81,2.91,1277, red yellow
+Chhattisgarh,DURG,2011,Kharif     ,Cotton(lint),34,51,25.29,63.94,2.88,1277, red yellow
+Chhattisgarh,DURG,2012,Kharif     ,Cotton(lint),76,114,25.81,60.75,3.15,1277, red yellow
+Chhattisgarh,DURG,2013,Whole Year ,Cotton(lint),28,42,25.65,64.69,3.07,1277, red yellow
+Chhattisgarh,DURG,2014,Whole Year ,Cotton(lint),30,45,25.65,63.75,3.17,1277, red yellow
+Chhattisgarh,RAIPUR,2003,Kharif     ,Cotton(lint),15,32,26.51,58.62,3.18,1388, red yellow
+Chhattisgarh,RAIPUR,2004,Kharif     ,Cotton(lint),56,115,25.5,63.44,3.02,1388, red yellow
+Chhattisgarh,RAIPUR,2005,Kharif     ,Cotton(lint),51,93,26.05,60.19,2.98,1388, red yellow
+Chhattisgarh,RAIPUR,2006,Kharif     ,Cotton(lint),37,76,25.85,62.75,3.03,1388, red yellow
+Chhattisgarh,RAIPUR,2007,Kharif     ,Cotton(lint),9,16,26.01,60.38,2.93,1388, red yellow
+Chhattisgarh,RAIPUR,2009,Whole Year ,Cotton(lint),9,16,26.87,56.06,2.88,1388, red yellow
+Chhattisgarh,RAIPUR,2010,Kharif     ,Cotton(lint),5,8,26.75,59.31,2.91,1388, red yellow
+Chhattisgarh,RAJNANDGAON,2001,Kharif     ,Cotton(lint),5,3,26.02,58.5,3.16,1105,red and black
+Chhattisgarh,RAJNANDGAON,2002,Kharif     ,Cotton(lint),2,5,26.69,53.69,3.31,1105,red and black
+Chhattisgarh,RAJNANDGAON,2003,Kharif     ,Cotton(lint),17,60,26.44,58.81,3.22,1105,red and black
+Chhattisgarh,RAJNANDGAON,2004,Kharif     ,Cotton(lint),13,37,25.57,62.69,3.05,1105,red and black
+Chhattisgarh,SURGUJA,2001,Kharif     ,Cotton(lint),5,6,23.8,57,3.19,1406,red and black
+Chhattisgarh,SURGUJA,2002,Kharif     ,Cotton(lint),4,5,24.26,54.62,3.02,1406,red and black
+Chhattisgarh,SURGUJA,2003,Kharif     ,Cotton(lint),4,4,23.91,59.31,3.05,1406,red and black
+Chhattisgarh,SURGUJA,2005,Kharif     ,Cotton(lint),1,1,23.81,58,2.98,1406,red and black
+Chhattisgarh,SURGUJA,2006,Kharif     ,Cotton(lint),1,1,24.02,58.75,2.92,1406,red and black
+Chhattisgarh,SURGUJA,2007,Kharif     ,Cotton(lint),1,1,23.59,60.19,3.02,1406,red and black
+Chhattisgarh,SURGUJA,2008,Kharif     ,Cotton(lint),11,11,24.59,54.5,2.95,1406,red and black
+Chhattisgarh,SURGUJA,2010,Kharif     ,Cotton(lint),7,12,24.81,55.31,2.93,1406,red and black
+Gujarat,AMRELI,1997,Whole Year ,Cotton(lint),79700,228200,26.8,52.75,2.95,607,black
+Gujarat,AMRELI,1998,Kharif     ,Cotton(lint),90100,371900,27.33,54.25,3.01,607,black
+Gujarat,AMRELI,1999,Kharif     ,Cotton(lint),93500,124500,27.69,48.25,3.15,607,black
+Gujarat,AMRELI,2000,Kharif     ,Cotton(lint),73100,58700,27.7,46.75,3.17,607,black
+Gujarat,AMRELI,2001,Kharif     ,Cotton(lint),84300,83000,27.28,49.31,3.07,607,black
+Gujarat,AMRELI,2002,Kharif     ,Cotton(lint),88800,140400,27.87,46.44,3.16,607,black
+Gujarat,AMRELI,2003,Kharif     ,Cotton(lint),104000,339200,27.06,53.25,2.96,607,black
+Gujarat,AMRELI,2004,Kharif     ,Cotton(lint),116400,290800,27.09,54.56,2.95,607,black
+Gujarat,AMRELI,2005,Kharif     ,Cotton(lint),148100,567100,26.47,54.12,2.95,607,black
+Gujarat,AMRELI,2006,Kharif     ,Cotton(lint),194300,890100,27.01,56.19,3.02,607,black
+Gujarat,AMRELI,2007,Kharif     ,Cotton(lint),235600,891700,26.76,58.12,2.84,607,black
+Gujarat,AMRELI,2008,Kharif     ,Cotton(lint),227100,760800,26.49,55.06,2.98,607,black
+Gujarat,AMRELI,2009,Kharif     ,Cotton(lint),245500,685600,27.63,52.06,2.91,607,black
+Gujarat,AMRELI,2010,Kharif     ,Cotton(lint),269400,1142600,26.98,59.56,2.87,607,black
+Gujarat,AMRELI,2011,Kharif     ,Cotton(lint),388900,1009900,26.82,55.88,2.99,607,black
+Gujarat,ANAND,2003,Kharif     ,Cotton(lint),1200,3900,27.3,53.19,2.48,763,grey and brown
+Gujarat,ANAND,2004,Kharif     ,Cotton(lint),3800,15400,27.58,51.38,2.45,763,grey and brown
+Gujarat,ANAND,2005,Kharif     ,Cotton(lint),3400,12800,26.74,52.81,2.34,763,grey and brown
+Gujarat,ANAND,2006,Kharif     ,Cotton(lint),3600,10900,27.3,55.38,2.39,763,grey and brown
+Gujarat,ANAND,2007,Kharif     ,Cotton(lint),3700,14300,27.34,54.5,2.34,763,grey and brown
+Gujarat,ANAND,2008,Kharif     ,Cotton(lint),3100,11100,27.01,51.56,2.46,763,grey and brown
+Gujarat,ANAND,2009,Kharif     ,Cotton(lint),2800,10200,28.07,50.19,2.46,763,grey and brown
+Gujarat,ANAND,2010,Kharif     ,Cotton(lint),3300,14400,27.8,56.31,2.32,763,grey and brown
+Gujarat,ANAND,2011,Kharif     ,Cotton(lint),5300,22700,27.23,53.06,2.5,763,grey and brown
+Gujarat,ANAND,2012,Kharif     ,Cotton(lint),7600,20800,27.19,49.12,2.68,763,grey and brown
+Haryana,BHIWANI,1997,Whole Year ,Cotton(lint),55000,85000,24.85,43.75,2.84,402.6,black
+Haryana,BHIWANI,1998,Kharif     ,Cotton(lint),54800,97000,25.48,44.44,2.91,402.6,black
+Haryana,BHIWANI,1999,Kharif     ,Cotton(lint),50459,122000,27.36,30.38,3.16,402.6,black
+Haryana,BHIWANI,2000,Kharif     ,Cotton(lint),47478,109000,26.74,31.56,3.16,402.6,black
+Haryana,BHIWANI,2001,Kharif     ,Cotton(lint),64668,80000,26.18,36.31,2.83,402.6,black
+Haryana,BHIWANI,2002,Kharif     ,Cotton(lint),64628,84000,27.21,33.06,3.05,402.6,black
+Haryana,BHIWANI,2003,Kharif     ,Cotton(lint),61897,121000,25.46,44,2.74,402.6,black
+Haryana,BHIWANI,2004,Kharif     ,Cotton(lint),73039,176000,26.69,38.19,3.04,402.6,black
+Haryana,BHIWANI,2005,Kharif     ,Cotton(lint),60491,105000,25.49,42.88,3.02,489.8,black
+Haryana,BHIWANI,2006,Kharif     ,Cotton(lint),48614,103000,26.65,39.94,3.15,364.1,black
+Haryana,BHIWANI,2007,Kharif     ,Cotton(lint),37338,99000,26.13,41.44,3.02,381.3,black
+Haryana,BHIWANI,2008,Kharif     ,Cotton(lint),29815,74000,25.3,45.62,2.79,762.5,black
+Haryana,BHIWANI,2009,Kharif     ,Cotton(lint),32829,88000,26.56,38.06,2.86,227.8,black
+Haryana,BHIWANI,2010,Kharif     ,Cotton(lint),34882,106000,26.13,44.56,2.79,441.1,black
+Haryana,BHIWANI,2011,Kharif     ,Cotton(lint),59565,216000,25.32,47.69,2.73,328.9,black
+Haryana,BHIWANI,2012,Kharif     ,Cotton(lint),62612,231000,25.43,38.44,3.22,335.7,black
+Haryana,FATEHABAD,1997,Whole Year ,Cotton(lint),108000,194000,24.87,42.88,2.72,970.15,alluvial
+Haryana,FATEHABAD,1998,Kharif     ,Cotton(lint),102017,162000,25.91,40.62,2.84,970.15,alluvial
+Haryana,FATEHABAD,1999,Kharif     ,Cotton(lint),95677,243000,27.54,28.69,3.04,970.15,alluvial
+Haryana,FATEHABAD,2000,Kharif     ,Cotton(lint),107704,289000,26.98,29.75,3.07,970.15,alluvial
+Haryana,FATEHABAD,2001,Kharif     ,Cotton(lint),114880,136000,26.34,34.88,2.73,970.15,alluvial
+Haryana,FATEHABAD,2002,Kharif     ,Cotton(lint),80297,170000,27.47,31.06,2.95,970.15,alluvial
+Haryana,FATEHABAD,2003,Kharif     ,Cotton(lint),87142,268000,25.75,40.69,2.71,970.15,alluvial
+Haryana,FATEHABAD,2004,Kharif     ,Cotton(lint),101065,424000,26.94,35.69,2.91,970.15,alluvial
+Haryana,FATEHABAD,2005,Kharif     ,Cotton(lint),94951,306000,25.65,41,2.93,970.15,alluvial
+Haryana,FATEHABAD,2006,Kharif     ,Cotton(lint),90886,373000,26.76,39.06,2.96,970.15,alluvial
+Haryana,FATEHABAD,2007,Kharif     ,Cotton(lint),85976,379000,26.4,39.81,2.84,970.15,alluvial
+Haryana,FATEHABAD,2008,Kharif     ,Cotton(lint),84341,378000,25.51,43.5,2.7,970.15,alluvial
+Haryana,FATEHABAD,2009,Kharif     ,Cotton(lint),85750,374000,26.72,36.12,2.75,970.15,alluvial
+Haryana,FATEHABAD,2010,Kharif     ,Cotton(lint),83976,308000,26.33,41.44,2.66,970.15,alluvial
+Haryana,FATEHABAD,2011,Kharif     ,Cotton(lint),90757,439000,25.6,45,2.66,970.15,alluvial
+Haryana,FATEHABAD,2012,Kharif     ,Cotton(lint),85542,358000,25.51,37.12,3.07,970.15,alluvial
+Haryana,HISAR,1997,Whole Year ,Cotton(lint),160000,301000,25.05,42.19,2.83,700,alluvial
+Haryana,HISAR,1998,Kharif     ,Cotton(lint),140103,207000,26.02,40.56,2.94,1039.25,alluvial
+Haryana,HISAR,1999,Kharif     ,Cotton(lint),135389,350000,27.65,28.62,3.19,1039.25,alluvial
+Haryana,HISAR,2000,Kharif     ,Cotton(lint),141906,349000,27.23,28.62,3.22,1039.25,alluvial
+Haryana,HISAR,2001,Kharif     ,Cotton(lint),166958,175000,26.62,33.88,2.83,1039.25,alluvial
+Haryana,HISAR,2002,Kharif     ,Cotton(lint),142580,330000,27.64,30.31,3.05,1039.25,alluvial
+Haryana,HISAR,2003,Kharif     ,Cotton(lint),141674,354000,25.98,39.56,2.78,1039.25,alluvial
+Haryana,HISAR,2004,Kharif     ,Cotton(lint),153627,461000,27.14,35.12,3.02,1039.25,alluvial
+Haryana,HISAR,2005,Kharif     ,Cotton(lint),146956,315000,25.88,40.12,2.99,1039.25,alluvial
+Haryana,HISAR,2006,Kharif     ,Cotton(lint),129660,396000,26.96,38.19,3.12,1039.25,alluvial
+Haryana,HISAR,2007,Kharif     ,Cotton(lint),118126,466000,26.53,39,2.97,1039.25,alluvial
+Haryana,HISAR,2008,Kharif     ,Cotton(lint),112152,468000,25.87,41.56,2.81,1039.25,alluvial
+Haryana,HISAR,2009,Kharif     ,Cotton(lint),132751,477000,26.91,35.69,2.84,1039.25,alluvial
+Haryana,HISAR,2010,Kharif     ,Cotton(lint),124277,431000,26.56,41.06,2.8,1039.25,alluvial
+Haryana,HISAR,2011,Kharif     ,Cotton(lint),153514,667000,25.85,43.69,2.76,1039.25,alluvial
+Haryana,HISAR,2012,Kharif     ,Cotton(lint),145604,528000,25.65,36.56,3.18,1039.25,alluvial
+Haryana,JHAJJAR,1997,Whole Year ,Cotton(lint),2000,3000,25.16,42.12,2.95,1262.6,alluvial
+Haryana,JHAJJAR,1998,Kharif     ,Cotton(lint),2339,3000,25.34,46.06,2.99,1262.6,alluvial
+Haryana,JHAJJAR,1999,Kharif     ,Cotton(lint),1094,1000,27.05,32.69,3.21,1262.6,alluvial
+Haryana,JHAJJAR,2000,Kharif     ,Cotton(lint),1577,2000,26.31,34.56,3.16,1262.6,alluvial
+Haryana,JHAJJAR,2001,Kharif     ,Cotton(lint),1261,2000,26.32,35.69,2.93,1262.6,alluvial
+Haryana,JHAJJAR,2002,Kharif     ,Cotton(lint),3657,4000,26.93,35.44,3.05,1262.6,alluvial
+Haryana,JHAJJAR,2003,Kharif     ,Cotton(lint),3397,8000,25.21,46.69,2.72,1262.6,alluvial
+Haryana,JHAJJAR,2004,Kharif     ,Cotton(lint),5325,7000,26.4,40.75,3.09,1262.6,alluvial
+Haryana,JHAJJAR,2005,Kharif     ,Cotton(lint),3617,7000,25.48,43.5,3.1,1262.6,alluvial
+Haryana,JHAJJAR,2006,Kharif     ,Cotton(lint),1736,5000,26.42,41.75,3.23,1262.6,alluvial
+Haryana,JHAJJAR,2007,Kharif     ,Cotton(lint),923,2000,25.89,43.25,3.09,1262.6,alluvial
+Haryana,JHAJJAR,2008,Kharif     ,Cotton(lint),559,3000,25.19,47.12,2.83,1262.6,alluvial
+Haryana,JHAJJAR,2009,Kharif     ,Cotton(lint),910,3000,26.37,40.69,2.91,1262.6,alluvial
+Haryana,JHAJJAR,2010,Kharif     ,Cotton(lint),513,1000,25.98,47.62,2.84,1262.6,alluvial
+Haryana,JHAJJAR,2011,Kharif     ,Cotton(lint),952,3000,25.1,49.94,2.71,1262.6,alluvial
+Haryana,JHAJJAR,2012,Kharif     ,Cotton(lint),2872,7000,25.3,40.5,3.23,1262.6,alluvial
+Haryana,JIND,1997,Whole Year ,Cotton(lint),60000,102000,24.73,43.31,2.77,1351.75,alluvial
+Haryana,JIND,1998,Kharif     ,Cotton(lint),45896,67000,25.39,43.69,2.84,1351.75,alluvial
+Haryana,JIND,1999,Kharif     ,Cotton(lint),36705,82000,27.14,30.62,3.06,1351.75,alluvial
+Haryana,JIND,2000,Kharif     ,Cotton(lint),38866,77000,26.44,32.62,3.07,1351.75,alluvial
+Haryana,JIND,2001,Kharif     ,Cotton(lint),46826,77000,25.92,36.94,2.78,1351.75,alluvial
+Haryana,JIND,2002,Kharif     ,Cotton(lint),37753,49000,27,33.69,2.98,1351.75,alluvial
+Haryana,JIND,2003,Kharif     ,Cotton(lint),43210,111000,25.29,44.25,2.75,1351.75,alluvial
+Haryana,JIND,2004,Kharif     ,Cotton(lint),49970,148000,26.42,38.81,2.98,1351.75,alluvial
+Haryana,JIND,2005,Kharif     ,Cotton(lint),49688,129000,25.32,42.94,3,1351.75,alluvial
+Haryana,JIND,2006,Kharif     ,Cotton(lint),45777,137000,26.47,40.5,3.05,1351.75,alluvial
+Haryana,JIND,2007,Kharif     ,Cotton(lint),44338,165000,26.08,41.38,2.98,1351.75,alluvial
+Haryana,JIND,2008,Kharif     ,Cotton(lint),45062,153000,24.93,47.25,2.75,1351.75,alluvial
+Haryana,JIND,2009,Kharif     ,Cotton(lint),45989,141000,26.31,38.44,2.82,1351.75,alluvial
+Haryana,JIND,2010,Kharif     ,Cotton(lint),47272,161000,25.93,44.38,2.71,1351.75,alluvial
+Haryana,JIND,2011,Kharif     ,Cotton(lint),63012,255000,25.04,48.44,2.7,1351.75,alluvial
+Haryana,JIND,2012,Kharif     ,Cotton(lint),66780,244000,25.28,39.06,3.19,1351.75,alluvial
+Karnataka,BAGALKOT,1998,Kharif     ,Cotton(lint),15225,22129,26.13,58,3.2,582,black
+Karnataka,BAGALKOT,1999,Kharif     ,Cotton(lint),11979,18434,26.21,60.19,3.09,582,black
+Karnataka,BAGALKOT,2000,Kharif     ,Cotton(lint),15767,23002,25.74,56.5,3.34,582,black
+Karnataka,BAGALKOT,2001,Kharif     ,Cotton(lint),14104,22539,25.74,56.69,3.17,582,black
+Karnataka,BAGALKOT,2002,Kharif     ,Cotton(lint),3511,5149,26.05,56,3.37,582,black
+Karnataka,BAGALKOT,2003,Kharif     ,Cotton(lint),3226,6374,26.65,54.25,3.32,582,black
+Karnataka,BAGALKOT,2004,Kharif     ,Cotton(lint),7315,12172,26.82,54.69,3.28,582,black
+Karnataka,BAGALKOT,2005,Whole Year ,Cotton(lint),5632,9351,25.84,56.75,3.28,582,black
+Karnataka,BAGALKOT,2006,Whole Year ,Cotton(lint),2974,4695,25.5,61.19,3.03,582,black
+Karnataka,BAGALKOT,2007,Whole Year ,Cotton(lint),2660,3791,25.65,60.31,3.3,582,black
+Karnataka,BAGALKOT,2008,Whole Year ,Cotton(lint),2466,5901,25.68,60.38,3.06,582,black
+Karnataka,BAGALKOT,2009,Whole Year ,Cotton(lint),2824,4402,25.42,60.62,3.2,582,black
+Karnataka,BAGALKOT,2010,Kharif     ,Cotton(lint),1034,2338,26.17,59.44,3.16,582,black
+Karnataka,BAGALKOT,2010,Rabi       ,Cotton(lint),1357,1938,26.29,59.44,3.16,582,black
+Karnataka,BAGALKOT,2011,Kharif     ,Cotton(lint),1007,2450,26,62.25,3.02,582,black
+Karnataka,BAGALKOT,2011,Rabi       ,Cotton(lint),874,928,26.37,62.25,3.02,582,black
+Karnataka,BAGALKOT,2012,Kharif     ,Cotton(lint),477,909,25.9,56.62,3.42,582,black
+Karnataka,BAGALKOT,2012,Rabi       ,Cotton(lint),328,409,25.9,56.62,3.42,582,black
+Karnataka,BAGALKOT,2013,Kharif     ,Cotton(lint),606,1795,26.96,54.31,3.36,582,black
+Karnataka,BAGALKOT,2013,Rabi       ,Cotton(lint),354,653,26.96,54.31,3.36,582,black
+Karnataka,BAGALKOT,2014,Kharif     ,Cotton(lint),3299,8996,25.96,58.69,3.42,582,black
+Karnataka,BAGALKOT,2014,Rabi       ,Cotton(lint),210,334,25.96,58.69,3.42,582,black
+Karnataka,BAGALKOT,2014,Summer     ,Cotton(lint),350,663,25.96,59.31,3.16,582,black
+Karnataka,BELGAUM,1998,Kharif     ,Cotton(lint),65829,98969,24.18,69.38,2.62,826,black
+Karnataka,BELGAUM,1999,Kharif     ,Cotton(lint),49070,86693,24.2,70.94,2.69,826,black
+Karnataka,BELGAUM,2000,Kharif     ,Cotton(lint),49186,94627,23.98,67.5,2.75,826,black
+Karnataka,BELGAUM,2001,Kharif     ,Cotton(lint),40767,50651,23.95,67.31,2.73,826,black
+Karnataka,BELGAUM,2002,Kharif     ,Cotton(lint),29028,31313,24.21,66.44,2.89,826,black
+Karnataka,BELGAUM,2003,Kharif     ,Cotton(lint),18749,13700,24.69,66.19,2.72,826,black
+Karnataka,BELGAUM,2004,Kharif     ,Cotton(lint),37659,62440,24.96,65.25,2.69,826,black
+Karnataka,BELGAUM,2005,Whole Year ,Cotton(lint),28359,41840,24.24,66.94,2.77,826,black
+Karnataka,BELGAUM,2006,Whole Year ,Cotton(lint),28247,50807,23.98,69.69,2.71,826,black
+Karnataka,BELGAUM,2007,Whole Year ,Cotton(lint),21050,51444,23.95,70.38,2.85,826,black
+Karnataka,BELGAUM,2008,Whole Year ,Cotton(lint),20041,38609,24.09,70.56,2.68,826,black
+Karnataka,BELGAUM,2009,Whole Year ,Cotton(lint),30046,63454,23.83,69.44,2.67,826,black
+Karnataka,BELGAUM,2010,Kharif     ,Cotton(lint),37660,83178,24.49,69.62,2.69,826,black
+Karnataka,BELGAUM,2010,Rabi       ,Cotton(lint),671,1277,24.4,73.19,2.59,826,black
+Karnataka,BELGAUM,2011,Kharif     ,Cotton(lint),37618,84884,24.01,68.69,2.86,826,black
+Karnataka,BELGAUM,2011,Rabi       ,Cotton(lint),394,744,24.01,68.69,2.86,826,black
+Karnataka,BELGAUM,2012,Kharif     ,Cotton(lint),22513,41389,24.39,66.19,2.73,826,black
+Karnataka,BELGAUM,2012,Summer     ,Cotton(lint),162,449,24.39,66.19,2.73,826,black
+Karnataka,BELGAUM,2013,Kharif     ,Cotton(lint),29844,83384,24.14,69.12,2.85,826,black
+Karnataka,BELGAUM,2013,Rabi       ,Cotton(lint),1256,2316,24.14,69.12,2.85,826,black
+Karnataka,BELGAUM,2013,Summer     ,Cotton(lint),265,955,24.14,69.12,2.85,826,black
+Karnataka,BELGAUM,2014,Kharif     ,Cotton(lint),39811,108785,24.26,69.31,2.61,826,black
+Karnataka,BELGAUM,2014,Rabi       ,Cotton(lint),470,749,24.26,69.31,2.61,826,black
+Karnataka,BELGAUM,2014,Summer     ,Cotton(lint),29,55,24.26,69.31,2.61,826,black
+Karnataka,BELLARY,1998,Kharif     ,Cotton(lint),66412,85696,26.81,61.31,3.09,599,mixed red and black
+Karnataka,BELLARY,1999,Kharif     ,Cotton(lint),55563,55883,26.08,59.5,3.41,599,mixed red and black
+Karnataka,BELLARY,2000,Kharif     ,Cotton(lint),52037,68670,26.23,58.88,3.27,599,mixed red and black
+Karnataka,BELLARY,2001,Kharif     ,Cotton(lint),51505,69414,26.47,58.5,3.39,599,mixed red and black
+Karnataka,BELLARY,2002,Kharif     ,Cotton(lint),35188,38941,27.01,56.38,3.48,599,mixed red and black
+Karnataka,BELLARY,2003,Kharif     ,Cotton(lint),26088,21825,27.4,55.31,3.43,599,mixed red and black
+Karnataka,BELLARY,2004,Kharif     ,Cotton(lint),42373,48777,26.19,59.69,3.37,599,mixed red and black
+Karnataka,BELLARY,2005,Whole Year ,Cotton(lint),26690,35262,25.88,64.56,2.98,599,mixed red and black
+Karnataka,BELLARY,2006,Whole Year ,Cotton(lint),19167,28963,26.19,61.81,3.34,599,mixed red and black
+Karnataka,BELLARY,2007,Whole Year ,Cotton(lint),26604,48546,25.83,63.25,3.11,599,mixed red and black
+Karnataka,BELLARY,2008,Whole Year ,Cotton(lint),19627,36344,25.75,63.06,3.14,599,mixed red and black
+Karnataka,BELLARY,2009,Whole Year ,Cotton(lint),25269,47008,26.38,61.31,3.33,599,mixed red and black
+Karnataka,BELLARY,2010,Kharif     ,Cotton(lint),37118,100359,26.37,64.56,3.12,599,mixed red and black
+Karnataka,BELLARY,2011,Kharif     ,Cotton(lint),37717,80774,26.72,56.81,3.48,599,mixed red and black
+Karnataka,BELLARY,2012,Kharif     ,Cotton(lint),62710,171708,26.33,60.44,3.29,599,mixed red and black
+Karnataka,BIDAR,1998,Kharif     ,Cotton(lint),3616,3439,26.37,59,2.49,599,laterite
+Karnataka,BIDAR,1999,Kharif     ,Cotton(lint),2817,3001,25.83,53.81,2.68,838,laterite
+Karnataka,BIDAR,2000,Kharif     ,Cotton(lint),1373,1994,25.87,52.56,2.48,838,laterite
+Karnataka,BIDAR,2001,Kharif     ,Cotton(lint),1843,1668,25.96,55.5,2.62,838,laterite
+Karnataka,BIDAR,2002,Kharif     ,Cotton(lint),1477,2410,26.64,52.31,2.67,838,laterite
+Karnataka,BIDAR,2003,Kharif     ,Cotton(lint),1321,1373,26.62,54.81,2.67,838,laterite
+Karnataka,BIDAR,2004,Kharif     ,Cotton(lint),1914,2194,25.8,56.94,2.67,838,laterite
+Karnataka,BIDAR,2005,Whole Year ,Cotton(lint),1505,1279,25.49,60.31,2.6,838,laterite
+Karnataka,BIDAR,2006,Whole Year ,Cotton(lint),1430,1151,25.38,62.25,2.53,838,laterite
+Karnataka,BIDAR,2007,Whole Year ,Cotton(lint),1307,1066,25.9,57.38,2.53,838,laterite
+Karnataka,BIDAR,2008,Whole Year ,Cotton(lint),1384,1270,25.56,58.5,2.55,838,laterite
+Karnataka,BIDAR,2009,Whole Year ,Cotton(lint),1165,1115,26.55,55,2.6,838,laterite
+Karnataka,BIDAR,2010,Kharif     ,Cotton(lint),787,901,26.36,60.5,2.48,838,laterite
+Karnataka,BIDAR,2011,Kharif     ,Cotton(lint),632,1286,25.94,55.81,2.69,838,laterite
+Karnataka,BIDAR,2012,Kharif     ,Cotton(lint),549,1261,26.41,52.44,2.68,838,laterite
+Karnataka,BIDAR,2013,Kharif     ,Cotton(lint),319,945,25.71,61.19,2.74,838,laterite
+Karnataka,BIDAR,2014,Kharif     ,Cotton(lint),291,794,26.15,56.19,2.55,838,laterite
+Karnataka,BIJAPUR,1998,Kharif     ,Cotton(lint),8727,12667,26.46,58.38,2.98,578,black
+Karnataka,BIJAPUR,1999,Kharif     ,Cotton(lint),7198,12749,26.01,53.56,3.27,578,black
+Karnataka,BIJAPUR,2000,Kharif     ,Cotton(lint),14718,27539,26.14,52.75,3.08,578,black
+Karnataka,BIJAPUR,2001,Kharif     ,Cotton(lint),11094,14634,26.27,54.25,3.26,578,black
+Karnataka,BIJAPUR,2002,Kharif     ,Cotton(lint),2851,3673,26.88,51.88,3.2,578,black
+Karnataka,BIJAPUR,2003,Kharif     ,Cotton(lint),1226,1753,27.27,50.75,3.25,578,black
+Karnataka,BIJAPUR,2004,Kharif     ,Cotton(lint),3043,7663,26.15,54.44,3.16,578,black
+Karnataka,BIJAPUR,2005,Whole Year ,Cotton(lint),1863,5568,25.9,57.75,3.06,578,black
+Karnataka,BIJAPUR,2006,Whole Year ,Cotton(lint),1746,3317,26.01,57.81,3.18,578,black
+Karnataka,BIJAPUR,2007,Whole Year ,Cotton(lint),4100,10326,26.28,55.94,3.08,578,black
+Karnataka,BIJAPUR,2008,Whole Year ,Cotton(lint),5553,12932,25.94,57,3.17,578,black
+Karnataka,BIJAPUR,2009,Whole Year ,Cotton(lint),3669,7636,26.72,55.31,3.11,578,black
+Karnataka,BIJAPUR,2010,Kharif     ,Cotton(lint),9599,26525,26.9,58.31,3.02,578,black
+Karnataka,BIJAPUR,2011,Kharif     ,Cotton(lint),11130,29346,26.4,53.56,3.34,578,black
+Karnataka,BIJAPUR,2012,Kharif     ,Cotton(lint),11247,25893,27,49.44,3.35,578,black
+Karnataka,BIJAPUR,2013,Kharif     ,Cotton(lint),9881,23301,26.45,55.62,3.38,578,black
+Karnataka,BIJAPUR,2014,Kharif     ,Cotton(lint),14303,32450,26.57,55.19,3.14,578,black
+Karnataka,CHAMARAJANAGAR,1998,Kharif     ,Cotton(lint),12738,32303,23.96,72.56,2.12,787,red
+Karnataka,CHAMARAJANAGAR,1999,Kharif     ,Cotton(lint),12157,16746,23.23,70.88,2.24,787,red
+Karnataka,CHAMARAJANAGAR,2000,Kharif     ,Cotton(lint),9652,7944,23.51,69.75,2.36,787,red
+Karnataka,CHAMARAJANAGAR,2001,Kharif     ,Cotton(lint),10547,7085,23.65,70.69,2.3,787,red
+Karnataka,CHAMARAJANAGAR,2002,Kharif     ,Cotton(lint),5271,928,24.13,67.19,2.34,787,red
+Karnataka,CHAMARAJANAGAR,2003,Kharif     ,Cotton(lint),5420,1143,24.3,67.81,2.27,787,red
+Karnataka,CHAMARAJANAGAR,2004,Kharif     ,Cotton(lint),14169,3485,23.35,70.94,2.23,787,red
+Karnataka,CHAMARAJANAGAR,2005,Whole Year ,Cotton(lint),6842,3169,23.6,72.94,2.12,787,red
+Karnataka,CHAMARAJANAGAR,2006,Whole Year ,Cotton(lint),1511,731,23.32,72.81,2.36,787,red
+Karnataka,CHAMARAJANAGAR,2007,Whole Year ,Cotton(lint),2248,1772,23.38,71.75,2.12,787,red
+Karnataka,CHAMARAJANAGAR,2008,Whole Year ,Cotton(lint),443,423,22.97,73.69,2.11,787,red
+Karnataka,CHAMARAJANAGAR,2009,Whole Year ,Cotton(lint),754,683,23.78,69.69,2.31,787,red
+Karnataka,CHAMARAJANAGAR,2010,Kharif     ,Cotton(lint),2593,2531,23.79,72.81,2.1,787,red
+Karnataka,CHAMARAJANAGAR,2011,Kharif     ,Cotton(lint),6522,10277,23.44,70.31,2.3,787,red
+Karnataka,CHAMARAJANAGAR,2012,Kharif     ,Cotton(lint),7319,6298,24.25,66.19,2.34,787,red
+Karnataka,CHAMARAJANAGAR,2013,Kharif     ,Cotton(lint),10166,30108,23.88,69.44,2.35,787,red
+Karnataka,CHAMARAJANAGAR,2014,Kharif     ,Cotton(lint),15063,17592,23.88,69.44,2.23,787,red
+Karnataka,CHIKBALLAPUR,2010,Kharif     ,Cotton(lint),93,244,24.08,69.88,2.88,736,laterite
+Karnataka,CHIKBALLAPUR,2011,Kharif     ,Cotton(lint),136,416,23.69,66,3.18,736,laterite
+Karnataka,CHIKBALLAPUR,2012,Kharif     ,Cotton(lint),120,276,24.48,61.81,3.24,736,laterite
+Karnataka,CHIKBALLAPUR,2013,Kharif     ,Cotton(lint),160,474,23.83,61.81,3.22,736,laterite
+Karnataka,CHIKBALLAPUR,2014,Kharif     ,Cotton(lint),67,183,24.26,67.44,3.16,736,laterite
+Karnataka,CHIKMAGALUR,1998,Kharif     ,Cotton(lint),3270,4898,22.71,63.88,1.05,736,red
+Karnataka,CHIKMAGALUR,1999,Kharif     ,Cotton(lint),2108,2489,21.88,79.56,1.09,736,red
+Karnataka,CHIKMAGALUR,2000,Kharif     ,Cotton(lint),1969,2906,21.9,78.56,1.11,736,red
+Karnataka,CHIKMAGALUR,2001,Kharif     ,Cotton(lint),1537,1271,22.17,78.81,1.09,736,red
+Karnataka,CHIKMAGALUR,2002,Kharif     ,Cotton(lint),1711,1950,22.51,77.38,1.09,736,red
+Karnataka,CHIKMAGALUR,2003,Kharif     ,Cotton(lint),392,407,22.76,77.25,1.05,736,red
+Karnataka,CHIKMAGALUR,2004,Kharif     ,Cotton(lint),2037,2504,22.17,77.75,1.1,736,red
+Karnataka,CHIKMAGALUR,2005,Whole Year ,Cotton(lint),2157,1796,22.55,79,1.04,736,red
+Karnataka,CHIKMAGALUR,2006,Whole Year ,Cotton(lint),2023,2227,22.17,79.19,1.14,736,red
+Karnataka,CHIKMAGALUR,2007,Whole Year ,Cotton(lint),1868,3372,22.01,80.25,1.05,736,red
+Karnataka,CHIKMAGALUR,2008,Whole Year ,Cotton(lint),1202,1364,21.83,79.94,1.05,736,red
+Karnataka,CHIKMAGALUR,2009,Whole Year ,Cotton(lint),1028,1425,22.53,78.75,1.08,736,red
+Karnataka,CHIKMAGALUR,2010,Kharif     ,Cotton(lint),877,2044,22.38,82.94,0.98,736,red
+Karnataka,CHIKMAGALUR,2011,Kharif     ,Cotton(lint),1026,1181,21.73,80,1.12,736,red
+Karnataka,CHIKMAGALUR,2012,Kharif     ,Cotton(lint),1159,952,22.34,77.44,1.08,736,red
+Karnataka,CHIKMAGALUR,2013,Kharif     ,Cotton(lint),1299,1386,22.2,79.25,1.12,736,red
+Karnataka,CHIKMAGALUR,2014,Kharif     ,Cotton(lint),1843,3018,22.34,79.38,1.03,736,red
+Karnataka,CHITRADURGA,1998,Kharif     ,Cotton(lint),26795,30271,24.93,68.25,2.91,540,mixed red and black
+Karnataka,CHITRADURGA,1999,Kharif     ,Cotton(lint),13905,15166,23.98,67.44,3.12,540,mixed red and black
+Karnataka,CHITRADURGA,2000,Kharif     ,Cotton(lint),16297,27965,24.11,66.69,3.11,540,mixed red and black
+Karnataka,CHITRADURGA,2001,Kharif     ,Cotton(lint),17762,16460,24.42,65.94,3.16,540,mixed red and black
+Karnataka,CHITRADURGA,2002,Kharif     ,Cotton(lint),7553,9979,24.94,63.44,3.2,540,mixed red and black
+Karnataka,CHITRADURGA,2003,Kharif     ,Cotton(lint),4092,4300,25.35,62.5,3.09,540,mixed red and black
+Karnataka,CHITRADURGA,2004,Kharif     ,Cotton(lint),15420,24022,24.23,66,3.12,540,mixed red and black
+Karnataka,CHITRADURGA,2005,Whole Year ,Cotton(lint),15383,26687,24.26,70.06,2.81,540,mixed red and black
+Karnataka,CHITRADURGA,2006,Whole Year ,Cotton(lint),8535,12117,24.17,68.62,3.2,540,mixed red and black
+Karnataka,CHITRADURGA,2007,Whole Year ,Cotton(lint),10648,24767,24,69.12,2.87,540,mixed red and black
+Karnataka,CHITRADURGA,2008,Whole Year ,Cotton(lint),4372,7054,23.73,69.94,2.92,540,mixed red and black
+Karnataka,CHITRADURGA,2009,Whole Year ,Cotton(lint),10513,14749,24.43,68.19,3.07,540,mixed red and black
+Karnataka,CHITRADURGA,2010,Kharif     ,Cotton(lint),14514,32813,24.25,72.75,2.74,540,mixed red and black
+Karnataka,CHITRADURGA,2011,Kharif     ,Cotton(lint),20190,37180,23.98,67.62,3.21,540,mixed red and black
+Karnataka,CHITRADURGA,2012,Kharif     ,Cotton(lint),17637,25526,24.58,64.44,3.1,540,mixed red and black
+Karnataka,CHITRADURGA,2013,Kharif     ,Cotton(lint),20250,34287,24.3,67.69,3.12,540,mixed red and black
+Karnataka,CHITRADURGA,2014,Kharif     ,Cotton(lint),28366,48504,24.26,68.31,2.91,540,mixed red and black
+Karnataka,DAVANGERE,1998,Kharif     ,Cotton(lint),26284,31242,25.08,70.44,2.9,659,red
+Karnataka,DAVANGERE,1999,Kharif     ,Cotton(lint),10250,11062,24.35,68.88,3.05,659,red
+Karnataka,DAVANGERE,2000,Kharif     ,Cotton(lint),6321,8061,24.45,68.31,3.03,659,red
+Karnataka,DAVANGERE,2001,Kharif     ,Cotton(lint),10159,9014,24.69,67.5,3.09,659,red
+Karnataka,DAVANGERE,2002,Kharif     ,Cotton(lint),4660,4327,25.15,66.06,3.05,659,red
+Karnataka,DAVANGERE,2003,Kharif     ,Cotton(lint),3590,2961,25.53,65.44,2.98,659,red
+Karnataka,DAVANGERE,2004,Kharif     ,Cotton(lint),6869,12610,24.63,67.19,3.06,659,red
+Karnataka,DAVANGERE,2005,Whole Year ,Cotton(lint),6364,8361,24.6,71,2.84,659,red
+Karnataka,DAVANGERE,2006,Whole Year ,Cotton(lint),4976,10089,24.58,69.69,3.2,659,red
+Karnataka,DAVANGERE,2007,Whole Year ,Cotton(lint),6174,17914,24.4,71.19,2.89,659,red
+Karnataka,DAVANGERE,2008,Whole Year ,Cotton(lint),8051,15797,24.23,70.31,2.93,659,red
+Karnataka,DAVANGERE,2009,Whole Year ,Cotton(lint),16843,28211,24.87,69.94,2.98,659,red
+Karnataka,DAVANGERE,2010,Kharif     ,Cotton(lint),22871,50664,24.68,74.44,2.74,659,red
+Karnataka,DAVANGERE,2011,Kharif     ,Cotton(lint),22930,58939,24.36,69.31,3.16,659,red
+Karnataka,DAVANGERE,2012,Kharif     ,Cotton(lint),14903,26399,24.92,66.75,2.98,659,red
+Karnataka,DAVANGERE,2013,Kharif     ,Cotton(lint),19895,25348,24.72,68.56,3.12,659,red
+Karnataka,DAVANGERE,2014,Kharif     ,Cotton(lint),20325,29075,24.73,69.44,2.89,659,red
+Karnataka,GADAG,1998,Kharif     ,Cotton(lint),62230,69246,25.84,62.56,62.56,624,red
+Karnataka,GADAG,1999,Kharif     ,Cotton(lint),57536,41642,25.3,59.94,59.94,624,red
+Karnataka,GADAG,2000,Kharif     ,Cotton(lint),67713,97437,25.33,59.88,59.88,624,red
+Karnataka,GADAG,2001,Kharif     ,Cotton(lint),77125,50442,25.62,58.69,58.69,624,red
+Karnataka,GADAG,2002,Kharif     ,Cotton(lint),45540,20497,26.23,57.06,57.06,624,red
+Karnataka,GADAG,2003,Kharif     ,Cotton(lint),37175,7485,26.43,57.31,57.31,624,red
+Karnataka,GADAG,2004,Kharif     ,Cotton(lint),59863,42548,25.44,59.5,59.5,624,red
+Karnataka,GADAG,2005,Whole Year ,Cotton(lint),55846,44817,25.09,64.19,64.19,624,red
+Karnataka,GADAG,2006,Whole Year ,Cotton(lint),37817,17854,25.26,63.06,63.06,624,red
+Karnataka,GADAG,2007,Whole Year ,Cotton(lint),49518,76528,25.18,63.88,63.88,624,red
+Karnataka,GADAG,2008,Whole Year ,Cotton(lint),41834,95198,24.94,63.75,63.75,624,red
+Karnataka,GADAG,2009,Whole Year ,Cotton(lint),62015,82054,25.59,63.12,63.12,624,red
+Karnataka,GADAG,2010,Kharif     ,Cotton(lint),24843,57340,25.64,66.19,66.19,624,red
+Karnataka,GADAG,2011,Kharif     ,Cotton(lint),24721,43291,25.44,60.44,60.44,624,red
+Karnataka,GADAG,2012,Kharif     ,Cotton(lint),12863,20413,25.8,58.31,58.31,624,red
+Karnataka,GADAG,2013,Kharif     ,Cotton(lint),25670,100411,25.43,61.62,61.62,624,red
+Karnataka,GADAG,2014,Kharif     ,Cotton(lint),64795,198055,25.43,62.81,62.81,624,red
+Karnataka,GULBARGA,1998,Kharif     ,Cotton(lint),20113,38605,26.67,58.25,2.61,872,red
+Karnataka,GULBARGA,1999,Kharif     ,Cotton(lint),12085,18754,26.41,51.56,2.88,872,red
+Karnataka,GULBARGA,2000,Kharif     ,Cotton(lint),10595,28167,26.23,52.44,2.61,872,red
+Karnataka,GULBARGA,2001,Kharif     ,Cotton(lint),28394,53835,26.39,54.5,2.79,872,red
+Karnataka,GULBARGA,2002,Kharif     ,Cotton(lint),16443,43235,26.91,52.31,2.77,872,red
+Karnataka,GULBARGA,2003,Kharif     ,Cotton(lint),17295,48613,27.3,51.81,2.88,872,red
+Karnataka,GULBARGA,2004,Kharif     ,Cotton(lint),27881,73916,26.09,56.25,2.74,872,red
+Karnataka,GULBARGA,2005,Whole Year ,Cotton(lint),28773,103776,25.83,59.44,2.73,872,red
+Karnataka,GULBARGA,2006,Whole Year ,Cotton(lint),23582,85067,25.96,59.69,2.7,872,red
+Karnataka,GULBARGA,2007,Whole Year ,Cotton(lint),26010,106214,26.3,56.31,2.69,872,red
+Karnataka,GULBARGA,2008,Whole Year ,Cotton(lint),50976,185757,25.92,57.69,2.73,872,red
+Karnataka,GULBARGA,2009,Whole Year ,Cotton(lint),23502,55471,26.87,54.69,2.76,872,red
+Karnataka,GULBARGA,2010,Kharif     ,Cotton(lint),13759,38254,26.76,59.56,2.61,872,red
+Karnataka,GULBARGA,2011,Kharif     ,Cotton(lint),26496,107190,26.61,52.94,2.92,872,red
+Karnataka,GULBARGA,2012,Kharif     ,Cotton(lint),39523,90771,26.92,50.94,2.84,872,red
+Karnataka,GULBARGA,2013,Kharif     ,Cotton(lint),47273,269445,26.23,58.69,2.89,872,red
+Karnataka,GULBARGA,2014,Kharif     ,Cotton(lint),82637,338020,26.47,56.06,2.68,872,red
+Karnataka,HASSAN,1998,Kharif     ,Cotton(lint),5225,5688,23.28,74.19,2.17,1142,red
+Karnataka,HASSAN,1999,Kharif     ,Cotton(lint),5425,9278,22.32,73.88,2.26,1142,red
+Karnataka,HASSAN,2000,Kharif     ,Cotton(lint),3462,5608,22.57,71.94,2.35,1142,red
+Karnataka,HASSAN,2001,Kharif     ,Cotton(lint),2326,4147,22.8,72.5,2.3,1142,red
+Karnataka,HASSAN,2002,Kharif     ,Cotton(lint),1802,957,23.24,69.62,2.32,1142,red
+Karnataka,HASSAN,2003,Kharif     ,Cotton(lint),169,133,23.51,69.44,2.23,1142,red
+Karnataka,HASSAN,2004,Kharif     ,Cotton(lint),1809,1795,22.65,71.88,2.29,1142,red
+Karnataka,HASSAN,2005,Whole Year ,Cotton(lint),1249,1221,23,73.81,2.12,1142,red
+Karnataka,HASSAN,2006,Whole Year ,Cotton(lint),3106,2551,22.58,74.06,2.35,1142,red
+Karnataka,HASSAN,2007,Whole Year ,Cotton(lint),1108,966,22.58,73.75,2.13,1142,red
+Karnataka,HASSAN,2008,Whole Year ,Cotton(lint),815,1303,22.19,75.44,2.16,1142,red
+Karnataka,HASSAN,2009,Whole Year ,Cotton(lint),297,453,22.89,73.06,2.28,1142,red
+Karnataka,HASSAN,2010,Kharif     ,Cotton(lint),106,234,22.88,76.69,2.06,1142,red
+Karnataka,HASSAN,2011,Kharif     ,Cotton(lint),88,178,22.26,74.12,2.31,1142,red
+Karnataka,HASSAN,2012,Kharif     ,Cotton(lint),64,147,23,70.19,2.25,1142,red
+Karnataka,HASSAN,2013,Kharif     ,Cotton(lint),281,832,22.7,73.81,2.33,1142,red
+Karnataka,HASSAN,2014,Kharif     ,Cotton(lint),400,1091,22.79,73.38,2.16,1142,red
+Karnataka,HAVERI,1998,Kharif     ,Cotton(lint),79382,91997,25.74,65.44,2.95,800,laterite
+Karnataka,HAVERI,1999,Kharif     ,Cotton(lint),71949,65398,25.15,63.19,3.16,800,laterite
+Karnataka,HAVERI,2000,Kharif     ,Cotton(lint),67008,119094,25.18,63.12,3.05,800,laterite
+Karnataka,HAVERI,2001,Kharif     ,Cotton(lint),80825,79106,25.52,61.44,3.2,800,laterite
+Karnataka,HAVERI,2002,Kharif     ,Cotton(lint),59585,49612,26.09,59.88,3.15,800,laterite
+Karnataka,HAVERI,2003,Kharif     ,Cotton(lint),47319,31332,26.39,59.5,3.09,800,laterite
+Karnataka,HAVERI,2004,Kharif     ,Cotton(lint),63400,92471,25.35,62.12,3.12,800,laterite
+Karnataka,HAVERI,2005,Whole Year ,Cotton(lint),59771,96519,25.07,66.94,2.84,800,laterite
+Karnataka,HAVERI,2006,Whole Year ,Cotton(lint),76459,129621,25.15,65.56,3.2,800,laterite
+Karnataka,HAVERI,2007,Whole Year ,Cotton(lint),78900,152978,25.01,67,2.91,800,laterite
+Karnataka,HAVERI,2008,Whole Year ,Cotton(lint),91934,163838,24.8,66.5,2.97,800,laterite
+Karnataka,HAVERI,2009,Whole Year ,Cotton(lint),109231,143134,25.43,65.94,3,800,laterite
+Karnataka,HAVERI,2010,Kharif     ,Cotton(lint),100887,277675,25.39,69.62,2.79,800,laterite
+Karnataka,HAVERI,2011,Kharif     ,Cotton(lint),104276,304176,25.21,63.81,3.24,800,laterite
+Karnataka,HAVERI,2012,Kharif     ,Cotton(lint),64332,144873,25.62,61.62,3.06,800,laterite
+Karnataka,HAVERI,2013,Kharif     ,Cotton(lint),96977,192919,25.32,64.19,3.17,800,laterite
+Karnataka,HAVERI,2014,Kharif     ,Cotton(lint),105249,211727,25.29,65.5,2.96,800,laterite
+Karnataka,KOPPAL,1998,Kharif     ,Cotton(lint),19182,18430,26.39,61.06,3.02,614,mixed red and black
+Karnataka,KOPPAL,1999,Kharif     ,Cotton(lint),19037,14362,25.83,58.31,3.29,614,mixed red and black
+Karnataka,KOPPAL,2000,Kharif     ,Cotton(lint),25417,20690,25.87,58.06,3.13,614,mixed red and black
+Karnataka,KOPPAL,2001,Kharif     ,Cotton(lint),35991,38735,26.17,57.5,3.3,614,mixed red and black
+Karnataka,KOPPAL,2002,Kharif     ,Cotton(lint),4684,4337,26.72,55.62,3.29,614,mixed red and black
+Karnataka,KOPPAL,2003,Kharif     ,Cotton(lint),12569,5093,26.99,55.62,3.27,614,mixed red and black
+Karnataka,KOPPAL,2004,Kharif     ,Cotton(lint),29156,26932,25.9,58.62,3.24,614,mixed red and black
+Karnataka,KOPPAL,2005,Whole Year ,Cotton(lint),11560,4788,25.49,63.69,2.92,614,mixed red and black
+Karnataka,KOPPAL,2006,Whole Year ,Cotton(lint),3779,1940,25.8,61.69,3.24,614,mixed red and black
+Karnataka,KOPPAL,2007,Whole Year ,Cotton(lint),12819,9164,25.59,62.62,2.99,614,mixed red and black
+Karnataka,KOPPAL,2008,Whole Year ,Cotton(lint),10878,15302,25.42,62.5,3.09,614,mixed red and black
+Karnataka,KOPPAL,2009,Whole Year ,Cotton(lint),17514,7430,26.12,61.12,3.16,614,mixed red and black
+Karnataka,KOPPAL,2010,Kharif     ,Cotton(lint),2575,5108,26.24,63.69,2.97,614,mixed red and black
+Karnataka,KOPPAL,2011,Kharif     ,Cotton(lint),4252,10621,26.18,57.75,3.42,614,mixed red and black
+Karnataka,KOPPAL,2012,Kharif     ,Cotton(lint),4919,15393,26.43,56.06,3.32,614,mixed red and black
+Karnataka,KOPPAL,2013,Kharif     ,Cotton(lint),4447,12077,25.94,60.12,3.37,614,mixed red and black
+Karnataka,KOPPAL,2014,Kharif     ,Cotton(lint),12128,36529,25.96,60.88,3.13,614,mixed red and black
+Karnataka,MANDYA,1998,Kharif     ,Cotton(lint),44,65,24.61,70.94,2.45,699,red
+Karnataka,MANDYA,1999,Kharif     ,Cotton(lint),109,121,23.78,69.56,2.59,699,red
+Karnataka,MANDYA,2000,Kharif     ,Cotton(lint),21,32,24.09,68.25,2.69,699,red
+Karnataka,MANDYA,2001,Kharif     ,Cotton(lint),1,2,24.27,68.69,2.66,699,red
+Karnataka,MANDYA,2002,Kharif     ,Cotton(lint),1,2,24.83,65,2.72,699,red
+Karnataka,MANDYA,2003,Kharif     ,Cotton(lint),2,5,25.09,65,2.65,699,red
+Karnataka,MANDYA,2004,Kharif     ,Cotton(lint),5,5,23.97,69.19,2.59,699,red
+Karnataka,MANDYA,2005,Whole Year ,Cotton(lint),5,15,24.22,71.19,2.44,699,red
+Karnataka,MANDYA,2013,Kharif     ,Cotton(lint),4,12,24.47,68.06,2.69,699,red
+Karnataka,MANDYA,2014,Kharif     ,Cotton(lint),5,14,24.58,67,2.57,699,red
+Karnataka,MYSORE,1998,Kharif     ,Cotton(lint),59668,153042,24.61,70.94,2.45,837,red
+Karnataka,MYSORE,1999,Kharif     ,Cotton(lint),63107,154105,23.78,69.56,2.59,837,red
+Karnataka,MYSORE,2000,Kharif     ,Cotton(lint),64715,130909,24.09,68.25,2.69,837,red
+Karnataka,MYSORE,2001,Kharif     ,Cotton(lint),55918,76555,24.27,68.69,2.66,837,red
+Karnataka,MYSORE,2002,Kharif     ,Cotton(lint),36105,31900,24.83,65,2.72,837,red
+Karnataka,MYSORE,2003,Kharif     ,Cotton(lint),42809,33251,25.09,65,2.65,837,red
+Karnataka,MYSORE,2004,Kharif     ,Cotton(lint),72962,83989,23.97,69.19,2.59,837,red
+Karnataka,MYSORE,2005,Whole Year ,Cotton(lint),46606,78651,24.22,71.19,2.44,837,red
+Karnataka,MYSORE,2006,Whole Year ,Cotton(lint),55070,50468,24.08,70.12,2.72,837,red
+Karnataka,MYSORE,2007,Whole Year ,Cotton(lint),52439,35750,24.03,69.81,2.45,837,red
+Karnataka,MYSORE,2008,Whole Year ,Cotton(lint),43629,34863,23.51,72.62,2.46,837,red
+Karnataka,MYSORE,2009,Whole Year ,Cotton(lint),41255,54175,24.38,68.19,2.66,837,red
+Karnataka,MYSORE,2010,Kharif     ,Cotton(lint),38897,62164,24.43,71.31,2.39,837,red
+Karnataka,MYSORE,2011,Kharif     ,Cotton(lint),44335,100051,24.12,68,2.68,837,red
+Karnataka,MYSORE,2012,Kharif     ,Cotton(lint),44424,50145,24.96,63.62,2.72,837,red
+Karnataka,MYSORE,2013,Kharif     ,Cotton(lint),46165,136724,24.47,68.06,2.69,837,red
+Karnataka,MYSORE,2014,Kharif     ,Cotton(lint),48174,85874,24.58,67,2.57,837,red
+Karnataka,RAICHUR,1998,Kharif     ,Cotton(lint),49208,58421,27.37,61.44,2.63,654,black
+Karnataka,RAICHUR,1999,Kharif     ,Cotton(lint),34301,35606,27.22,55.62,2.99,654,black
+Karnataka,RAICHUR,2000,Kharif     ,Cotton(lint),36981,43909,26.93,58.56,2.77,654,black
+Karnataka,RAICHUR,2001,Kharif     ,Cotton(lint),44627,41939,27.31,57.06,2.98,654,black
+Karnataka,RAICHUR,2002,Kharif     ,Cotton(lint),31605,21270,27.58,57.12,2.94,654,black
+Karnataka,RAICHUR,2003,Kharif     ,Cotton(lint),31965,30941,27.98,55.81,2.94,654,black
+Karnataka,RAICHUR,2004,Kharif     ,Cotton(lint),35250,32681,26.89,59.25,2.93,654,black
+Karnataka,RAICHUR,2005,Whole Year ,Cotton(lint),22061,31534,26.4,64.62,2.62,654,black
+Karnataka,RAICHUR,2006,Whole Year ,Cotton(lint),12783,24291,26.82,61.81,2.85,654,black
+Karnataka,RAICHUR,2007,Whole Year ,Cotton(lint),22259,51779,26.72,61.5,2.77,654,black
+Karnataka,RAICHUR,2008,Whole Year ,Cotton(lint),26561,73442,26.7,61,2.8,654,black
+Karnataka,RAICHUR,2009,Whole Year ,Cotton(lint),22101,53381,27.55,58.25,2.91,654,black
+Karnataka,RAICHUR,2010,Kharif     ,Cotton(lint),27086,55465,27.58,61.25,2.77,654,black
+Karnataka,RAICHUR,2011,Kharif     ,Cotton(lint),38467,69268,27.72,54.56,3.1,654,black
+Karnataka,RAICHUR,2012,Kharif     ,Cotton(lint),53170,174109,27.74,54.44,3,654,black
+Karnataka,RAICHUR,2013,Kharif     ,Cotton(lint),55755,165126,27.05,60.12,3.11,654,black
+Karnataka,RAICHUR,2014,Kharif     ,Cotton(lint),104970,302671,27.1,59.38,2.84,2325,black
+Karnataka,SHIMOGA,1998,Kharif     ,Cotton(lint),18011,42405,23.97,76.31,2.45,2325,alluvial
+Karnataka,SHIMOGA,1999,Kharif     ,Cotton(lint),15072,27147,23.09,75.75,2.55,2325,alluvial
+Karnataka,SHIMOGA,2000,Kharif     ,Cotton(lint),9050,13958,23.19,74.88,2.58,2325,alluvial
+Karnataka,SHIMOGA,2001,Kharif     ,Cotton(lint),11760,13537,23.46,74.5,2.59,2325,alluvial
+Karnataka,SHIMOGA,2002,Kharif     ,Cotton(lint),7472,11023,23.92,72.44,2.55,2325,alluvial
+Karnataka,SHIMOGA,2003,Kharif     ,Cotton(lint),4809,7901,24.32,71.69,2.49,2325,alluvial
+Karnataka,SHIMOGA,2004,Kharif     ,Cotton(lint),6223,12067,23.48,73.38,2.57,2325,alluvial
+Karnataka,SHIMOGA,2005,Whole Year ,Cotton(lint),6662,11764,23.75,75.44,2.45,2325,alluvial
+Karnataka,SHIMOGA,2006,Whole Year ,Cotton(lint),9495,18836,23.39,75.75,2.7,2325,alluvial
+Karnataka,SHIMOGA,2007,Whole Year ,Cotton(lint),4063,8923,23.3,76.44,2.45,2325,alluvial
+Karnataka,SHIMOGA,2008,Whole Year ,Cotton(lint),3924,8596,23.05,76.25,2.44,2325,alluvial
+Karnataka,SHIMOGA,2009,Whole Year ,Cotton(lint),1680,2460,23.87,74.75,2.54,2325,alluvial
+Karnataka,SHIMOGA,2010,Kharif     ,Cotton(lint),1479,2942,23.58,79.62,2.3,2325,alluvial
+Karnataka,SHIMOGA,2011,Kharif     ,Cotton(lint),1546,4786,22.98,76.31,2.62,2325,alluvial
+Karnataka,SHIMOGA,2012,Kharif     ,Cotton(lint),986,2265,23.73,72.88,2.51,2325,alluvial
+Karnataka,SHIMOGA,2013,Kharif     ,Cotton(lint),738,1905,23.5,75.06,2.62,2325,alluvial
+Karnataka,SHIMOGA,2014,Kharif     ,Cotton(lint),849,2111,23.62,75.25,2.42,2325,alluvial
+Karnataka,TUMKUR,1998,Kharif     ,Cotton(lint),1343,2020,24.58,67.81,2.68,669,red
+Karnataka,TUMKUR,1999,Kharif     ,Cotton(lint),548,920,23.69,66.31,2.97,669,red
+Karnataka,TUMKUR,2000,Kharif     ,Cotton(lint),695,1493,23.88,65.69,2.96,669,red
+Karnataka,TUMKUR,2001,Kharif     ,Cotton(lint),973,1809,24.1,65.69,3.04,669,red
+Karnataka,TUMKUR,2002,Kharif     ,Cotton(lint),856,1576,24.72,62.06,3.14,669,red
+Karnataka,TUMKUR,2003,Kharif     ,Cotton(lint),312,698,25.12,61.19,3.01,669,red
+Karnataka,TUMKUR,2004,Kharif     ,Cotton(lint),786,1186,23.87,66.06,2.96,669,red
+Karnataka,TUMKUR,2005,Whole Year ,Cotton(lint),812,1609,23.98,69.31,2.69,669,red
+Karnataka,TUMKUR,2006,Whole Year ,Cotton(lint),926,1761,24.04,66.56,3.04,669,red
+Karnataka,TUMKUR,2007,Whole Year ,Cotton(lint),1046,2848,23.78,67.88,2.77,669,red
+Karnataka,TUMKUR,2008,Whole Year ,Cotton(lint),668,2529,23.45,69.44,2.77,669,red
+Karnataka,TUMKUR,2009,Whole Year ,Cotton(lint),852,2114,24.17,66.56,2.99,669,red
+Karnataka,TUMKUR,2010,Kharif     ,Cotton(lint),867,2659,24.23,69.88,2.69,669,red
+Karnataka,TUMKUR,2011,Kharif     ,Cotton(lint),1428,4046,23.93,65.19,3.07,669,red
+Karnataka,TUMKUR,2012,Kharif     ,Cotton(lint),1379,3167,24.6,61.75,3.09,669,red
+Karnataka,TUMKUR,2013,Kharif     ,Cotton(lint),753,1675,24.1,66.62,3.01,669,red
+Karnataka,TUMKUR,2014,Kharif     ,Cotton(lint),1742,4507,24.26,65.19,2.88,669,red
+Karnataka,UTTAR KANNAD,1998,Kharif     ,Cotton(lint),6286,14823,25.38,77.88,0.49,2936,laterite
+Karnataka,UTTAR KANNAD,1999,Kharif     ,Cotton(lint),6119,7351,24.87,77.62,0.49,2936,laterite
+Karnataka,UTTAR KANNAD,2000,Kharif     ,Cotton(lint),5888,12536,24.89,76.88,0.49,2936,laterite
+Karnataka,UTTAR KANNAD,2001,Kharif     ,Cotton(lint),5792,10033,25.19,75.56,0.5,2936,laterite
+Karnataka,UTTAR KANNAD,2002,Kharif     ,Cotton(lint),5971,8308,25.59,75.44,0.49,2936,laterite
+Karnataka,UTTAR KANNAD,2003,Kharif     ,Cotton(lint),6247,14522,25.9,74.5,0.48,2936,laterite
+Karnataka,UTTAR KANNAD,2004,Kharif     ,Cotton(lint),7245,10162,25.29,75.25,0.49,2936,laterite
+Karnataka,UTTAR KANNAD,2005,Whole Year ,Cotton(lint),8176,5939,25.23,77.19,0.48,2936,laterite
+Karnataka,UTTAR KANNAD,2006,Whole Year ,Cotton(lint),8335,4285,25.08,77.81,0.5,2936,laterite
+Karnataka,UTTAR KANNAD,2007,Whole Year ,Cotton(lint),5596,5504,25.04,79.31,0.49,2936,laterite
+Karnataka,UTTAR KANNAD,2008,Whole Year ,Cotton(lint),3445,6391,24.84,78.31,0.48,2936,laterite
+Karnataka,UTTAR KANNAD,2009,Whole Year ,Cotton(lint),2783,5287,25.57,77.62,0.48,2936,laterite
+Karnataka,UTTAR KANNAD,2010,Kharif     ,Cotton(lint),2986,8226,25.41,80.62,0.47,2936,laterite
+Karnataka,UTTAR KANNAD,2011,Kharif     ,Cotton(lint),3208,3298,24.84,78.62,0.52,2936,laterite
+Karnataka,UTTAR KANNAD,2012,Kharif     ,Cotton(lint),2597,5964,25.23,76.44,0.48,2936,laterite
+Karnataka,UTTAR KANNAD,2013,Kharif     ,Cotton(lint),1351,2763,25.09,77.38,0.51,2936,laterite
+Karnataka,UTTAR KANNAD,2014,Kharif     ,Cotton(lint),1412,2612,25.38,77.38,0.48,2936,laterite
+Karnataka,YADGIR,2010,Kharif     ,Cotton(lint),33316,87054,27.48,58.75,2.66,719,mixed red and black
+Karnataka,YADGIR,2011,Kharif     ,Cotton(lint),61892,109239,27.44,51.62,2.98,719,mixed red and black
+Karnataka,YADGIR,2012,Kharif     ,Cotton(lint),59706,183167,27.68,50.19,2.88,719,mixed red and black
+Karnataka,YADGIR,2013,Kharif     ,Cotton(lint),80504,381928,26.93,57.5,2.96,719,mixed red and black
+Karnataka,YADGIR,2014,Kharif     ,Cotton(lint),103866,362752,27.08,56,2.73,719,mixed red and black
+Maharashtra,BEED,1997,Whole Year ,Cotton(lint),829,47600,25.98,53.5,2.73,685,black
+Maharashtra,BEED,1998,Kharif     ,Cotton(lint),110300,91400,25.72,58.38,2.64,685,black
+Maharashtra,BEED,1999,Kharif     ,Cotton(lint),111200,87200,25.56,52.12,2.8,685,black
+Maharashtra,BEED,2000,Kharif     ,Cotton(lint),82900,68900,25.76,48.06,2.7,685,black
+Maharashtra,BEED,2001,Kharif     ,Cotton(lint),108000,79800,25.83,51.62,2.78,685,black
+Maharashtra,BEED,2002,Kharif     ,Cotton(lint),78800,55700,26.52,47.81,2.8,685,black
+Maharashtra,BEED,2003,Kharif     ,Cotton(lint),94900,59700,26.69,49.44,2.84,685,black
+Maharashtra,BEED,2004,Whole Year ,Cotton(lint),101500,116600,25.79,53.19,2.73,685,black
+Maharashtra,BEED,2005,Kharif     ,Cotton(lint),138600,161400,25.31,55.81,2.72,685,black
+Maharashtra,BEED,2006,Kharif     ,Cotton(lint),155400,211400,25.41,58.25,2.64,685,black
+Maharashtra,BEED,2007,Kharif     ,Cotton(lint),1882,2888,25.78,54.5,2.61,685,black
+Maharashtra,BEED,2008,Kharif     ,Cotton(lint),205200,208400,25.79,52.81,2.7,685,black
+Maharashtra,BEED,2009,Kharif     ,Cotton(lint),222800,299600,26.27,53.25,2.69,685,black
+Maharashtra,BEED,2010,Kharif     ,Cotton(lint),276800,422200,26.06,59.06,2.58,685,black
+Maharashtra,BEED,2011,Kharif     ,Cotton(lint),329000,418900,25.71,53.81,2.71,685,black
+Maharashtra,BEED,2012,Kharif     ,Cotton(lint),329000,341000,26.25,49.19,2.83,685,black
+Maharashtra,BEED,2013,Kharif     ,Cotton(lint),338600,546400,25.73,56.81,2.87,685,black
+Maharashtra,BEED,2014,Kharif     ,Cotton(lint),373300,167600,26.05,54.25,2.69,685,black
+Maharashtra,GADCHIROLI,2002,Kharif     ,Cotton(lint),400,400,27.51,54,1.79,1000,black
+Maharashtra,GADCHIROLI,2003,Kharif     ,Cotton(lint),100,100,27.23,59.38,1.76,1000,black
+Maharashtra,GADCHIROLI,2004,Whole Year ,Cotton(lint),100,100,26.8,59.56,1.72,1000,black
+Maharashtra,GADCHIROLI,2005,Kharif     ,Cotton(lint),100,100,26.76,60.38,1.63,1000,black
+Maharashtra,GADCHIROLI,2006,Kharif     ,Cotton(lint),200,300,26.8,61.25,1.62,1000,black
+Maharashtra,GADCHIROLI,2007,Kharif     ,Cotton(lint),5,9,27.02,58.25,1.64,1000,black
+Maharashtra,GADCHIROLI,2008,Kharif     ,Cotton(lint),600,800,26.63,59.19,1.6,1000,black
+Maharashtra,GADCHIROLI,2009,Kharif     ,Cotton(lint),2600,3500,27.76,55.31,1.59,1000,black
+Maharashtra,GADCHIROLI,2010,Kharif     ,Cotton(lint),2800,4300,27.65,59.38,1.64,1000,black
+Maharashtra,GADCHIROLI,2011,Kharif     ,Cotton(lint),4200,7000,26.72,59.62,1.59,1000,black
+Maharashtra,GADCHIROLI,2012,Kharif     ,Cotton(lint),5100,9900,27.08,57.25,1.69,1000,black
+Maharashtra,GADCHIROLI,2013,Kharif     ,Cotton(lint),5300,8100,26.64,63.44,1.73,1000,black
+Maharashtra,GADCHIROLI,2014,Kharif     ,Cotton(lint),4200,7600,26.88,60.25,1.7,1000,black
+Maharashtra,HINGOLI,1999,Kharif     ,Cotton(lint),113500,97100,25.9,54.44,2.52,900,black
+Maharashtra,HINGOLI,2000,Kharif     ,Cotton(lint),104300,52500,26.44,47.19,2.44,900,black
+Maharashtra,HINGOLI,2001,Kharif     ,Cotton(lint),93500,97400,26.48,51.81,2.44,900,black
+Maharashtra,HINGOLI,2002,Kharif     ,Cotton(lint),83200,86800,27.1,48.31,2.57,900,black
+Maharashtra,HINGOLI,2003,Kharif     ,Cotton(lint),72500,111900,27.03,51.81,2.6,900,black
+Maharashtra,HINGOLI,2004,Whole Year ,Cotton(lint),71300,65700,26.65,51.88,2.47,900,black
+Maharashtra,HINGOLI,2005,Kharif     ,Cotton(lint),54300,72200,26.13,55.38,2.48,900,black
+Maharashtra,HINGOLI,2006,Kharif     ,Cotton(lint),61900,128900,26,59.06,2.34,900,black
+Maharashtra,HINGOLI,2007,Kharif     ,Cotton(lint),749,2711,26.43,53.94,2.35,900,black
+Maharashtra,HINGOLI,2008,Kharif     ,Cotton(lint),105700,185300,26.48,52.25,2.41,900,black
+Maharashtra,HINGOLI,2009,Kharif     ,Cotton(lint),97000,157900,27.14,51.75,2.45,900,black
+Maharashtra,HINGOLI,2010,Kharif     ,Cotton(lint),81900,133300,26.81,58.25,2.39,900,black
+Maharashtra,HINGOLI,2011,Kharif     ,Cotton(lint),89600,143400,26.33,54.25,2.41,900,black
+Maharashtra,HINGOLI,2012,Kharif     ,Cotton(lint),100900,242100,26.71,50.81,2.55,900,black
+Maharashtra,HINGOLI,2013,Kharif     ,Cotton(lint),96000,192400,26.26,58.31,2.59,900,black
+Maharashtra,HINGOLI,2014,Kharif     ,Cotton(lint),94700,85400,26.83,53.06,2.45,900,black
+Maharashtra,KOLHAPUR,1997,Whole Year ,Cotton(lint),1,100,24.58,66.88,2.9,1137,black
+Maharashtra,KOLHAPUR,1998,Kharif     ,Cotton(lint),100,100,24.61,68.38,2.98,1137,black
+Maharashtra,KOLHAPUR,1999,Kharif     ,Cotton(lint),100,100,24.38,64.56,3.06,1137,black
+Maharashtra,KOLHAPUR,2000,Kharif     ,Cotton(lint),100,100,24.44,63.94,3.01,1137,black
+Maharashtra,KOLHAPUR,2001,Kharif     ,Cotton(lint),100,100,24.64,63.69,3.21,1137,black
+Maharashtra,KOLHAPUR,2002,Kharif     ,Cotton(lint),100,100,25.23,62.25,3.03,1137,black
+Maharashtra,KOLHAPUR,2003,Kharif     ,Cotton(lint),100,100,25.56,61.19,3,1137,black
+Maharashtra,KOLHAPUR,2004,Whole Year ,Cotton(lint),100,100,24.73,63.75,3.09,1137,black
+Maharashtra,KOLHAPUR,2005,Kharif     ,Cotton(lint),100,100,24.44,66.31,3.02,1137,black
+Maharashtra,KOLHAPUR,2006,Kharif     ,Cotton(lint),100,200,24.41,67.44,3.16,1137,black
+Maharashtra,KOLHAPUR,2007,Kharif     ,Cotton(lint),1,1,24.69,66.62,2.97,1137,black
+Maharashtra,KOLHAPUR,2008,Kharif     ,Cotton(lint),100,200,24.4,65.69,3.02,1137,black
+Maharashtra,KOLHAPUR,2009,Kharif     ,Cotton(lint),100,100,25.13,65.31,3,1137,black
+Maharashtra,KOLHAPUR,2010,Kharif     ,Cotton(lint),100,200,25.05,69.31,2.92,1137,black
+Maharashtra,NAGPUR,1997,Whole Year ,Cotton(lint),524,25400,26.53,55.12,2.34,1242,black
+Maharashtra,NAGPUR,1998,Kharif     ,Cotton(lint),56500,69900,26.58,58.62,2.22,1242,black
+Maharashtra,NAGPUR,1999,Kharif     ,Cotton(lint),63400,103700,26.36,54.19,2.33,1242,black
+Maharashtra,NAGPUR,2000,Kharif     ,Cotton(lint),71100,63100,26.73,46.31,2.25,1242,black
+Maharashtra,NAGPUR,2001,Kharif     ,Cotton(lint),80100,76700,26.6,53,2.19,1242,black
+Maharashtra,NAGPUR,2002,Kharif     ,Cotton(lint),73400,71200,27.28,48.94,2.41,1242,black
+Maharashtra,NAGPUR,2003,Kharif     ,Cotton(lint),74300,115400,26.74,56.19,2.31,1242,black
+Maharashtra,NAGPUR,2004,Whole Year ,Cotton(lint),75300,104300,26.9,52.5,2.24,1242,black
+Maharashtra,NAGPUR,2005,Kharif     ,Cotton(lint),73300,98800,26.44,55,2.27,1242,black
+Maharashtra,NAGPUR,2006,Kharif     ,Cotton(lint),67500,84000,26.56,57.88,2.15,1242,black
+Maharashtra,NAGPUR,2007,Kharif     ,Cotton(lint),631,1066,26.72,53.69,2.16,1242,black
+Maharashtra,NAGPUR,2008,Kharif     ,Cotton(lint),44300,63500,26.54,52.81,2.16,1242,black
+Maharashtra,NAGPUR,2009,Kharif     ,Cotton(lint),63600,89000,27.51,51.5,2.2,1242,black
+Maharashtra,NAGPUR,2010,Kharif     ,Cotton(lint),80800,126000,27.26,56.44,2.16,1242,black
+Maharashtra,NAGPUR,2011,Kharif     ,Cotton(lint),102100,141800,26.29,56.25,2.08,1242,black
+Maharashtra,NAGPUR,2012,Kharif     ,Cotton(lint),89400,176700,26.61,53.38,2.34,1242,black
+Maharashtra,NAGPUR,2013,Kharif     ,Cotton(lint),92400,150400,26.27,59.69,2.3,1242,black
+Maharashtra,NAGPUR,2014,Kharif     ,Cotton(lint),111300,150200,26.85,54.88,2.3,915,black
+Maharashtra,NANDED,1997,Whole Year ,Cotton(lint),2752,85000,26.69,55.94,2.38,915,black
+Maharashtra,NANDED,1998,Kharif     ,Cotton(lint),278100,208600,27.01,57.88,2.33,915,black
+Maharashtra,NANDED,1999,Kharif     ,Cotton(lint),274300,176900,26.26,54.31,2.44,915,black
+Maharashtra,NANDED,2000,Kharif     ,Cotton(lint),270000,83400,26.69,48.69,2.36,915,black
+Maharashtra,NANDED,2001,Kharif     ,Cotton(lint),245700,165100,26.72,53,2.41,915,black
+Maharashtra,NANDED,2002,Kharif     ,Cotton(lint),214600,126100,27.35,49.69,2.49,915,black
+Maharashtra,NANDED,2003,Kharif     ,Cotton(lint),215500,202900,27.23,53.69,2.5,915,black
+Maharashtra,NANDED,2004,Whole Year ,Cotton(lint),233200,194900,26.82,53.19,2.46,915,black
+Maharashtra,NANDED,2005,Kharif     ,Cotton(lint),227800,129200,26.33,57.38,2.39,915,black
+Maharashtra,NANDED,2006,Kharif     ,Cotton(lint),215700,129400,26.15,60.56,2.3,915,black
+Maharashtra,NANDED,2007,Kharif     ,Cotton(lint),2078,2730,26.7,54.81,2.28,915,black
+Maharashtra,NANDED,2008,Kharif     ,Cotton(lint),269300,191300,26.43,55.25,2.3,915,black
+Maharashtra,NANDED,2009,Kharif     ,Cotton(lint),257400,197200,27.44,52.06,2.37,915,black
+Maharashtra,NANDED,2010,Kharif     ,Cotton(lint),302100,462200,27.15,58.38,2.32,915,black
+Maharashtra,NANDED,2011,Kharif     ,Cotton(lint),326600,520900,26.65,54.44,2.42,915,black
+Maharashtra,NANDED,2012,Kharif     ,Cotton(lint),326600,527200,27.12,50.75,2.48,915,black
+Maharashtra,NANDED,2013,Kharif     ,Cotton(lint),321100,360900,26.55,59.44,2.5,915,black
+Maharashtra,NANDED,2014,Kharif     ,Cotton(lint),342300,176800,27.13,53.25,2.38,915,black
+Rajasthan,AJMER,1997,Kharif     ,Cotton(lint),16000,31176,24.4,45.5,3.56,559,Red and Alluvial
+Rajasthan,AJMER,1998,Kharif     ,Cotton(lint),15031,2145,25.72,40,3.41,559,Red and Alluvial
+Rajasthan,AJMER,1999,Kharif     ,Cotton(lint),14384,1932,26.58,32.19,3.72,559,Red and Alluvial
+Rajasthan,AJMER,2000,Kharif     ,Cotton(lint),8155,12341,26.31,31.19,3.78,559,Red and Alluvial
+Rajasthan,AJMER,2001,Kharif     ,Cotton(lint),11586,21106,25.73,35.75,3.44,559,Red and Alluvial
+Rajasthan,AJMER,2002,Kharif     ,Cotton(lint),9175,4482,27.08,29.19,3.7,559,Red and Alluvial
+Rajasthan,AJMER,2003,Kharif     ,Cotton(lint),6139,8970,25.58,39.06,3.54,559,Red and Alluvial
+Rajasthan,AJMER,2004,Kharif     ,Cotton(lint),12327,24170,26.06,39.06,3.53,559,Red and Alluvial
+Rajasthan,AJMER,2005,Kharif     ,Cotton(lint),10406,10488,25.58,37.5,3.47,559,Red and Alluvial
+Rajasthan,AJMER,2006,Kharif     ,Cotton(lint),5612,2028,26.41,39.38,3.51,559,Red and Alluvial
+Rajasthan,AJMER,2007,Kharif     ,Cotton(lint),5133,2163,25.95,39.31,3.45,559,Red and Alluvial
+Rajasthan,AJMER,2008,Kharif     ,Cotton(lint),6328,1861,25.44,40.88,3.42,559,Red and Alluvial
+Rajasthan,AJMER,2009,Kharif     ,Cotton(lint),6450,764,26.57,37,3.49,559,Red and Alluvial
+Rajasthan,AJMER,2010,Kharif     ,Cotton(lint),3281,967,25.94,45.12,3.32,559,Red and Alluvial
+Rajasthan,ALWAR,1997,Kharif     ,Cotton(lint),10400,11764,25.53,41.62,3.07,725,alluvial
+Rajasthan,ALWAR,1998,Kharif     ,Cotton(lint),15128,3419,25.88,43.88,3.05,725,alluvial
+Rajasthan,ALWAR,1999,Kharif     ,Cotton(lint),14519,3373,27.34,32.44,3.27,725,alluvial
+Rajasthan,ALWAR,2000,Kharif     ,Cotton(lint),9840,17247,26.92,31.94,3.24,725,alluvial
+Rajasthan,ALWAR,2001,Kharif     ,Cotton(lint),15696,15482,26.82,34,3.05,725,alluvial
+Rajasthan,ALWAR,2002,Kharif     ,Cotton(lint),13865,23382,27.48,33.12,3.07,725,alluvial
+Rajasthan,ALWAR,2003,Kharif     ,Cotton(lint),19364,40135,25.88,43.31,2.74,725,alluvial
+Rajasthan,ALWAR,2004,Kharif     ,Cotton(lint),29522,54700,26.71,40.62,3.09,725,alluvial
+Rajasthan,ALWAR,2005,Kharif     ,Cotton(lint),19243,30111,26.08,40.25,3.12,725,alluvial
+Rajasthan,ALWAR,2006,Kharif     ,Cotton(lint),7230,3034,26.96,39.5,3.22,725,alluvial
+Rajasthan,ALWAR,2007,Kharif     ,Cotton(lint),2973,1073,26.43,40.62,3.09,725,alluvial
+Rajasthan,ALWAR,2008,Kharif     ,Cotton(lint),2372,949,25.84,43.88,2.85,725,alluvial
+Rajasthan,ALWAR,2009,Kharif     ,Cotton(lint),4326,1686,26.99,39.06,2.97,725,alluvial
+Rajasthan,ALWAR,2010,Kharif     ,Cotton(lint),3677,1540,26.51,45.69,2.81,725,alluvial
+Rajasthan,BANSWARA,1997,Kharif     ,Cotton(lint),8300,15882,25.52,53.88,3.66,938,laterite
+Rajasthan,BANSWARA,1998,Kharif     ,Cotton(lint),7992,1425,26.59,48.94,3.55,938,laterite
+Rajasthan,BANSWARA,1999,Kharif     ,Cotton(lint),8821,2179,26.59,45,3.83,938,laterite
+Rajasthan,BANSWARA,2000,Kharif     ,Cotton(lint),10868,8864,26.82,39.62,3.81,938,laterite
+Rajasthan,BANSWARA,2001,Kharif     ,Cotton(lint),11969,10488,26.77,41.38,3.73,938,laterite
+Rajasthan,BANSWARA,2002,Kharif     ,Cotton(lint),11968,4576,27.16,40.5,3.88,938,laterite
+Rajasthan,BANSWARA,2003,Kharif     ,Cotton(lint),12391,36929,26.33,50.12,3.75,938,laterite
+Rajasthan,BANSWARA,2004,Kharif     ,Cotton(lint),15656,25141,26.71,47.44,3.62,938,laterite
+Rajasthan,BANSWARA,2005,Kharif     ,Cotton(lint),14147,31705,26.09,46.88,3.55,938,laterite
+Rajasthan,BANSWARA,2006,Kharif     ,Cotton(lint),13193,2458,26.49,51.62,3.54,938,laterite
+Rajasthan,BANSWARA,2007,Kharif     ,Cotton(lint),11365,3219,26.55,49,3.47,938,laterite
+Rajasthan,BANSWARA,2008,Kharif     ,Cotton(lint),10390,2476,26.41,46.06,3.73,938,laterite
+Rajasthan,BANSWARA,2009,Kharif     ,Cotton(lint),11021,3304,27.04,48.88,3.62,938,laterite
+Rajasthan,BANSWARA,2010,Kharif     ,Cotton(lint),11308,4318,26.87,53.06,3.48,938,laterite
+Rajasthan,BARMER,1998,Kharif     ,Cotton(lint),166,38,27.9,33.25,4.02,311,desert
+Rajasthan,BARMER,1999,Kharif     ,Cotton(lint),90,26,27.98,31.38,4.41,311,desert
+Rajasthan,BARMER,2000,Kharif     ,Cotton(lint),16,24,27.81,30.75,4.52,311,desert
+Rajasthan,BARMER,2001,Kharif     ,Cotton(lint),25,12,27.55,32.31,4.11,311,desert
+Rajasthan,BARMER,2003,Kharif     ,Cotton(lint),1,10,26.9,35.44,4.05,311,desert
+Rajasthan,BARMER,2004,Kharif     ,Cotton(lint),3,5,27.93,33.19,3.94,311,desert
+Rajasthan,BARMER,2005,Kharif     ,Cotton(lint),3,5,27.2,33.56,3.84,311,desert
+Rajasthan,BARMER,2006,Kharif     ,Cotton(lint),14,5,27.04,42.06,3.73,311,desert
+Rajasthan,BARMER,2007,Kharif     ,Cotton(lint),5,2,27.5,36.25,3.86,311,desert
+Rajasthan,BARMER,2008,Kharif     ,Cotton(lint),14,6,27.19,36.12,4.02,311,desert
+Rajasthan,BARMER,2009,Kharif     ,Cotton(lint),10,3,27.93,34.19,3.85,311,desert
+Rajasthan,BARMER,2010,Kharif     ,Cotton(lint),9,4,27.56,39.12,3.7,311,desert
+Rajasthan,BHARATPUR,1997,Kharif     ,Cotton(lint),900,1176,26.01,41.56,3.04,722,alluvial
+Rajasthan,BHARATPUR,1998,Kharif     ,Cotton(lint),1084,249,26.14,44.88,2.94,722,alluvial
+Rajasthan,BHARATPUR,1999,Kharif     ,Cotton(lint),1015,291,27.18,35.62,3.09,722,alluvial
+Rajasthan,BHARATPUR,2000,Kharif     ,Cotton(lint),607,959,27.24,31.94,3.15,722,alluvial
+Rajasthan,BHARATPUR,2001,Kharif     ,Cotton(lint),1110,612,27.09,34.56,2.91,722,alluvial
+Rajasthan,BHARATPUR,2002,Kharif     ,Cotton(lint),799,524,27.62,34.81,3.01,722,alluvial
+Rajasthan,BHARATPUR,2003,Kharif     ,Cotton(lint),860,1776,26.37,42.56,2.74,722,alluvial
+Rajasthan,BHARATPUR,2004,Kharif     ,Cotton(lint),1595,2788,26.98,41.5,3.05,722,alluvial
+Rajasthan,BHARATPUR,2005,Kharif     ,Cotton(lint),1433,2676,26.44,40.56,3.08,722,alluvial
+Rajasthan,BHARATPUR,2006,Kharif     ,Cotton(lint),492,179,27.33,39.44,3.19,722,alluvial
+Rajasthan,BHARATPUR,2007,Kharif     ,Cotton(lint),306,122,26.85,40.12,3.11,722,alluvial
+Rajasthan,BHARATPUR,2008,Kharif     ,Cotton(lint),125,51,26.01,45.38,2.77,722,alluvial
+Rajasthan,BHARATPUR,2009,Kharif     ,Cotton(lint),149,52,27.31,40.44,3.01,722,alluvial
+Rajasthan,BHARATPUR,2010,Kharif     ,Cotton(lint),97,42,26.96,45.31,2.82,722,alluvial
+Rajasthan,BHILWARA,1997,Kharif     ,Cotton(lint),23100,41764,24.1,47.5,3.51,658,grey and drown
+Rajasthan,BHILWARA,1998,Kharif     ,Cotton(lint),18330,5242,25.39,41.31,3.41,658,grey and drown
+Rajasthan,BHILWARA,1999,Kharif     ,Cotton(lint),11821,1935,25.95,35.56,3.67,658,grey and drown
+Rajasthan,BHILWARA,2000,Kharif     ,Cotton(lint),7427,9059,25.8,33.38,3.67,658,grey and drown
+Rajasthan,BHILWARA,2001,Kharif     ,Cotton(lint),6731,6547,25.36,37.19,3.3,658,grey and drown
+Rajasthan,BHILWARA,2002,Kharif     ,Cotton(lint),10641,2965,26.46,32.19,3.67,658,grey and drown
+Rajasthan,BHILWARA,2003,Kharif     ,Cotton(lint),6599,8152,25.33,40.38,3.54,658,grey and drown
+Rajasthan,BHILWARA,2004,Kharif     ,Cotton(lint),9811,10947,25.62,41,3.41,658,grey and drown
+Rajasthan,BHILWARA,2005,Kharif     ,Cotton(lint),12843,20447,25.13,39.69,3.32,658,grey and drown
+Rajasthan,BHILWARA,2006,Kharif     ,Cotton(lint),6454,1573,25.78,43.06,3.34,658,grey and drown
+Rajasthan,BHILWARA,2007,Kharif     ,Cotton(lint),8311,3721,25.51,41.75,3.3,658,grey and drown
+Rajasthan,BHILWARA,2008,Kharif     ,Cotton(lint),15949,3485,25.08,42.38,3.31,658,grey and drown
+Rajasthan,BHILWARA,2009,Kharif     ,Cotton(lint),23339,2666,26.12,39.62,3.45,658,grey and drown
+Rajasthan,BHILWARA,2010,Kharif     ,Cotton(lint),12909,5422,25.53,47.81,3.33,658,grey and drown
+Rajasthan,BIKANER,1997,Kharif     ,Cotton(lint),32000,37058,25.98,36.12,3.61,307,desert
+Rajasthan,BIKANER,1998,Kharif     ,Cotton(lint),35756,12372,27.36,32.62,3.34,307,desert
+Rajasthan,BIKANER,1999,Kharif     ,Cotton(lint),35878,7774,28.11,27.06,3.66,307,desert
+Rajasthan,BIKANER,2000,Kharif     ,Cotton(lint),30688,31470,27.8,26.06,3.85,307,desert
+Rajasthan,BIKANER,2001,Kharif     ,Cotton(lint),17339,11765,27.51,28.69,3.53,307,desert
+Rajasthan,BIKANER,2002,Kharif     ,Cotton(lint),12749,1124,28.4,24.56,3.51,307,desert
+Rajasthan,BIKANER,2003,Kharif     ,Cotton(lint),9986,11476,27,31.75,3.3,307,desert
+Rajasthan,BIKANER,2004,Kharif     ,Cotton(lint),5906,6405,28.07,29.5,3.41,307,desert
+Rajasthan,BIKANER,2005,Kharif     ,Cotton(lint),14701,27382,26.97,32.44,3.38,307,desert
+Rajasthan,BIKANER,2006,Kharif     ,Cotton(lint),4259,1421,27.68,34.5,3.5,307,desert
+Rajasthan,BIKANER,2007,Kharif     ,Cotton(lint),4346,1384,27.5,33.19,3.35,307,desert
+Rajasthan,BIKANER,2008,Kharif     ,Cotton(lint),794,272,27.12,33.56,3.3,307,desert
+Rajasthan,BIKANER,2009,Kharif     ,Cotton(lint),5132,315,27.63,31.88,3.31,307,desert
+Rajasthan,BIKANER,2010,Kharif     ,Cotton(lint),514,149,27.65,34.44,3.19,307,desert
+Rajasthan,BUNDI,1998,Kharif     ,Cotton(lint),11,3,26.51,41.56,3.1,768,mixed red and black
+Rajasthan,BUNDI,1999,Kharif     ,Cotton(lint),33,9,27.06,35.62,3.32,768,mixed red and black
+Rajasthan,BUNDI,2000,Kharif     ,Cotton(lint),23,35,26.86,32.62,3.35,768,mixed red and black
+Rajasthan,BUNDI,2001,Kharif     ,Cotton(lint),110,59,26.39,37.44,2.99,768,mixed red and black
+Rajasthan,BUNDI,2002,Kharif     ,Cotton(lint),39,24,27.55,33.12,3.34,768,mixed red and black
+Rajasthan,BUNDI,2003,Kharif     ,Cotton(lint),24,47,26.28,42,3.16,768,mixed red and black
+Rajasthan,BUNDI,2004,Kharif     ,Cotton(lint),54,94,26.65,41.81,3.12,768,mixed red and black
+Rajasthan,BUNDI,2005,Kharif     ,Cotton(lint),12,23,26.12,40.31,3.12,768,mixed red and black
+Rajasthan,BUNDI,2006,Kharif     ,Cotton(lint),7,3,26.75,43.62,3.14,768,mixed red and black
+Rajasthan,BUNDI,2008,Kharif     ,Cotton(lint),10,4,25.96,43.44,2.98,768,mixed red and black
+Rajasthan,BUNDI,2009,Kharif     ,Cotton(lint),6,2,27.29,40.19,3.19,768,mixed red and black
+Rajasthan,BUNDI,2010,Kharif     ,Cotton(lint),3,1,26.68,47.56,3.03,768,mixed red and black
+Rajasthan,CHITTORGARH,1997,Kharif     ,Cotton(lint),900,1176,24.3,48.69,2.35,885,mixed red and black
+Rajasthan,CHITTORGARH,1998,Kharif     ,Cotton(lint),858,197,25.53,42.5,2.29,885,mixed red and black
+Rajasthan,CHITTORGARH,1999,Kharif     ,Cotton(lint),650,186,25.94,37.44,2.45,885,mixed red and black
+Rajasthan,CHITTORGARH,2000,Kharif     ,Cotton(lint),952,1506,25.86,34.69,2.43,885,mixed red and black
+Rajasthan,CHITTORGARH,2001,Kharif     ,Cotton(lint),1090,600,25.48,37.94,2.21,885,mixed red and black
+Rajasthan,CHITTORGARH,2002,Kharif     ,Cotton(lint),1523,994,26.48,33.5,2.48,885,mixed red and black
+Rajasthan,CHITTORGARH,2003,Kharif     ,Cotton(lint),1519,3135,25.57,41,2.38,885,mixed red and black
+Rajasthan,CHITTORGARH,2004,Kharif     ,Cotton(lint),3480,6076,25.73,42.12,2.27,885,mixed red and black
+Rajasthan,CHITTORGARH,2005,Kharif     ,Cotton(lint),3091,5770,25.2,41.12,2.2,885,mixed red and black
+Rajasthan,CHITTORGARH,2006,Kharif     ,Cotton(lint),2744,555,25.71,45.5,2.2,885,mixed red and black
+Rajasthan,CHITTORGARH,2007,Kharif     ,Cotton(lint),2533,538,25.63,42.94,2.21,885,mixed red and black
+Rajasthan,CHITTORGARH,2008,Kharif     ,Cotton(lint),2766,1128,25.22,43.12,2.23,885,mixed red and black
+Rajasthan,CHITTORGARH,2009,Kharif     ,Cotton(lint),8590,2967,26.21,41.25,2.3,885,mixed red and black
+Rajasthan,CHITTORGARH,2010,Kharif     ,Cotton(lint),5948,3742,25.73,48.62,2.22,885,mixed red and black
+Rajasthan,CHURU,1997,Kharif     ,Cotton(lint),300,588,25.23,39.81,3.09,346,desert
+Rajasthan,CHURU,1998,Kharif     ,Cotton(lint),217,50,26.39,37.19,3.08,346,desert
+Rajasthan,CHURU,1999,Kharif     ,Cotton(lint),347,100,27.67,28.19,3.36,346,desert
+Rajasthan,CHURU,2000,Kharif     ,Cotton(lint),144,229,27.4,27.12,3.46,346,desert
+Rajasthan,CHURU,2001,Kharif     ,Cotton(lint),340,188,26.94,31.5,3.07,346,desert
+Rajasthan,CHURU,2002,Kharif     ,Cotton(lint),469,306,27.87,28,3.2,346,desert
+Rajasthan,CHURU,2003,Kharif     ,Cotton(lint),421,870,26.3,36,2.95,346,desert
+Rajasthan,CHURU,2004,Kharif     ,Cotton(lint),612,1070,27.31,33.38,3.2,346,desert
+Rajasthan,CHURU,2005,Kharif     ,Cotton(lint),360,670,26.17,37.06,3.12,346,desert
+Rajasthan,CHURU,2006,Kharif     ,Cotton(lint),55,20,27.12,36.69,3.3,346,desert
+Rajasthan,CHURU,2007,Kharif     ,Cotton(lint),9,4,26.77,36.44,3.1,346,desert
+Rajasthan,CHURU,2008,Kharif     ,Cotton(lint),3,1,26.3,37.94,3.03,346,desert
+Rajasthan,CHURU,2009,Kharif     ,Cotton(lint),6,2,27.03,34.38,3.02,346,desert
+Rajasthan,CHURU,2010,Kharif     ,Cotton(lint),4,2,26.86,38.81,2.98,346,desert
+Rajasthan,DAUSA,1998,Kharif     ,Cotton(lint),22,5,25.58,43.06,3.13,740.7,alluvial
+Rajasthan,DAUSA,1999,Kharif     ,Cotton(lint),45,13,26.98,31.81,3.36,740.7,alluvial
+Rajasthan,DAUSA,2000,Kharif     ,Cotton(lint),28,41,26.55,31.38,3.38,740.7,alluvial
+Rajasthan,DAUSA,2001,Kharif     ,Cotton(lint),4,0,26.08,35.88,3.11,740.7,alluvial
+Rajasthan,DAUSA,2002,Kharif     ,Cotton(lint),32,24,27.31,31.31,3.25,740.7,alluvial
+Rajasthan,DAUSA,2003,Kharif     ,Cotton(lint),45,94,25.58,42,2.95,740.7,alluvial
+Rajasthan,DAUSA,2004,Kharif     ,Cotton(lint),66,111,26.05,42.12,3.16,740.7,alluvial
+Rajasthan,DAUSA,2005,Kharif     ,Cotton(lint),36,64,25.73,39.06,3.2,740.7,alluvial
+Rajasthan,DAUSA,2006,Kharif     ,Cotton(lint),8,3,26.48,40,3.29,740.7,alluvial
+Rajasthan,DAUSA,2007,Kharif     ,Cotton(lint),95,38,26.01,40.69,3.15,740.7,alluvial
+Rajasthan,DAUSA,2008,Kharif     ,Cotton(lint),26,10,25.56,42.44,2.96,740.7,alluvial
+Rajasthan,DAUSA,2009,Kharif     ,Cotton(lint),101,35,26.6,38.94,3.11,740.7,alluvial
+Rajasthan,DAUSA,2010,Kharif     ,Cotton(lint),18,8,25.94,46.62,2.9,740.7,alluvial
+Rajasthan,DHOLPUR,1999,Kharif     ,Cotton(lint),4,1,26.99,26.99,3.03,740.7,alluvial
+Rajasthan,DHOLPUR,2000,Kharif     ,Cotton(lint),4,6,27.4,27.4,3.2,740.7,alluvial
+Rajasthan,DHOLPUR,2001,Kharif     ,Cotton(lint),2,0,26.87,26.87,2.87,740.7,alluvial
+Rajasthan,DHOLPUR,2002,Kharif     ,Cotton(lint),52,35,27.65,27.65,3.1,740.7,alluvial
+Rajasthan,DHOLPUR,2003,Kharif     ,Cotton(lint),14,29,26.52,26.52,2.82,740.7,alluvial
+Rajasthan,DHOLPUR,2004,Kharif     ,Cotton(lint),12,23,27.05,27.05,3.12,740.7,alluvial
+Rajasthan,DHOLPUR,2005,Kharif     ,Cotton(lint),1,23,26.52,26.52,3.09,740.7,alluvial
+Rajasthan,DHOLPUR,2007,Kharif     ,Cotton(lint),1,23,27.04,27.04,3.13,740.7,alluvial
+Rajasthan,DHOLPUR,2009,Kharif     ,Cotton(lint),6,2,27.33,27.33,3.05,740.7,alluvial
+Rajasthan,DHOLPUR,2010,Kharif     ,Cotton(lint),7,3,26.88,26.88,2.8,740.7,alluvial
+Rajasthan,DUNGARPUR,1998,Kharif     ,Cotton(lint),138,32,26.09,46.12,3.61,300,red
+Rajasthan,DUNGARPUR,1999,Kharif     ,Cotton(lint),119,34,26.39,41.12,3.78,300,red
+Rajasthan,DUNGARPUR,2000,Kharif     ,Cotton(lint),100,159,26.35,38.5,3.81,300,red
+Rajasthan,DUNGARPUR,2001,Kharif     ,Cotton(lint),118,65,26.26,39.62,3.69,300,red
+Rajasthan,DUNGARPUR,2002,Kharif     ,Cotton(lint),113,76,26.93,36.69,3.9,300,red
+Rajasthan,DUNGARPUR,2003,Kharif     ,Cotton(lint),128,264,26.06,45.06,3.81,300,red
+Rajasthan,DUNGARPUR,2004,Kharif     ,Cotton(lint),547,952,26.33,44.75,3.55,300,red
+Rajasthan,DUNGARPUR,2005,Kharif     ,Cotton(lint),391,729,25.55,45.31,3.52,300,red
+Rajasthan,DUNGARPUR,2006,Kharif     ,Cotton(lint),332,121,26.02,49.56,3.48,300,red
+Rajasthan,DUNGARPUR,2007,Kharif     ,Cotton(lint),371,147,26.26,45.75,3.53,300,red
+Rajasthan,DUNGARPUR,2008,Kharif     ,Cotton(lint),393,160,25.88,45,3.7,300,red
+Rajasthan,DUNGARPUR,2009,Kharif     ,Cotton(lint),423,146,26.63,45.25,3.58,300,red
+Rajasthan,DUNGARPUR,2010,Kharif     ,Cotton(lint),463,201,26.24,51.69,3.52,300,red
+Rajasthan,GANGANAGAR,1997,Kharif     ,Cotton(lint),286900,365294,26.23,34.94,2.82,647,desert
+Rajasthan,GANGANAGAR,1998,Kharif     ,Cotton(lint),291897,65093,27.51,30.62,2.8,647,desert
+Rajasthan,GANGANAGAR,1999,Kharif     ,Cotton(lint),272002,79696,28.28,25.88,2.95,647,desert
+Rajasthan,GANGANAGAR,2000,Kharif     ,Cotton(lint),247275,382547,27.74,26.25,3.12,647,desert
+Rajasthan,GANGANAGAR,2001,Kharif     ,Cotton(lint),228737,81176,27.69,28.31,2.79,647,desert
+Rajasthan,GANGANAGAR,2002,Kharif     ,Cotton(lint),177285,116800,28.35,26.31,2.8,647,desert
+Rajasthan,GANGANAGAR,2003,Kharif     ,Cotton(lint),142029,262611,26.88,33.31,2.6,647,desert
+Rajasthan,GANGANAGAR,2004,Kharif     ,Cotton(lint),153670,202782,28.06,29.38,2.77,647,desert
+Rajasthan,GANGANAGAR,2005,Kharif     ,Cotton(lint),196235,312435,26.73,34.62,2.8,647,desert
+Rajasthan,GANGANAGAR,2006,Kharif     ,Cotton(lint),140088,47909,27.53,35.94,2.78,647,desert
+Rajasthan,GANGANAGAR,2007,Kharif     ,Cotton(lint),150590,54067,27.33,35.31,2.62,647,desert
+Rajasthan,GANGANAGAR,2008,Kharif     ,Cotton(lint),94702,37928,26.89,35.25,2.64,647,desert
+Rajasthan,GANGANAGAR,2009,Kharif     ,Cotton(lint),163732,52042,27.35,32.94,2.63,647,desert
+Rajasthan,GANGANAGAR,2010,Kharif     ,Cotton(lint),97362,39232,27.36,34.25,2.56,647,desert
+Rajasthan,HANUMANGARH,1997,Kharif     ,Cotton(lint),215000,268235,25.66,38.25,2.8,482.58,alluvial
+Rajasthan,HANUMANGARH,1998,Kharif     ,Cotton(lint),201201,42386,26.93,34.62,2.84,482.58,alluvial
+Rajasthan,HANUMANGARH,1999,Kharif     ,Cotton(lint),173551,54958,28.08,26.75,3.06,482.58,alluvial
+Rajasthan,HANUMANGARH,2000,Kharif     ,Cotton(lint),165145,294347,27.59,26.88,3.18,482.58,alluvial
+Rajasthan,HANUMANGARH,2001,Kharif     ,Cotton(lint),179476,62288,27.33,30.19,2.8,482.58,alluvial
+Rajasthan,HANUMANGARH,2002,Kharif     ,Cotton(lint),118202,46353,28.16,27.38,2.88,482.58,alluvial
+Rajasthan,HANUMANGARH,2003,Kharif     ,Cotton(lint),117060,265564,26.59,35.19,2.66,482.58,alluvial
+Rajasthan,HANUMANGARH,2004,Kharif     ,Cotton(lint),158081,341270,27.74,31.25,2.84,482.58,alluvial
+Rajasthan,HANUMANGARH,2005,Kharif     ,Cotton(lint),159425,367617,26.45,36.44,2.91,482.58,alluvial
+Rajasthan,HANUMANGARH,2006,Kharif     ,Cotton(lint),144445,56911,27.38,36.38,2.91,482.58,alluvial
+Rajasthan,HANUMANGARH,2007,Kharif     ,Cotton(lint),156714,67810,27.13,36.19,2.75,482.58,alluvial
+Rajasthan,HANUMANGARH,2008,Kharif     ,Cotton(lint),128173,54681,26.51,37.38,2.7,482.58,alluvial
+Rajasthan,HANUMANGARH,2009,Kharif     ,Cotton(lint),174821,71028,27.28,33.5,2.71,482.58,alluvial
+Rajasthan,HANUMANGARH,2010,Kharif     ,Cotton(lint),157244,66888,27.07,37,2.65,482.58,alluvial
+Rajasthan,JAIPUR,1998,Kharif     ,Cotton(lint),232,53,25.43,41.38,3.25,647,grey and drown
+Rajasthan,JAIPUR,1999,Kharif     ,Cotton(lint),200,57,26.7,30.94,3.5,647,grey and drown
+Rajasthan,JAIPUR,2000,Kharif     ,Cotton(lint),111,176,26.3,30.62,3.53,647,grey and drown
+Rajasthan,JAIPUR,2001,Kharif     ,Cotton(lint),196,106,25.8,35.06,3.24,647,grey and drown
+Rajasthan,JAIPUR,2002,Kharif     ,Cotton(lint),289,188,27.12,29.81,3.4,647,grey and drown
+Rajasthan,JAIPUR,2003,Kharif     ,Cotton(lint),299,617,25.4,40.12,3.14,647,grey and drown
+Rajasthan,JAIPUR,2004,Kharif     ,Cotton(lint),789,1376,25.88,40.31,3.26,647,grey and drown
+Rajasthan,JAIPUR,2005,Kharif     ,Cotton(lint),522,976,25.49,38.06,3.32,647,grey and drown
+Rajasthan,JAIPUR,2006,Kharif     ,Cotton(lint),218,79,26.3,39.06,3.38,647,grey and drown
+Rajasthan,JAIPUR,2007,Kharif     ,Cotton(lint),125,50,25.84,39.31,3.28,647,grey and drown
+Rajasthan,JAIPUR,2008,Kharif     ,Cotton(lint),63,26,25.43,40.88,3.12,647,grey and drown
+Rajasthan,JAIPUR,2009,Kharif     ,Cotton(lint),106,26,26.42,37.44,3.26,647,grey and drown
+Rajasthan,JAIPUR,2010,Kharif     ,Cotton(lint),80,35,25.76,45.31,3.01,647,grey and drown
+Rajasthan,JAISALMER,1997,Kharif     ,Cotton(lint),500,588,26.98,33.81,4.27,218,desert
+Rajasthan,JAISALMER,1998,Kharif     ,Cotton(lint),501,115,28.36,29.88,3.93,218,desert
+Rajasthan,JAISALMER,1999,Kharif     ,Cotton(lint),215,62,28.35,28.88,4.38,218,desert
+Rajasthan,JAISALMER,2000,Kharif     ,Cotton(lint),68,106,28.07,28.81,4.51,218,desert
+Rajasthan,JAISALMER,2001,Kharif     ,Cotton(lint),144,76,27.88,30.44,4.17,218,desert
+Rajasthan,JAISALMER,2002,Kharif     ,Cotton(lint),834,547,28.27,27.5,4.1,218,desert
+Rajasthan,JAISALMER,2003,Kharif     ,Cotton(lint),450,929,27.35,32.38,3.79,218,desert
+Rajasthan,JAISALMER,2004,Kharif     ,Cotton(lint),401,700,28.48,29.62,3.81,218,desert
+Rajasthan,JAISALMER,2005,Kharif     ,Cotton(lint),276,517,27.41,32,3.58,218,desert
+Rajasthan,JAISALMER,2006,Kharif     ,Cotton(lint),45,16,27.38,40,3.55,218,desert
+Rajasthan,JAISALMER,2007,Kharif     ,Cotton(lint),9,3,27.94,33.62,3.62,218,desert
+Rajasthan,JAISALMER,2008,Kharif     ,Cotton(lint),39,16,27.6,33.25,3.81,218,desert
+Rajasthan,JAISALMER,2009,Kharif     ,Cotton(lint),105,36,28.2,31.69,3.66,218,desert
+Rajasthan,JAISALMER,2010,Kharif     ,Cotton(lint),39,17,27.9,35.06,3.48,218,desert
+Rajasthan,JALORE,1997,Kharif     ,Cotton(lint),2200,1764,26.08,43.44,3.88,892,black
+Rajasthan,JALORE,1998,Kharif     ,Cotton(lint),2110,675,27.45,38.06,3.73,892,black
+Rajasthan,JALORE,1999,Kharif     ,Cotton(lint),1435,247,28,32.31,4,892,black
+Rajasthan,JALORE,2000,Kharif     ,Cotton(lint),481,600,27.75,31.62,4.08,892,black
+Rajasthan,JALORE,2001,Kharif     ,Cotton(lint),489,1753,27.4,33.94,3.73,892,black
+Rajasthan,JALORE,2002,Kharif     ,Cotton(lint),381,782,28.3,29.12,4.03,892,black
+Rajasthan,JALORE,2003,Kharif     ,Cotton(lint),231,476,26.93,37.75,3.88,892,black
+Rajasthan,JALORE,2004,Kharif     ,Cotton(lint),684,1194,27.73,36,3.76,892,black
+Rajasthan,JALORE,2005,Kharif     ,Cotton(lint),291,541,27.1,35.94,3.66,892,black
+Rajasthan,JALORE,2006,Kharif     ,Cotton(lint),126,46,27.06,44,3.59,892,black
+Rajasthan,JALORE,2007,Kharif     ,Cotton(lint),523,208,27.44,38.44,3.63,892,black
+Rajasthan,JALORE,2008,Kharif     ,Cotton(lint),721,294,26.9,39.62,3.71,892,black
+Rajasthan,JALORE,2009,Kharif     ,Cotton(lint),692,238,27.89,36.75,3.7,892,black
+Rajasthan,JALORE,2010,Kharif     ,Cotton(lint),340,147,27.24,45.5,3.51,892,black
+Rajasthan,JHALAWAR,1998,Kharif     ,Cotton(lint),102,24,26.33,46.56,3.33,1024,mixed red and black
+Rajasthan,JHALAWAR,1999,Kharif     ,Cotton(lint),64,18,26.33,42.94,3.57,1024,mixed red and black
+Rajasthan,JHALAWAR,2000,Kharif     ,Cotton(lint),54,88,26.43,36.69,3.71,1024,mixed red and black
+Rajasthan,JHALAWAR,2001,Kharif     ,Cotton(lint),38,24,26.01,42.31,3.32,1024,mixed red and black
+Rajasthan,JHALAWAR,2002,Kharif     ,Cotton(lint),37,24,27.05,39.12,3.67,1024,mixed red and black
+Rajasthan,JHALAWAR,2003,Kharif     ,Cotton(lint),10,17,25.98,48.5,3.48,1024,mixed red and black
+Rajasthan,JHALAWAR,2004,Kharif     ,Cotton(lint),24,41,26.45,45.62,3.4,1024,mixed red and black
+Rajasthan,JHALAWAR,2005,Kharif     ,Cotton(lint),31,58,25.83,45.62,3.29,1024,mixed red and black
+Rajasthan,JHALAWAR,2006,Kharif     ,Cotton(lint),72,26,26.46,48.69,3.27,1024,mixed red and black
+Rajasthan,JHALAWAR,2007,Kharif     ,Cotton(lint),24,10,26.05,48.25,3.2,1024,mixed red and black
+Rajasthan,JHALAWAR,2008,Kharif     ,Cotton(lint),13,5,25.58,48.5,3.25,1024,mixed red and black
+Rajasthan,JHALAWAR,2009,Kharif     ,Cotton(lint),12,4,26.99,46.44,3.43,1024,mixed red and black
+Rajasthan,JHALAWAR,2010,Kharif     ,Cotton(lint),6,3,26.65,50.69,3.26,423,mixed red and black
+Rajasthan,JHUNJHUNU,1997,Kharif     ,Cotton(lint),800,1176,24.52,41.81,3.11,423,grey and drown
+Rajasthan,JHUNJHUNU,1998,Kharif     ,Cotton(lint),632,145,25.58,39.81,3.12,423,grey and drown
+Rajasthan,JHUNJHUNU,1999,Kharif     ,Cotton(lint),428,123,26.97,29.38,3.42,423,grey and drown
+Rajasthan,JHUNJHUNU,2000,Kharif     ,Cotton(lint),36,59,26.6,28.94,3.43,423,grey and drown
+Rajasthan,JHUNJHUNU,2001,Kharif     ,Cotton(lint),151,82,26.17,33.25,3.12,423,grey and drown
+Rajasthan,JHUNJHUNU,2002,Kharif     ,Cotton(lint),155,100,27.23,29.31,3.24,423,grey and drown
+Rajasthan,JHUNJHUNU,2003,Kharif     ,Cotton(lint),364,752,25.51,38.81,2.98,423,grey and drown
+Rajasthan,JHUNJHUNU,2004,Kharif     ,Cotton(lint),1370,2394,26.41,36.38,3.23,423,grey and drown
+Rajasthan,JHUNJHUNU,2005,Kharif     ,Cotton(lint),976,1823,25.48,38.44,3.15,423,grey and drown
+Rajasthan,JHUNJHUNU,2006,Kharif     ,Cotton(lint),381,138,26.4,38.12,3.34,423,grey and drown
+Rajasthan,JHUNJHUNU,2007,Kharif     ,Cotton(lint),34,13,26,38.12,3.16,423,grey and drown
+Rajasthan,JHUNJHUNU,2008,Kharif     ,Cotton(lint),17,7,25.54,39.94,3.07,423,grey and drown
+Rajasthan,JHUNJHUNU,2009,Kharif     ,Cotton(lint),31,11,26.4,35.94,3.07,423,grey and drown
+Rajasthan,JHUNJHUNU,2010,Kharif     ,Cotton(lint),15,6,26.02,42.31,2.97,423,grey and drown
+Rajasthan,JODHPUR,1997,Kharif     ,Cotton(lint),7600,15882,25.46,25.46,3.78,380,desert
+Rajasthan,JODHPUR,1998,Kharif     ,Cotton(lint),10673,3330,26.86,26.86,3.57,380,desert
+Rajasthan,JODHPUR,1999,Kharif     ,Cotton(lint),12422,4079,27.51,27.51,3.88,380,desert
+Rajasthan,JODHPUR,2000,Kharif     ,Cotton(lint),8057,12323,27.35,27.35,3.98,380,desert
+Rajasthan,JODHPUR,2001,Kharif     ,Cotton(lint),10652,20782,26.8,26.8,3.55,380,desert
+Rajasthan,JODHPUR,2002,Kharif     ,Cotton(lint),8313,11641,28.02,28.02,3.88,380,desert
+Rajasthan,JODHPUR,2003,Kharif     ,Cotton(lint),9440,21117,26.6,26.6,3.75,380,desert
+Rajasthan,JODHPUR,2004,Kharif     ,Cotton(lint),13148,34852,27.36,27.36,3.7,380,desert
+Rajasthan,JODHPUR,2005,Kharif     ,Cotton(lint),11423,25558,26.67,26.67,3.56,380,desert
+Rajasthan,JODHPUR,2006,Kharif     ,Cotton(lint),8131,4334,27.3,27.3,3.62,380,desert
+Rajasthan,JODHPUR,2007,Kharif     ,Cotton(lint),7237,3822,27.08,27.08,3.58,380,desert
+Rajasthan,JODHPUR,2008,Kharif     ,Cotton(lint),9167,4812,26.32,26.32,3.55,380,desert
+Rajasthan,JODHPUR,2009,Kharif     ,Cotton(lint),11022,4578,27.59,27.59,3.62,380,desert
+Rajasthan,JODHPUR,2010,Kharif     ,Cotton(lint),11611,6697,26.92,26.92,3.42,380,desert
+Rajasthan,KOTA,1998,Kharif     ,Cotton(lint),5,1,26.11,26.11,3.24,842,red
+Rajasthan,KOTA,2000,Kharif     ,Cotton(lint),1,1,26.29,26.29,3.55,842,red
+Rajasthan,KOTA,2008,Kharif     ,Cotton(lint),1,1,25.5,25.5,3.22,842,red
+Rajasthan,KOTA,2009,Kharif     ,Cotton(lint),7,2,26.8,26.8,3.36,842,red
+Rajasthan,KOTA,2010,Kharif     ,Cotton(lint),2,1,26.34,26.34,3.21,842,red
+Rajasthan,NAGAUR,1997,Kharif     ,Cotton(lint),10500,22352,24.88,42.62,3.66,409,grey and drown
+Rajasthan,NAGAUR,1998,Kharif     ,Cotton(lint),11081,2323,26.23,37.94,3.38,409,grey and drown
+Rajasthan,NAGAUR,1999,Kharif     ,Cotton(lint),12816,3725,27.09,30.56,3.78,409,grey and drown
+Rajasthan,NAGAUR,2000,Kharif     ,Cotton(lint),7679,13388,26.85,29.38,3.88,409,grey and drown
+Rajasthan,NAGAUR,2001,Kharif     ,Cotton(lint),11566,23247,26.29,33.38,3.54,409,grey and drown
+Rajasthan,NAGAUR,2002,Kharif     ,Cotton(lint),7749,19918,27.63,27.12,3.68,409,grey and drown
+Rajasthan,NAGAUR,2003,Kharif     ,Cotton(lint),9222,28570,26.01,36.56,3.55,409,grey and drown
+Rajasthan,NAGAUR,2004,Kharif     ,Cotton(lint),17794,27564,26.92,34.56,3.59,409,grey and drown
+Rajasthan,NAGAUR,2005,Kharif     ,Cotton(lint),17661,26835,26.08,35.56,3.51,409,grey and drown
+Rajasthan,NAGAUR,2006,Kharif     ,Cotton(lint),9223,3877,26.99,37,3.62,409,grey and drown
+Rajasthan,NAGAUR,2007,Kharif     ,Cotton(lint),7944,4247,26.53,36.88,3.53,409,grey and drown
+Rajasthan,NAGAUR,2008,Kharif     ,Cotton(lint),11759,8029,25.92,38.88,3.48,409,grey and drown
+Rajasthan,NAGAUR,2009,Kharif     ,Cotton(lint),18093,8658,27.01,34.94,3.49,409,grey and drown
+Rajasthan,NAGAUR,2010,Kharif     ,Cotton(lint),20479,11294,26.55,41.44,3.3,409,grey and drown
+Rajasthan,PALI,1997,Kharif     ,Cotton(lint),22100,35294,25.46,45.06,3.78,401,grey and drown
+Rajasthan,PALI,1998,Kharif     ,Cotton(lint),24337,6685,26.86,39.12,3.57,401,grey and drown
+Rajasthan,PALI,1999,Kharif     ,Cotton(lint),15837,4476,27.51,32.56,3.88,401,grey and drown
+Rajasthan,PALI,2000,Kharif     ,Cotton(lint),9180,16435,27.35,31.12,3.98,401,grey and drown
+Rajasthan,PALI,2001,Kharif     ,Cotton(lint),8889,17588,26.8,35,3.55,401,grey and drown
+Rajasthan,PALI,2002,Kharif     ,Cotton(lint),7114,14647,28.02,28.62,3.88,401,grey and drown
+Rajasthan,PALI,2003,Kharif     ,Cotton(lint),4350,10023,26.6,37.69,3.75,401,grey and drown
+Rajasthan,PALI,2004,Kharif     ,Cotton(lint),7327,11623,27.36,36.06,3.7,401,grey and drown
+Rajasthan,PALI,2005,Kharif     ,Cotton(lint),4796,8058,26.67,36.31,3.56,401,grey and drown
+Rajasthan,PALI,2006,Kharif     ,Cotton(lint),3268,1086,27.3,39.69,3.62,401,grey and drown
+Rajasthan,PALI,2007,Kharif     ,Cotton(lint),3449,1179,27.08,38.12,3.58,401,grey and drown
+Rajasthan,PALI,2008,Kharif     ,Cotton(lint),4862,2117,26.32,40.75,3.55,401,grey and drown
+Rajasthan,PALI,2009,Kharif     ,Cotton(lint),4239,1185,27.59,36.38,3.62,401,grey and drown
+Rajasthan,PALI,2010,Kharif     ,Cotton(lint),3304,1772,26.92,45,3.42,401,grey and drown
+Rajasthan,SIKAR,1997,Kharif     ,Cotton(lint),300,588,24.39,42.44,3.33,441,grey and drown
+Rajasthan,SIKAR,1998,Kharif     ,Cotton(lint),498,115,25.61,39.06,3.21,441,grey and drown
+Rajasthan,SIKAR,1999,Kharif     ,Cotton(lint),1190,341,26.73,30.12,3.54,441,grey and drown
+Rajasthan,SIKAR,2000,Kharif     ,Cotton(lint),377,594,26.41,29.44,3.59,441,grey and drown
+Rajasthan,SIKAR,2001,Kharif     ,Cotton(lint),362,200,25.96,33.38,3.3,441,grey and drown
+Rajasthan,SIKAR,2002,Kharif     ,Cotton(lint),567,371,27.16,28.38,3.43,441,grey and drown
+Rajasthan,SIKAR,2003,Kharif     ,Cotton(lint),761,1570,25.5,37.62,3.22,441,grey and drown
+Rajasthan,SIKAR,2004,Kharif     ,Cotton(lint),1104,1929,26.21,36.88,3.34,441,grey and drown
+Rajasthan,SIKAR,2005,Kharif     ,Cotton(lint),850,1588,25.43,37.44,3.33,441,grey and drown
+Rajasthan,SIKAR,2006,Kharif     ,Cotton(lint),307,112,26.36,37.94,3.46,441,grey and drown
+Rajasthan,SIKAR,2007,Kharif     ,Cotton(lint),161,64,25.99,37.5,3.33,441,grey and drown
+Rajasthan,SIKAR,2008,Kharif     ,Cotton(lint),123,50,25.55,39.25,3.24,441,grey and drown
+Rajasthan,SIKAR,2009,Kharif     ,Cotton(lint),161,56,26.38,35.88,3.28,441,grey and drown
+Rajasthan,SIKAR,2010,Kharif     ,Cotton(lint),97,42,25.98,41.94,3.09,441,grey and drown
+Rajasthan,SIROHI,1997,Kharif     ,Cotton(lint),4600,12352,24.42,49.44,3.51,1233,red
+Rajasthan,SIROHI,1998,Kharif     ,Cotton(lint),5006,1727,25.84,42.69,3.53,1233,red
+Rajasthan,SIROHI,1999,Kharif     ,Cotton(lint),4350,1527,26.43,36.5,3.7,1233,red
+Rajasthan,SIROHI,2000,Kharif     ,Cotton(lint),2123,1982,26.26,35.25,3.75,1233,red
+Rajasthan,SIROHI,2001,Kharif     ,Cotton(lint),2231,4918,26,37.38,3.51,1233,red
+Rajasthan,SIROHI,2002,Kharif     ,Cotton(lint),2189,1729,26.87,32.44,3.73,1233,red
+Rajasthan,SIROHI,2003,Kharif     ,Cotton(lint),1147,3505,25.79,40.56,3.68,1233,red
+Rajasthan,SIROHI,2004,Kharif     ,Cotton(lint),2303,3817,26.24,40.5,3.46,1233,red
+Rajasthan,SIROHI,2005,Kharif     ,Cotton(lint),1156,2058,25.55,40.75,3.35,1233,red
+Rajasthan,SIROHI,2006,Kharif     ,Cotton(lint),976,323,25.98,45.44,3.32,1233,red
+Rajasthan,SIROHI,2007,Kharif     ,Cotton(lint),1999,738,26.08,41.81,3.43,1233,red
+Rajasthan,SIROHI,2008,Kharif     ,Cotton(lint),2454,981,25.57,43.25,3.46,1233,red
+Rajasthan,SIROHI,2009,Kharif     ,Cotton(lint),1790,420,26.45,41.06,3.43,1233,red
+Rajasthan,SIROHI,2010,Kharif     ,Cotton(lint),836,363,25.95,48.5,3.35,1233,red
+Rajasthan,TONK,1998,Kharif     ,Cotton(lint),242,56,26.26,41.02,3.11,703,alluvial
+Rajasthan,TONK,1999,Kharif     ,Cotton(lint),293,84,27.12,33.55,3.32,703,alluvial
+Rajasthan,TONK,2000,Kharif     ,Cotton(lint),244,388,26.83,31.54,3.38,703,alluvial
+Rajasthan,TONK,2001,Kharif     ,Cotton(lint),719,394,26.28,36.57,2.99,703,alluvial
+Rajasthan,TONK,2002,Kharif     ,Cotton(lint),593,388,27.58,31.66,3.3,703,alluvial
+Rajasthan,TONK,2003,Kharif     ,Cotton(lint),255,523,26.1,41.19,3.11,703,alluvial
+Rajasthan,TONK,2004,Kharif     ,Cotton(lint),438,764,26.44,41.67,3.11,703,alluvial
+Rajasthan,TONK,2005,Kharif     ,Cotton(lint),318,594,26.07,39.03,3.16,703,alluvial
+Rajasthan,TONK,2006,Kharif     ,Cotton(lint),187,68,26.75,41.63,3.16,703,alluvial
+Rajasthan,TONK,2007,Kharif     ,Cotton(lint),165,65,26.28,41.69,3.05,703,alluvial
+Rajasthan,TONK,2008,Kharif     ,Cotton(lint),85,35,25.91,42.33,2.95,703,alluvial
+Rajasthan,TONK,2009,Kharif     ,Cotton(lint),441,152,27.15,38.95,3.19,703,alluvial
+Rajasthan,TONK,2010,Kharif     ,Cotton(lint),139,60,26.4,47.1,2.98,703,alluvial
+Rajasthan,UDAIPUR,1998,Kharif     ,Cotton(lint),18,4,24.9,45.25,3.58,661,grey and drown
+Rajasthan,UDAIPUR,1999,Kharif     ,Cotton(lint),23,7,25.24,40.12,3.74,661,grey and drown
+Rajasthan,UDAIPUR,2000,Kharif     ,Cotton(lint),23,35,25.17,37.88,3.8,661,grey and drown
+Rajasthan,UDAIPUR,2001,Kharif     ,Cotton(lint),41,29,25.04,39.31,3.59,661,grey and drown
+Rajasthan,UDAIPUR,2002,Kharif     ,Cotton(lint),61,41,25.8,35.62,3.84,661,grey and drown
+Rajasthan,UDAIPUR,2003,Kharif     ,Cotton(lint),76,158,25.04,42.75,3.78,661,grey and drown
+Rajasthan,UDAIPUR,2004,Kharif     ,Cotton(lint),233,405,25.2,43.75,3.51,661,grey and drown
+Rajasthan,UDAIPUR,2005,Kharif     ,Cotton(lint),214,400,24.55,43.75,3.44,661,grey and drown
+Rajasthan,UDAIPUR,2006,Kharif     ,Cotton(lint),168,61,25.06,47.88,3.41,661,grey and drown
+Rajasthan,UDAIPUR,2007,Kharif     ,Cotton(lint),260,103,25.21,44.12,3.5,661,grey and drown
+Rajasthan,UDAIPUR,2008,Kharif     ,Cotton(lint),581,237,24.69,44.94,3.58,661,grey and drown
+Rajasthan,UDAIPUR,2009,Kharif     ,Cotton(lint),756,261,25.51,44,3.52,661,grey and drown
+Rajasthan,UDAIPUR,2010,Kharif     ,Cotton(lint),973,422,25.06,50.94,3.47,992,grey and drown
+Rajasthan,ADILABAD,1997,Kharif     ,Cotton(lint),144900,66500,26.73,57.31,3.29,992,black
+Rajasthan,ADILABAD,1998,Kharif     ,Cotton(lint),162100,154400,27.08,59.44,3.24,992,black
+Rajasthan,ADILABAD,1999,Kharif     ,Cotton(lint),164289,206811,26.38,56.31,3.43,992,black
+Telangana ,ADILABAD,2000,Kharif     ,Cotton(lint),169332,104587,27.06,48.69,3.38,992,black
+Telangana ,ADILABAD,2001,Kharif     ,Cotton(lint),175552,270557,26.91,54.12,3.41,992,black
+Telangana ,ADILABAD,2002,Kharif     ,Cotton(lint),162008,171538,27.53,51,3.52,992,black
+Telangana ,ADILABAD,2003,Kharif     ,Cotton(lint),145297,288030,27.15,56.75,3.48,992,black
+Telangana ,ADILABAD,2004,Kharif     ,Cotton(lint),177911,236517,26.99,54.81,3.44,992,black
+Telangana ,ADILABAD,2005,Kharif     ,Cotton(lint),159415,269130,26.58,58.12,3.29,992,black
+Telangana ,ADILABAD,2006,Kharif     ,Cotton(lint),178770,360695,26.51,60.62,3.19,992,black
+Telangana ,ADILABAD,2007,Kharif     ,Cotton(lint),211000,643000,26.87,56.06,3.2,992,black
+Telangana ,ADILABAD,2008,Kharif     ,Cotton(lint),279353,616220,26.52,56.38,3.16,992,black
+Telangana ,ADILABAD,2009,Kharif     ,Cotton(lint),280536,552821,27.64,52.94,3.21,992,black
+Telangana ,ADILABAD,2010,Kharif     ,Cotton(lint),324981,659520,27.35,58.81,3.2,992,black
+Telangana ,ADILABAD,2011,Kharif     ,Cotton(lint),361169,529006,26.67,56.81,3.25,992,black
+Telangana ,ADILABAD,2013,Kharif     ,Cotton(lint),302845,657994,26.5,61.5,3.48,992,black
+Telangana ,ADILABAD,2014,Kharif     ,Cotton(lint),304424,573033,27.07,55.81,3.32,992,black
+Telangana ,KARIMNAGAR,1997,Kharif     ,Cotton(lint),60400,106300,27.52,58.25,3.11,880,red
+Telangana ,KARIMNAGAR,1998,Kharif     ,Cotton(lint),84300,195800,27.91,60.25,3.13,880,red
+Telangana ,KARIMNAGAR,1999,Kharif     ,Cotton(lint),74813,176911,27.3,55.12,3.41,880,red
+Telangana ,KARIMNAGAR,2000,Kharif     ,Cotton(lint),66576,166048,27.64,52.56,3.26,880,red
+Telangana ,KARIMNAGAR,2001,Kharif     ,Cotton(lint),80520,103729,27.8,54.69,3.4,880,red
+Telangana ,KARIMNAGAR,2002,Kharif     ,Cotton(lint),46302,71087,28.23,53.31,3.42,880,red
+Telangana ,KARIMNAGAR,2003,Kharif     ,Cotton(lint),48689,106829,27.82,58.06,3.41,880,red
+Telangana ,KARIMNAGAR,2004,Kharif     ,Cotton(lint),100110,124843,27.36,57.94,3.42,880,red
+Telangana ,KARIMNAGAR,2005,Kharif     ,Cotton(lint),117500,269559,27.15,60.81,3.23,880,red
+Telangana ,KARIMNAGAR,2006,Kharif     ,Cotton(lint),117151,223276,27.03,62,3.07,880,red
+Telangana ,KARIMNAGAR,2007,Kharif     ,Cotton(lint),137000,452000,27.43,58.5,3.23,880,red
+Telangana ,KARIMNAGAR,2008,Kharif     ,Cotton(lint),180127,425947,27.18,58.56,3.02,880,red
+Telangana ,KARIMNAGAR,2009,Kharif     ,Cotton(lint),199553,461320,28.21,55.19,3.05,880,red
+Telangana ,KARIMNAGAR,2010,Kharif     ,Cotton(lint),235396,502640,27.9,60.88,3.12,880,red
+Telangana ,KARIMNAGAR,2011,Kharif     ,Cotton(lint),235245,293364,27.49,56.38,3.2,880,red
+Telangana ,KARIMNAGAR,2013,Kharif     ,Cotton(lint),231378,669212,26.94,63.44,3.41,880,red
+Telangana ,KARIMNAGAR,2014,Kharif     ,Cotton(lint),214586,585694,27.73,56,3.24,880,red
+Telangana ,KHAMMAM,1997,Kharif     ,Cotton(lint),71000,89400,28.03,65.31,3.2,1148,red
+Telangana ,KHAMMAM,1998,Kharif     ,Cotton(lint),88100,143100,28.24,67.69,3.23,1148,red
+Telangana ,KHAMMAM,1999,Kharif     ,Cotton(lint),80796,139254,27.87,62.31,3.31,1148,red
+Telangana ,KHAMMAM,2000,Kharif     ,Cotton(lint),82875,192075,27.71,65.56,3.16,1148,red
+Telangana ,KHAMMAM,2001,Kharif     ,Cotton(lint),99040,208567,28.01,63.75,3.31,1148,red
+Telangana ,KHAMMAM,2002,Kharif     ,Cotton(lint),70138,117172,28.51,61.88,3.45,1148,red
+Telangana ,KHAMMAM,2003,Kharif     ,Cotton(lint),76338,176475,28.26,64.56,3.41,1148,red
+Telangana ,KHAMMAM,2004,Kharif     ,Cotton(lint),105398,242415,27.58,65.5,3.27,1148,red
+Telangana ,KHAMMAM,2005,Kharif     ,Cotton(lint),109752,220150,27.68,67.75,3.3,1148,red
+Telangana ,KHAMMAM,2006,Kharif     ,Cotton(lint),110101,249346,27.23,69.19,2.99,1148,red
+Telangana ,KHAMMAM,2007,Kharif     ,Cotton(lint),119000,379000,27.37,68.38,3.22,1148,red
+Telangana ,KHAMMAM,2008,Kharif     ,Cotton(lint),124516,317150,27.51,66.81,2.99,1148,red
+Telangana ,KHAMMAM,2009,Kharif     ,Cotton(lint),131900,300266,28.38,63.69,3.09,1148,red
+Telangana ,KHAMMAM,2010,Kharif     ,Cotton(lint),148645,406489,28.06,68.69,3.22,1148,red
+Telangana ,KHAMMAM,2011,Kharif     ,Cotton(lint),171684,211070,28.12,62.75,3.26,1148,red
+Telangana ,KHAMMAM,2013,Kharif     ,Cotton(lint),175049,548747,27.37,68.62,3.41,1148,red
+Telangana ,KHAMMAM,2014,Kharif     ,Cotton(lint),157416,484286,28.16,62.12,3.2,1148,red
+Telangana ,MAHBUBNAGAR,1997,Kharif     ,Cotton(lint),58100,52300,26.57,61.12,3.86,792,black
+Telangana ,MAHBUBNAGAR,1998,Kharif     ,Cotton(lint),93600,77100,26.75,63.69,3.64,792,black
+Telangana ,MAHBUBNAGAR,1999,Kharif     ,Cotton(lint),54897,39720,26.48,57.25,4.07,792,black
+Telangana ,MAHBUBNAGAR,2000,Kharif     ,Cotton(lint),40492,60976,26.2,60.88,3.78,792,black
+Telangana ,MAHBUBNAGAR,2001,Kharif     ,Cotton(lint),63422,77226,26.63,59,3.97,792,black
+Telangana ,MAHBUBNAGAR,2002,Kharif     ,Cotton(lint),43266,57518,26.91,58.88,3.93,792,black
+Telangana ,MAHBUBNAGAR,2003,Kharif     ,Cotton(lint),34979,57407,27.15,58.69,3.97,792,black
+Telangana ,MAHBUBNAGAR,2004,Kharif     ,Cotton(lint),50841,71476,26.21,61.19,3.97,792,black
+Telangana ,MAHBUBNAGAR,2005,Kharif     ,Cotton(lint),47634,67248,25.86,65.56,3.71,792,black
+Telangana ,MAHBUBNAGAR,2006,Kharif     ,Cotton(lint),46844,58417,25.92,64.88,3.88,792,black
+Telangana ,MAHBUBNAGAR,2007,Kharif     ,Cotton(lint),69000,147000,26.03,63.62,3.84,792,black
+Telangana ,MAHBUBNAGAR,2008,Kharif     ,Cotton(lint),90300,103048,26.01,62.75,3.78,792,black
+Telangana ,MAHBUBNAGAR,2009,Kharif     ,Cotton(lint),118702,150123,26.9,59.88,3.84,792,black
+Telangana ,MAHBUBNAGAR,2010,Kharif     ,Cotton(lint),160252,313905,26.84,63.75,3.73,792,black
+Telangana ,MAHBUBNAGAR,2011,Kharif     ,Cotton(lint),185291,219079,26.88,57.31,3.97,792,black
+Telangana ,MAHBUBNAGAR,2013,Kharif     ,Cotton(lint),230606,477929,26.22,56.44,4.12,792,black
+Telangana ,MAHBUBNAGAR,2014,Kharif     ,Cotton(lint),237683,464509,26.47,63.19,3.85,792,black
+Telangana ,MEDAK,1997,Kharif     ,Cotton(lint),12800,13400,26.11,58.62,3.59,835,mountain
+Telangana ,MEDAK,1998,Kharif     ,Cotton(lint),22600,32300,26.55,60.06,3.53,835,mountain
+Telangana ,MEDAK,1999,Kharif     ,Cotton(lint),13815,21373,25.96,54.94,3.87,835,mountain
+Telangana ,MEDAK,2000,Kharif     ,Cotton(lint),10571,17038,26.04,53.94,3.62,835,mountain
+Telangana ,MEDAK,2001,Kharif     ,Cotton(lint),16399,24791,26.19,56.19,3.77,835,mountain
+Telangana ,MEDAK,2002,Kharif     ,Cotton(lint),6960,8843,26.84,53.19,3.84,835,mountain
+Telangana ,MEDAK,2003,Kharif     ,Cotton(lint),5761,13318,26.61,56.94,3.82,835,mountain
+Telangana ,MEDAK,2004,Kharif     ,Cotton(lint),13733,33363,25.97,57.69,3.85,835,mountain
+Telangana ,MEDAK,2005,Kharif     ,Cotton(lint),15994,41208,25.72,61,3.72,835,mountain
+Telangana ,MEDAK,2006,Kharif     ,Cotton(lint),19247,51401,25.47,63.44,3.62,835,mountain
+Telangana ,MEDAK,2007,Kharif     ,Cotton(lint),29000,101000,26.01,58.62,3.64,835,mountain
+Telangana ,MEDAK,2008,Kharif     ,Cotton(lint),49124,117609,25.6,60,3.58,835,mountain
+Telangana ,MEDAK,2009,Kharif     ,Cotton(lint),66019,53980,26.72,55.75,3.7,835,mountain
+Telangana ,MEDAK,2010,Kharif     ,Cotton(lint),78392,127733,26.47,61.5,3.55,835,mountain
+Telangana ,MEDAK,2011,Kharif     ,Cotton(lint),93076,163157,25.98,57.31,3.78,835,mountain
+Telangana ,MEDAK,2013,Kharif     ,Cotton(lint),122299,299547,25.73,62.75,3.89,835,mountain
+Telangana ,MEDAK,2014,Kharif     ,Cotton(lint),133703,233587,26.3,56.44,3.68,835,mountain
+Telangana ,NALGONDA,1997,Kharif     ,Cotton(lint),51400,65300,27.81,62.19,3.45,763,black
+Telangana ,NALGONDA,1998,Kharif     ,Cotton(lint),112700,128600,28.05,64.69,3.38,763,black
+Telangana ,NALGONDA,1999,Kharif     ,Cotton(lint),90658,103457,27.69,58.5,3.59,763,black
+Telangana ,NALGONDA,2000,Kharif     ,Cotton(lint),97120,86837,27.49,62.25,3.36,763,black
+Telangana ,NALGONDA,2001,Kharif     ,Cotton(lint),113516,102832,27.81,60.62,3.55,763,black
+Telangana ,NALGONDA,2002,Kharif     ,Cotton(lint),77391,67376,28.26,59.06,3.66,763,black
+Telangana ,NALGONDA,2003,Kharif     ,Cotton(lint),63615,112262,28.07,61.38,3.61,763,black
+Telangana ,NALGONDA,2004,Kharif     ,Cotton(lint),104151,131108,27.33,62.62,3.53,763,black
+Telangana ,NALGONDA,2005,Kharif     ,Cotton(lint),85598,130915,27.26,65.56,3.44,763,black
+Telangana ,NALGONDA,2006,Kharif     ,Cotton(lint),79993,162809,27.03,66.44,3.3,763,black
+Telangana ,NALGONDA,2007,Kharif     ,Cotton(lint),106000,228000,27.23,64.94,3.45,763,black
+Telangana ,NALGONDA,2008,Kharif     ,Cotton(lint),162522,312616,27.23,63.88,3.27,763,black
+Telangana ,NALGONDA,2009,Kharif     ,Cotton(lint),136408,216648,28.19,60.44,3.39,763,black
+Telangana ,NALGONDA,2010,Kharif     ,Cotton(lint),165112,304000,27.94,65.38,3.4,763,black
+Telangana ,NALGONDA,2011,Kharif     ,Cotton(lint),205359,206567,28.05,58.88,3.53,763,black
+Telangana ,NALGONDA,2013,Kharif     ,Cotton(lint),335976,776447,27.18,65.62,3.68,763,black
+Telangana ,NALGONDA,2014,Kharif     ,Cotton(lint),307792,505141,27.88,59.94,3.41,763,black
+Telangana ,NIZAMABAD,1997,Kharif     ,Cotton(lint),17200,18000,26.16,59.69,3.52,909,laterite
+Telangana ,NIZAMABAD,1998,Kharif     ,Cotton(lint),20000,28500,26.6,61.19,3.48,909,laterite
+Telangana ,NIZAMABAD,1999,Kharif     ,Cotton(lint),15722,24323,25.96,56,3.81,909,laterite
+Telangana ,NIZAMABAD,2000,Kharif     ,Cotton(lint),8374,13497,26.1,55.38,3.56,909,laterite
+Telangana ,NIZAMABAD,2001,Kharif     ,Cotton(lint),10931,16525,26.26,57.38,3.75,909,laterite
+Telangana ,NIZAMABAD,2002,Kharif     ,Cotton(lint),8746,11113,26.87,54.5,3.8,909,laterite
+Telangana ,NIZAMABAD,2003,Kharif     ,Cotton(lint),8588,6416,26.54,58.56,3.79,909,laterite
+Telangana ,NIZAMABAD,2004,Kharif     ,Cotton(lint),13053,8830,25.87,59.5,3.8,909,laterite
+Telangana ,NIZAMABAD,2005,Kharif     ,Cotton(lint),13279,8514,25.73,62.12,3.63,909,laterite
+Telangana ,NIZAMABAD,2006,Kharif     ,Cotton(lint),7932,6066,25.53,64.19,3.52,909,laterite
+Telangana ,NIZAMABAD,2007,Kharif     ,Cotton(lint),9000,15000,26,60,3.58,909,laterite
+Telangana ,NIZAMABAD,2008,Kharif     ,Cotton(lint),11832,29232,25.67,60.81,3.48,909,laterite
+Telangana ,NIZAMABAD,2009,Kharif     ,Cotton(lint),15121,38692,26.79,56.62,3.55,909,laterite
+Telangana ,NIZAMABAD,2010,Kharif     ,Cotton(lint),20431,65379,26.47,62.62,3.52,909,laterite
+Telangana ,NIZAMABAD,2011,Kharif     ,Cotton(lint),23150,31593,26.04,58.12,3.66,909,laterite
+Telangana ,NIZAMABAD,2013,Kharif     ,Cotton(lint),15398,30618,25.65,64.12,3.84,909,laterite
+Telangana ,NIZAMABAD,2014,Kharif     ,Cotton(lint),15795,18861,26.3,57.44,3.62,909,laterite
+Telangana ,WARANGAL,1997,Kharif     ,Cotton(lint),100500,132400,27.15,60,3.27,925,red
+Telangana ,WARANGAL,1998,Kharif     ,Cotton(lint),146300,296100,27.57,61.94,3.27,925,red
+Telangana ,WARANGAL,1999,Kharif     ,Cotton(lint),154855,301512,26.98,56.5,3.52,925,red
+Telangana ,WARANGAL,2000,Kharif     ,Cotton(lint),140591,353959,27.15,56.06,3.34,925,red
+Telangana ,WARANGAL,2001,Kharif     ,Cotton(lint),182478,314506,27.37,57.06,3.54,925,red
+Telangana ,WARANGAL,2002,Kharif     ,Cotton(lint),119478,169378,27.83,55.38,3.58,925,red
+Telangana ,WARANGAL,2003,Kharif     ,Cotton(lint),123549,279075,27.44,59.69,3.55,925,red
+Telangana ,WARANGAL,2004,Kharif     ,Cotton(lint),153026,288049,26.84,60.12,3.54,925,red
+Telangana ,WARANGAL,2005,Kharif     ,Cotton(lint),151260,371922,26.73,62.69,3.39,925,red
+Telangana ,WARANGAL,2006,Kharif     ,Cotton(lint),153639,358792,26.47,64.62,3.19,925,red
+Telangana ,WARANGAL,2007,Kharif     ,Cotton(lint),160000,475000,26.93,61.06,3.37,925,red
+Telangana ,WARANGAL,2008,Kharif     ,Cotton(lint),176419,570767,26.69,61.19,3.16,925,red
+Telangana ,WARANGAL,2009,Kharif     ,Cotton(lint),185340,527674,27.78,57.19,3.23,925,red
+Telangana ,WARANGAL,2010,Kharif     ,Cotton(lint),227973,598094,27.44,63.12,3.27,925,red
+Telangana ,WARANGAL,2011,Kharif     ,Cotton(lint),265814,600427,27.16,57.81,3.35,925,red
+Telangana ,WARANGAL,2013,Kharif     ,Cotton(lint),239789,665182,26.57,64.62,3.59,925,red
+Telangana ,WARANGAL,2014,Kharif     ,Cotton(lint),228057,607705,27.39,57,3.38,925,red

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cotton Crop Yield Prediction</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-image: url('https://www.shutterstock.com/shutterstock/photos/2446976215/display_1500/stock-photo-fields-of-australian-cotton-in-moree-nsw-2446976215.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
+</head>
+<body class="bg-gray-900 bg-opacity-80 flex items-center justify-center min-h-screen">
+    <div class="bg-white bg-opacity-90 shadow-2xl rounded-lg p-8 max-w-4xl w-full">
+      <!-- Title -->
+      <h1 class="text-3xl font-bold mb-6 text-green-800 text-center uppercase tracking-wider">
+        Cotton Crop Yield Prediction
+      </h1>
+      <!-- Form -->
+    <form  action="/predict" method="POST" id="predictionForm" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="space-y-4">
+          <!-- State Selection -->
+          <div>
+            <label for="state_Name" class="block text-sm font-medium text-green-800">State_Name</label>
+            <select id="state_Name" name="state_Name" class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6">
+              <option value="state_Name">Select State</option>
+            </select>
+          </div>
+          <!-- District Selection -->
+          <div>
+            <label for="District_Name" class="block text-sm font-medium text-green-800">District_Name</label>
+            <select id="District_Name" name="District_Name" class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6">
+              <option value="District_Name">Select District</option>
+            </select>
+          </div>
+          <!-- Temperature -->
+          <div>
+            <label for="temperature" class="block text-sm font-medium text-green-800">temperature (°C)</label>
+            <input type="number" onchange="setTwoNumberDecimal" min="0" max="30" step="0.01" value="0.00" name="temperature" id="temperature" class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6" placeholder="Enter temperature">
+          </div>
+          <!-- Humidity -->
+          <div>
+            <label for="humidity" class="block text-sm font-medium text-green-800">Humidity (%)</label>
+            <input type="number" onchange="setTwoNumberDecimal" min="0" max="80" step="0.01" value="0.00" name="humidity" id="humidity" class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6" placeholder="Enter humidity">
+          </div>
+        </div>
+        <!-- Right Column -->
+      <div class="space-y-4">
+          <!-- Wind Speed -->
+          <div>
+            <label for="windSpeed" class="block text-sm font-medium text-green-800">Wind Speed (km/h)</label>
+            <input type="number" onchange="setTwoNumberDecimal" min="0" max="5" step="0.01" value="0.00" id="windSpeed" name="windSpeed" class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6" placeholder="Enter wind speed">
+          </div>
+
+          <!-- Soil Type -->
+          <div>
+            <label for="soil_type" class="block text-sm font-medium text-green-800">Soil_type</label>
+            <select  id="soil_type" name="soil_type" class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6" placeholder="Enter soil type">
+              <option value="soil_type" disabled selected>Select Soil_Type</option>
+              <option value="red">Red</option>
+              <option value="mixed red and black">Mixed red and Black</option>
+              <option value="mountain">Mountain </option>
+              <option value="laterite">Laterite </option>
+              <option value="alluvial">alluvial </option>
+              <option value="grey and drown">grey and Brown </option>
+              <option value="desert">Desert </option>
+              <option value="black">black </option>
+              <option value="red yellow">Red Yellow </option>
+            </select>
+          </div>
+
+          <!-- Area -->
+          <div>
+            <label for="Area" class="block text-sm font-medium text-green-800">Area (hectares)</label>
+            <input type="number" name="Area" id="Area" class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6" placeholder="Enter area">
+          </div>
+           <!-- RAINFALL -->
+          <div>
+            <label for="Rainfall" class="block text-sm font-medium text-green-800">Rainfall (mm)</label>
+            <input type="number" name="Rainfall" id="Rainfall" class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6" placeholder="Enter Rainfall">
+          </div>
+          </div>
+
+
+        <!-- Full Width Button -->
+        <div class="col-span-1 md:col-span-2">
+          <button type="submit" class="w-full bg-green-500 text-white py-3 rounded-lg font-semibold hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 shadow-md btn btn-danger bgn-lg">
+            Predict Yield
+          </button>
+        </div>
+
+    </form>
+
+    {% if prediction %}
+    <h1 class="text-center text-danger">
+      predicted Yield Productions: <br>
+      {{prediction}}
+    </h1>
+    {% endif %}
+
+
+    </div>
+
+    <script>
+      const states= {
+        "Andhra Pradesh":["ANANTAPUR", "CHITTOOR", "EAST GODAVARI", "KADAPA", "KRISHNA", "KURNOOL", "PRAKASAM", "SPSR NELLORE", "SRIKAKULAM", "VISAKHAPATANAM", "VIZIANAGARAM", "WEST GODAVARI"],
+        "Assam":["BAKSA", "BARPETA", "BONGAIGAON", "CACHAR", "DARRANG", "DHEMAJI", "DHUBRI", "DIBRUGARH", "DIMA HASAO", "GOALPARA", "HAILAKANDI", "JORHAT", "KAMRUP", "KARBI ANGLONG", "KARIMGANJ", "KOKRAJHAR", "LAKHIMPUR", "MARIGAON", "NAGAON", "NALBARI", "SIVASAGAR", "SONITPUR", "TINSUKIA"],
+        "Chhattisgarh":["BALRAMPUR", "BASTAR", "BEMETARA", "DURG", "DANTEWADA", "RAIPUR", "RAJNANDGAON", "SURGUJA"],
+        "Haryana":["BHIWANI", "FATEHABAD", "HISAR", "JHAJJAR", "JIND"],
+        "Gujrat":["AMRELI", "ANAND"],
+        "karnataka":["BAGALKOT", "BELGAUM", "BELLARY", "BIDAR", "BIJAPUR", "CHAMARJANAGAR", "CHIKBALLAPUR", "CHITRADURGA", "DAVANGERE", "GADAG", "GULBARGA", "HASSAN", "HAVERI", "KOPPAL", "MANDYA", "MYSORE", "RAICHUR", "SHIMOGA", "TUMKUR", "UTTAR KANNAD", "YADGIR"],
+        "Maharastra":["BEED", "GADCHIROLI", "HINGOLI", "KOLHAPUR", "NAGPUR", "NANDED"],
+        "Rajasthan":["AJMER", "ALWAR", "BANSWARA", "BARAN", "BARMER", "BHARATPUR", "BHILWARA", "BIKANER", "BUNDI", "CHITTORGARH", "CHURU", "DAUSA", "DHOLPUR", "DUNGARPUR", "GANGANAGAR", "HANUMANGARH", "JAIPUR", "JAISALMER", "JALORE", "JHALAWAR", "JHUNJHUNU", "JODHPUR", "KOTA", "NAGAUR", "PALI", "SIKAR", "SIROHI", "TONK", "UDAIPUR"],
+        "Telangana":["KARIMNAGAR", "KHAMMAM", "MAHBUBNAGAR", "MEDAK", "NALGONDA", "NIZAMABAD", "WARANGAL"]
+      };
+
+      const stateSelect = document.getElementById('state_Name');
+      const districtSelect = document.getElementById('District_Name');
+
+      // Populate states
+      for (const state in states) {
+        const option = document.createElement('option');
+        option.value = state;
+        option.textContent = state;
+        stateSelect.appendChild(option);
+      }
+
+      // Update districts based on selected state
+      stateSelect.addEventListener('change', (e) => {
+        const selectedState = e.target.value;
+        districtSelect.innerHTML = '<option value="">Select district</option>';
+        if (states[selectedState]) {
+          states[selectedState].forEach((district) => {
+            const option = document.createElement('option');
+            option.value = district;
+            option.textContent = district;
+            districtSelect.appendChild(option);
+          });
+        }
+      });
+
+      // Form submission (placeholder)
+      document.getElementById('predictionForm').addEventListener('submit', (e) => {
+        // e.preventDefault();
+        alert('Prediction submitted!');
+      });
+
+    </script>
+  </body>
+</html>
+
+
+
